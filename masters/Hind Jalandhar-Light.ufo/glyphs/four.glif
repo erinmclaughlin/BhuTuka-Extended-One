@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="1">
-  <advance width="534"/>
+  <advance width="663"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="108" y="219" type="line"/>
-      <point x="369" y="654" type="line"/>
-      <point x="307" y="654" type="line"/>
-      <point x="45" y="219" type="line"/>
+      <point x="495" y="490" type="line"/>
+      <point x="457" y="490" type="line"/>
+      <point x="10" y="148" type="line"/>
+      <point x="40" y="140" type="line"/>
     </contour>
     <contour>
-      <point x="509" y="164" type="line"/>
-      <point x="509" y="219" type="line"/>
-      <point x="45" y="219" type="line"/>
-      <point x="45" y="164" type="line"/>
+      <point x="653" y="125" type="line"/>
+      <point x="653" y="148" type="line"/>
+      <point x="10" y="148" type="line"/>
+      <point x="10" y="125" type="line"/>
     </contour>
     <contour>
-      <point x="408" y="0" type="line"/>
-      <point x="408" y="654" type="line"/>
-      <point x="348" y="654" type="line"/>
-      <point x="348" y="0" type="line"/>
+      <point x="470" y="-20" type="line"/>
+      <point x="495" y="-20" type="line"/>
+      <point x="495" y="490" type="line"/>
+      <point x="470" y="490" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

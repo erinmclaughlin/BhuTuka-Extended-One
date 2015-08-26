@@ -1,27 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="465"/>
+  <advance width="819"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="263" y="0" type="line"/>
-      <point x="263" y="674" type="line"/>
-      <point x="201" y="674" type="line"/>
-      <point x="201" y="0" type="line"/>
+      <point x="64" y="307" type="line"/>
+      <point x="64" y="467" type="line"/>
+      <point x="755" y="467" type="line"/>
+      <point x="755" y="307" type="line"/>
+      <point x="780" y="307" type="line"/>
+      <point x="780" y="490" type="line"/>
+      <point x="39" y="490" type="line"/>
+      <point x="39" y="307" type="line"/>
     </contour>
     <contour>
-      <point x="450" y="617" type="line"/>
-      <point x="450" y="674" type="line"/>
-      <point x="15" y="674" type="line"/>
-      <point x="15" y="617" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="614" y="23" type="line"/>
+      <point x="204" y="23" type="line"/>
+      <point x="204" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="13" type="line"/>
+      <point x="422" y="477" type="line"/>
+      <point x="397" y="477" type="line"/>
+      <point x="397" y="13" type="line"/>
+    </contour>
+    <contour>
+      <point x="410.0" y="245.0" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="410.0" y="0.0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="410.0" y="490.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

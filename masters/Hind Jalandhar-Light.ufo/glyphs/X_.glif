@@ -1,29 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="1">
-  <advance width="600"/>
+  <advance width="910"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
-      <point x="114" y="0" type="line"/>
-      <point x="295" y="287" type="line"/>
-      <point x="486" y="0" type="line"/>
-      <point x="558" y="0" type="line"/>
-      <point x="329" y="340" type="line"/>
-      <point x="533" y="674" type="line"/>
-      <point x="461" y="674" type="line"/>
-      <point x="294" y="396" type="line"/>
-      <point x="127" y="674" type="line"/>
-      <point x="55" y="674" type="line"/>
-      <point x="260" y="340" type="line"/>
-      <point x="42" y="0" type="line"/>
+      <point x="25" y="490" type="line"/>
+      <point x="25" y="467" type="line"/>
+      <point x="362" y="467" type="line"/>
+      <point x="362" y="490" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="885" y="0" type="line"/>
+      <point x="885" y="23" type="line"/>
+      <point x="549" y="23" type="line"/>
+      <point x="549" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="739" y="12" type="line"/>
+      <point x="466" y="246" type="line"/>
+      <point x="463" y="246" type="line"/>
+      <point x="194" y="477" type="line"/>
+      <point x="157" y="477" type="line"/>
+      <point x="444" y="231" type="line"/>
+      <point x="447" y="231" type="line"/>
+      <point x="702" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="548" y="467" type="line"/>
+      <point x="885" y="467" type="line"/>
+      <point x="885" y="490" type="line"/>
+      <point x="548" y="490" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="361" y="23" type="line"/>
+      <point x="25" y="23" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="361" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="463" y="231" type="line"/>
+      <point x="466" y="231" type="line"/>
+      <point x="753" y="477" type="line"/>
+      <point x="718" y="477" type="line"/>
+      <point x="449" y="246" type="line"/>
+      <point x="446" y="246" type="line"/>
+      <point x="173" y="12" type="line"/>
+      <point x="208" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="455.0" y="490.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="455.0" y="0.0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <integer>6</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

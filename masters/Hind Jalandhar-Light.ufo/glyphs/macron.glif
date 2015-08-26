@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="1">
-  <advance width="400"/>
+  <advance width="617"/>
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="331" y="704" type="line"/>
-      <point x="331" y="749" type="line"/>
-      <point x="68" y="749" type="line"/>
-      <point x="68" y="704" type="line"/>
+      <point x="70" y="592" type="line"/>
+      <point x="70" y="568" type="line"/>
+      <point x="547" y="568" type="line"/>
+      <point x="547" y="592" type="line"/>
+    </contour>
+    <contour>
+      <point x="313.0" y="441.0" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

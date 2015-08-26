@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igrave" format="1">
-  <advance width="221"/>
+  <advance width="409"/>
   <unicode hex="00EC"/>
   <outline>
-    <contour>
-      <point x="141" y="0" type="line"/>
-      <point x="141" y="507" type="line"/>
-      <point x="80" y="507" type="line"/>
-      <point x="80" y="0" type="line"/>
-    </contour>
-    <component base="grave" xOffset="-159" yOffset="-87"/>
+    <component base="idotless"/>
+    <component base="gravecomb" xOffset="-47" yOffset="-64"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

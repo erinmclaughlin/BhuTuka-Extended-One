@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ograve" format="1">
-  <advance width="561"/>
+  <advance width="779"/>
   <unicode hex="00F2"/>
   <outline>
     <component base="o"/>
-    <component base="grave" xOffset="16" yOffset="-86"/>
+    <component base="gravecomb" xOffset="128" yOffset="-34"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

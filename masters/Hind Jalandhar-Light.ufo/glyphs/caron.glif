@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="1">
-  <advance width="400"/>
+  <advance width="464"/>
   <unicode hex="02C7"/>
   <outline>
     <contour>
-      <point x="231" y="648" type="line"/>
-      <point x="350" y="798" type="line"/>
-      <point x="286" y="798" type="line"/>
-      <point x="200" y="691" type="line"/>
-      <point x="113" y="798" type="line"/>
-      <point x="49" y="798" type="line"/>
-      <point x="168" y="648" type="line"/>
+      <point x="232" y="497" type="line"/>
+      <point x="66" y="624" type="line"/>
+      <point x="55" y="611" type="line"/>
+      <point x="222" y="469" type="line"/>
+      <point x="242" y="469" type="line"/>
+      <point x="409" y="611" type="line"/>
+      <point x="398" y="624" type="line"/>
+    </contour>
+    <contour>
+      <point x="232.0" y="391.0" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

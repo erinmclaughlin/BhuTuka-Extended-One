@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="221"/>
+  <advance width="379"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="141" y="0" type="line"/>
-      <point x="141" y="707" type="line"/>
-      <point x="80" y="707" type="line"/>
-      <point x="80" y="0" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="215" y="560" type="line"/>
+      <point x="190" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="560" type="line"/>
+      <point x="10" y="537" type="line"/>
+      <point x="215" y="537" type="line"/>
+      <point x="215" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="375" y="0" type="line"/>
+      <point x="375" y="23" type="line"/>
+      <point x="10" y="23" type="line"/>
+    </contour>
+    <contour>
+      <point x="190.0" y="0.0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="190.0" y="560.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="359.0" y="357.0" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="190.0" y="283.0" type="move" name="center"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

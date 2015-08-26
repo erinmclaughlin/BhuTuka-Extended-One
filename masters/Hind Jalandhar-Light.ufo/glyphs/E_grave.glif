@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Egrave" format="1">
-  <advance width="490"/>
+  <advance width="911"/>
   <unicode hex="00C8"/>
   <outline>
     <component base="E"/>
-    <component base="grave" xOffset="20" yOffset="80"/>
+    <component base="gravecomb" xOffset="194" yOffset="69"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>
