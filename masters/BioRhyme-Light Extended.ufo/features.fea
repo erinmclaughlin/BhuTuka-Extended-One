@@ -1,0 +1,39 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+# automatic
+@Uppercase = [ A A.alt Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gcommaaccent H Hbar I Iacute Icircumflex Idieresis Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q Q.alt R R.alt Racute Rcaron Rcommaaccent S S.alt2 Sacute Scaron Scedilla Germandbls T Tbar Tcaron Tcedilla U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent ];
+
+feature ss01 {
+sub R by R.alt;
+sub Q by Q.alt;
+sub ampersand by ampersand.alt;
+} ss01;
+
+feature ss02 {
+#alternate exit strokes
+sub a by a.alt;
+sub d by d.alt;
+sub u by u.alt;
+} ss02;
+
+feature ss03 {
+#stylistic alternates
+sub ampersand by ampersand_alt1;
+sub f by f.alt;
+sub t by t.alt;
+sub a by a.alt2;
+sub x by x.alt;
+sub s by s.alt;
+sub g by g.alt;
+sub c by c.alt;
+sub section by section.001;
+} ss03;
+
+feature ss04 {
+#numeric alternates
+sub two by two.001;
+sub seven by seven.001;
+} ss04;
+

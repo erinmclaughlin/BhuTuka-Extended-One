@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="1">
+  <advance width="382"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="197" y="530"/>
+      <point x="179" y="517"/>
+      <point x="179" y="499" type="curve"/>
+      <point x="179" y="482"/>
+      <point x="197" y="469"/>
+      <point x="227" y="469" type="curve"/>
+      <point x="258" y="469"/>
+      <point x="274" y="482"/>
+      <point x="274" y="499" type="curve"/>
+      <point x="274" y="517"/>
+      <point x="258" y="530"/>
+      <point x="227" y="530" type="curve"/>
+    </contour>
+    <component base="jdotless"/>
+  </outline>
+</glyph>

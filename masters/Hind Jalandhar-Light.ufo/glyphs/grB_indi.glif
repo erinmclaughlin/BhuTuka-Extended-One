@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grBindi" format="1">
+  <advance width="0"/>
+  <unicode hex="0A02"/>
+  <outline>
+    <contour>
+      <point x="-175" y="747"/>
+      <point x="-156" y="728"/>
+      <point x="-129" y="728" type="curve" smooth="yes"/>
+      <point x="-102" y="728"/>
+      <point x="-81" y="747"/>
+      <point x="-81" y="774" type="curve" smooth="yes"/>
+      <point x="-81" y="800"/>
+      <point x="-102" y="821"/>
+      <point x="-129" y="821" type="curve" smooth="yes"/>
+      <point x="-156" y="821"/>
+      <point x="-175" y="800"/>
+      <point x="-175" y="774" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-129" y="635" type="move" name="_top.bindi"/>
+    </contour>
+  </outline>
+</glyph>
