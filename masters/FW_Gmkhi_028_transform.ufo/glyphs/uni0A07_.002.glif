@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A07.002" format="1">
+  <advance width="1265"/>
+  <outline>
+    <component base="uni0A72" xOffset="476"/>
+    <component base="uni0A3F.002"/>
+    <contour>
+      <point x="1451" y="1248" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

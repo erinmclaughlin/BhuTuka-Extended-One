@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grTippi" format="1">
+  <advance width="0"/>
+  <unicode hex="0A70"/>
+  <outline>
+    <contour>
+      <point x="-286" y="1143" type="line"/>
+      <point x="-311.46" y="1169.8"/>
+      <point x="-334.0" y="1191.2"/>
+      <point x="-334" y="1218" type="curve" smooth="yes"/>
+      <point x="-334.0" y="1264.9"/>
+      <point x="-287.72" y="1298.0"/>
+      <point x="-210" y="1298" type="curve" smooth="yes"/>
+      <point x="-128.26" y="1298.0"/>
+      <point x="-81.0" y="1264.9"/>
+      <point x="-81" y="1218" type="curve" smooth="yes"/>
+      <point x="-81.0" y="1193.88"/>
+      <point x="-97.88" y="1169.8"/>
+      <point x="-122" y="1143" type="curve"/>
+      <point x="-90" y="1143" type="line"/>
+      <point x="-69.9" y="1168.46"/>
+      <point x="-52.0" y="1190.88"/>
+      <point x="-52" y="1215" type="curve" smooth="yes"/>
+      <point x="-52.0" y="1277.98"/>
+      <point x="-115.54" y="1316.0"/>
+      <point x="-208" y="1316" type="curve" smooth="yes"/>
+      <point x="-301.8" y="1316.0"/>
+      <point x="-363.0" y="1276.64"/>
+      <point x="-363" y="1215" type="curve" smooth="yes"/>
+      <point x="-363.0" y="1190.88"/>
+      <point x="-336.42" y="1160.42"/>
+      <point x="-319" y="1143" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="section" format="1">
+  <advance width="1294"/>
+  <unicode hex="00A7"/>
+  <outline>
+    <contour>
+      <point x="943.044776119" y="454.552238806"/>
+      <point x="1147.0" y="594.71641791"/>
+      <point x="1147" y="688" type="qcurve" smooth="yes"/>
+      <point x="1147" y="692" type="line" smooth="yes"/>
+      <point x="1147.0" y="791.253731343"/>
+      <point x="946.537313433" y="918.925373134"/>
+      <point x="754" y="954" type="qcurve" smooth="yes"/>
+      <point x="547.28358209" y="992.805970149"/>
+      <point x="324.0" y="1107.25373134"/>
+      <point x="324" y="1208" type="qcurve" smooth="yes"/>
+      <point x="324" y="1212" type="line" smooth="yes"/>
+      <point x="324.0" y="1299.31343284"/>
+      <point x="500.253731343" y="1413.0"/>
+      <point x="651" y="1413" type="qcurve" smooth="yes"/>
+      <point x="759.955223881" y="1413.0"/>
+      <point x="976.298507463" y="1330.74626866"/>
+      <point x="1036" y="1280" type="qcurve"/>
+      <point x="1065" y="1315" type="line"/>
+      <point x="1002.31343284" y="1367.98507463"/>
+      <point x="773.388059701" y="1454.0"/>
+      <point x="651" y="1454" type="qcurve" smooth="yes"/>
+      <point x="475.626865672" y="1454.0"/>
+      <point x="279.0" y="1309.76119403"/>
+      <point x="279" y="1212" type="qcurve" smooth="yes"/>
+      <point x="279" y="1208" type="line" smooth="yes"/>
+      <point x="279.0" y="1111.73134328"/>
+      <point x="431.567164179" y="998.104477612"/>
+      <point x="545" y="969" type="qcurve"/>
+      <point x="353.955223881" y="979.447761194"/>
+      <point x="150.0" y="838.28358209"/>
+      <point x="150" y="745" type="qcurve" smooth="yes"/>
+      <point x="150" y="741" type="line" smooth="yes"/>
+      <point x="150.0" y="641.746268657"/>
+      <point x="350.462686567" y="514.074626866"/>
+      <point x="543" y="479" type="qcurve" smooth="yes"/>
+      <point x="748.970149254" y="440.940298507"/>
+      <point x="973.0" y="325.746268657"/>
+      <point x="973" y="225" type="qcurve" smooth="yes"/>
+      <point x="973" y="221" type="line" smooth="yes"/>
+      <point x="973.0" y="133.686567164"/>
+      <point x="796.492537313" y="20.0"/>
+      <point x="645" y="20" type="qcurve" smooth="yes"/>
+      <point x="536.791044776" y="20.0"/>
+      <point x="319.701492537" y="103.253731343"/>
+      <point x="260" y="154" type="qcurve"/>
+      <point x="231" y="119" type="line"/>
+      <point x="293.686567164" y="65.2686567164"/>
+      <point x="522.611940299" y="-20.0"/>
+      <point x="645" y="-20" type="qcurve" smooth="yes"/>
+      <point x="821.119402985" y="-20.0"/>
+      <point x="1018.0" y="123.23880597"/>
+      <point x="1018" y="221" type="qcurve" smooth="yes"/>
+      <point x="1018" y="225" type="line" smooth="yes"/>
+      <point x="1018.0" y="321.268656716"/>
+      <point x="864.686567164" y="435.895522388"/>
+      <point x="752" y="465" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="734.28358209" y="498.0"/>
+      <point x="621.149253731" y="508.567164179"/>
+      <point x="551" y="522" type="qcurve" smooth="yes"/>
+      <point x="367.417910448" y="557.074626866"/>
+      <point x="195.0" y="664.402985075"/>
+      <point x="195" y="745" type="qcurve" smooth="yes"/>
+      <point x="195" y="750" type="line" smooth="yes"/>
+      <point x="195.0" y="830.597014925"/>
+      <point x="379.134328358" y="936.0"/>
+      <point x="506" y="936" type="qcurve" smooth="yes"/>
+      <point x="562.71641791" y="936.0"/>
+      <point x="674.850746269" y="925.179104478"/>
+      <point x="745" y="911" type="qcurve" smooth="yes"/>
+      <point x="928.582089552" y="875.925373134"/>
+      <point x="1102.0" y="769.343283582"/>
+      <point x="1102" y="688" type="qcurve" smooth="yes"/>
+      <point x="1102" y="684" type="line" smooth="yes"/>
+      <point x="1102.0" y="602.656716418"/>
+      <point x="917.865671642" y="498.0"/>
+      <point x="791" y="498" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typography.developmentName</key>
+      <string>section</string>
+      <key>org.robofab.fontlab.guidelines</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

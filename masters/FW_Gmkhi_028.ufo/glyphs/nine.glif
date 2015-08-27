@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine" format="1">
+  <advance width="879"/>
+  <unicode hex="0039"/>
+  <outline>
+    <contour>
+      <point x="747" y="601" type="line"/>
+      <point x="747.0" y="425.626865672"/>
+      <point x="503.462686567" y="90.671641791"/>
+      <point x="246" y="25" type="qcurve"/>
+      <point x="268" y="-4" type="line"/>
+      <point x="534.417910448" y="66.1492537313"/>
+      <point x="783.0" y="416.52238806"/>
+      <point x="783" y="621" type="qcurve" smooth="yes"/>
+      <point x="783" y="623" type="line" smooth="yes"/>
+      <point x="783.0" y="630.462686567"/>
+      <point x="783.0" y="627.28358209"/>
+      <point x="783" y="634" type="qcurve" smooth="yes"/>
+      <point x="780.014925373" y="748.179104478"/>
+      <point x="602.597014925" y="921.0"/>
+      <point x="472" y="921" type="qcurve" smooth="yes"/>
+      <point x="319.014925373" y="921.0"/>
+      <point x="138.0" y="756.656716418"/>
+      <point x="138" y="638" type="qcurve" smooth="yes"/>
+      <point x="138.0" y="524.567164179"/>
+      <point x="295.701492537" y="358.0"/>
+      <point x="436" y="358" type="qcurve" smooth="yes"/>
+      <point x="530.029850746" y="358.0"/>
+      <point x="697.074626866" y="436.104477612"/>
+      <point x="762" y="507" type="qcurve"/>
+      <point x="762" y="544" type="line"/>
+      <point x="688.865671642" y="462.656716418"/>
+      <point x="521.835820896" y="394.0"/>
+      <point x="439" y="394" type="qcurve" smooth="yes"/>
+      <point x="324.074626866" y="394.0"/>
+      <point x="174.0" y="537.253731343"/>
+      <point x="174" y="638" type="qcurve" smooth="yes"/>
+      <point x="174.0" y="740.23880597"/>
+      <point x="341.402985075" y="885.0"/>
+      <point x="472" y="885" type="qcurve" smooth="yes"/>
+      <point x="594.388059701" y="885.0"/>
+      <point x="747.0" y="723.71641791"/>
+      <point x="747" y="617" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typography.developmentName</key>
+      <string>nine</string>
+      <key>org.robofab.fontlab.guidelines</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

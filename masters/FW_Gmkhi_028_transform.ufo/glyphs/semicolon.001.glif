@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon.001" format="1">
+  <advance width="351"/>
+  <outline>
+    <component base="period.001" xOffset="-18" yOffset="579"/>
+    <component base="comma.001" xOffset="-18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

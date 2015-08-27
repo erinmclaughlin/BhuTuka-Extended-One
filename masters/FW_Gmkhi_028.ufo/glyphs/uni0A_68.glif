@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A68" format="1">
+  <advance width="974"/>
+  <unicode hex="0A68"/>
+  <outline>
+    <contour>
+      <point x="875" y="27" type="line"/>
+      <point x="802.611940299" y="113.567164179"/>
+      <point x="622.447761194" y="265.447761194"/>
+      <point x="512" y="355" type="qcurve"/>
+      <point x="512" y="341" type="line"/>
+      <point x="658.268656716" y="378.313432836"/>
+      <point x="835.0" y="552.268656716"/>
+      <point x="835" y="656" type="qcurve" smooth="yes"/>
+      <point x="835.0" y="763.462686567"/>
+      <point x="659.970149254" y="919.0"/>
+      <point x="504" y="919" type="qcurve" smooth="yes"/>
+      <point x="421.910447761" y="919.0"/>
+      <point x="235.791044776" y="860.507462687"/>
+      <point x="144" y="812" type="qcurve"/>
+      <point x="144" y="775" type="line"/>
+      <point x="243.253731343" y="827.23880597"/>
+      <point x="417.179104478" y="883.0"/>
+      <point x="503" y="883" type="qcurve" smooth="yes"/>
+      <point x="647.029850746" y="883.0"/>
+      <point x="799.0" y="746.537313433"/>
+      <point x="799" y="654" type="qcurve" smooth="yes"/>
+      <point x="799.0" y="566.686567164"/>
+      <point x="632.985074627" y="397.835820896"/>
+      <point x="480" y="365" type="qcurve"/>
+      <point x="397.910447761" y="366.492537313"/>
+      <point x="327.149253731" y="363.014925373"/>
+      <point x="257" y="366" type="qcurve"/>
+      <point x="256" y="327" type="line"/>
+      <point x="314.955223881" y="325.507462687"/>
+      <point x="389.985074627" y="329.746268657"/>
+      <point x="487" y="329" type="qcurve"/>
+      <point x="581.776119403" y="255.119402985"/>
+      <point x="766.895522388" y="99.5074626866"/>
+      <point x="846" y="1" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

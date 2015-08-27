@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="1475"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="100" y="881" type="line"/>
+      <point x="305" y="881" type="line"/>
+      <point x="313" y="881" type="line"/>
+      <point x="979" y="881" type="line"/>
+      <point x="979" y="922" type="line"/>
+      <point x="322" y="922" type="line"/>
+      <point x="315" y="922" type="line"/>
+      <point x="100" y="922" type="line"/>
+    </contour>
+    <contour>
+      <point x="1343" y="1167" type="line"/>
+      <point x="1265.3880597" y="1293.86567164"/>
+      <point x="1034.59701493" y="1458.0"/>
+      <point x="854" y="1458" type="qcurve" smooth="yes"/>
+      <point x="642.805970149" y="1458.0"/>
+      <point x="340.52238806" y="1143.80597015"/>
+      <point x="295" y="905" type="qcurve" smooth="yes"/>
+      <point x="295" y="905" type="line"/>
+      <point x="286.044776119" y="859.47761194"/>
+      <point x="276.0" y="763.507462687"/>
+      <point x="276" y="715" type="qcurve" smooth="yes"/>
+      <point x="276" y="715" type="line"/>
+      <point x="276.0" y="673.208955224"/>
+      <point x="283.029850746" y="591.059701493"/>
+      <point x="289" y="553" type="qcurve" smooth="yes"/>
+      <point x="289" y="553" type="line"/>
+      <point x="328.552238806" y="294.791044776"/>
+      <point x="641.880597015" y="-25.0"/>
+      <point x="868" y="-25" type="qcurve" smooth="yes"/>
+      <point x="1039.64179104" y="-25.0"/>
+      <point x="1268.14925373" y="153.656716418"/>
+      <point x="1348" y="285" type="qcurve"/>
+      <point x="1311" y="305" type="line"/>
+      <point x="1237.11940299" y="182.611940299"/>
+      <point x="1026.95522388" y="16.0"/>
+      <point x="868" y="16" type="qcurve" smooth="yes"/>
+      <point x="660.537313433" y="16.0"/>
+      <point x="368.059701493" y="316.940298507"/>
+      <point x="330" y="555" type="qcurve" smooth="yes"/>
+      <point x="330" y="555" type="line"/>
+      <point x="324.029850746" y="593.059701493"/>
+      <point x="317.0" y="673.208955224"/>
+      <point x="317" y="715" type="qcurve" smooth="yes"/>
+      <point x="317" y="715" type="line"/>
+      <point x="317.0" y="763.507462687"/>
+      <point x="327.044776119" y="856.970149254"/>
+      <point x="336" y="901" type="qcurve" smooth="yes"/>
+      <point x="336" y="901" type="line"/>
+      <point x="380.029850746" y="1121.14925373"/>
+      <point x="658.47761194" y="1417.0"/>
+      <point x="854" y="1417" type="qcurve" smooth="yes"/>
+      <point x="1021.91044776" y="1417.0"/>
+      <point x="1232.6119403" y="1262.91044776"/>
+      <point x="1305" y="1145" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="100" y="532" type="line"/>
+      <point x="309" y="532" type="line"/>
+      <point x="315" y="532" type="line"/>
+      <point x="979" y="532" type="line"/>
+      <point x="979" y="573" type="line"/>
+      <point x="309" y="573" type="line"/>
+      <point x="303" y="573" type="line"/>
+      <point x="100" y="573" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typography.developmentName</key>
+      <string>Euro</string>
+      <key>org.robofab.fontlab.guidelines</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

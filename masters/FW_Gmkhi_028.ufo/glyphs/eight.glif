@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight" format="1">
+  <advance width="863"/>
+  <unicode hex="0038"/>
+  <outline>
+    <contour>
+      <point x="602.641791045" y="-3.0"/>
+      <point x="769.0" y="146.71641791"/>
+      <point x="769" y="240" type="qcurve" smooth="yes"/>
+      <point x="769" y="243" type="line" smooth="yes"/>
+      <point x="769.0" y="319.119402985"/>
+      <point x="625.432835821" y="460.611940299"/>
+      <point x="512" y="483" type="qcurve"/>
+      <point x="512" y="476" type="line"/>
+      <point x="626.925373134" y="507.343283582"/>
+      <point x="726.0" y="634.552238806"/>
+      <point x="726" y="695" type="qcurve" smooth="yes"/>
+      <point x="726" y="697" type="line" smooth="yes"/>
+      <point x="726.0" y="779.835820896"/>
+      <point x="571.298507463" y="919.0"/>
+      <point x="431" y="919" type="qcurve" smooth="yes"/>
+      <point x="289.955223881" y="919.0"/>
+      <point x="136.0" y="779.835820896"/>
+      <point x="136" y="697" type="qcurve" smooth="yes"/>
+      <point x="136" y="695" type="line" smooth="yes"/>
+      <point x="136.0" y="627.089552239"/>
+      <point x="239.537313433" y="505.343283582"/>
+      <point x="347" y="474" type="qcurve"/>
+      <point x="347" y="481" type="line"/>
+      <point x="220.880597015" y="449.656716418"/>
+      <point x="93.0" y="313.895522388"/>
+      <point x="93" y="243" type="qcurve" smooth="yes"/>
+      <point x="93" y="240" type="line" smooth="yes"/>
+      <point x="93.0" y="151.194029851"/>
+      <point x="257.119402985" y="-3.0"/>
+      <point x="431" y="-3" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="336.970149254" y="493.0"/>
+      <point x="172.0" y="612.910447761"/>
+      <point x="172" y="695" type="qcurve" smooth="yes"/>
+      <point x="172" y="697" type="line" smooth="yes"/>
+      <point x="172.0" y="749.23880597"/>
+      <point x="289.208955224" y="883.0"/>
+      <point x="431" y="883" type="qcurve" smooth="yes"/>
+      <point x="572.791044776" y="883.0"/>
+      <point x="690.0" y="749.23880597"/>
+      <point x="690" y="697" type="qcurve" smooth="yes"/>
+      <point x="690" y="695" type="line" smooth="yes"/>
+      <point x="690.0" y="628.582089552"/>
+      <point x="549.656716418" y="493.0"/>
+      <point x="431" y="493" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="271.298507463" y="33.0"/>
+      <point x="129.0" y="167.597014925"/>
+      <point x="129" y="237" type="qcurve" smooth="yes"/>
+      <point x="129" y="240" type="line" smooth="yes"/>
+      <point x="129.0" y="317.611940299"/>
+      <point x="297.417910448" y="457.0"/>
+      <point x="431" y="457" type="qcurve" smooth="yes"/>
+      <point x="564.582089552" y="457.0"/>
+      <point x="733.0" y="317.611940299"/>
+      <point x="733" y="240" type="qcurve" smooth="yes"/>
+      <point x="733" y="237" type="line" smooth="yes"/>
+      <point x="733.0" y="163.119402985"/>
+      <point x="589.208955224" y="33.0"/>
+      <point x="431" y="33" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typography.developmentName</key>
+      <string>eight</string>
+      <key>org.robofab.fontlab.guidelines</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

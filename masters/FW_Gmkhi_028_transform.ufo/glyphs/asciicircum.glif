@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="1">
+  <advance width="819"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="144" y="1012" type="line"/>
+      <point x="172" y="1012" type="line"/>
+      <point x="410" y="1205" type="line"/>
+      <point x="647" y="1012" type="line"/>
+      <point x="675" y="1012" type="line"/>
+      <point x="419" y="1232" type="line"/>
+      <point x="400" y="1232" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typography.developmentName</key>
+      <string>asciicircum</string>
+      <key>com.typography.legacyFontInfo</key>
+      <dict>
+        <key>Gotham Thin</key>
+        <string>asciicircum</string>
+      </dict>
+      <key>org.robofab.fontlab.guidelines</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

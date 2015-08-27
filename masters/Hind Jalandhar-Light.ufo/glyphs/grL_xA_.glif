@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="grLxA" format="1">
-  <advance width="652"/>
-  <unicode hex="0A33"/>
-  <outline>
-    <component base="grLA"/>
-    <component base="grNukta" xOffset="538" yOffset="-24"/>
-  </outline>
-</glyph>

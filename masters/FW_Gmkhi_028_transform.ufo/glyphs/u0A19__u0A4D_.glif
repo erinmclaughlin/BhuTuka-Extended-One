@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u0A19_u0A4D" format="1">
+  <advance width="1008.0"/>
+  <outline>
+    <contour>
+      <point x="1027" y="290" type="line"/>
+      <point x="216" y="290" type="line"/>
+      <point x="216" y="189" type="line"/>
+      <point x="580" y="189" type="line"/>
+      <point x="660" y="189" name="inserted"/>
+      <point x="786" y="169"/>
+      <point x="832" y="148" type="qcurve"/>
+      <point x="887" y="124" name="inserted"/>
+      <point x="942" y="51"/>
+      <point x="942" y="2" type="qcurve"/>
+      <point x="942" y="-66" name="inserted"/>
+      <point x="827" y="-170"/>
+      <point x="711" y="-208" type="qcurve"/>
+      <point x="782" y="-264" type="line"/>
+      <point x="683" y="-316" type="line"/>
+      <point x="667" y="-303" name="inserted"/>
+      <point x="617" y="-263"/>
+      <point x="583" y="-237" type="qcurve"/>
+      <point x="513" y="-251" name="inserted"/>
+      <point x="395" y="-265"/>
+      <point x="347" y="-265" type="qcurve"/>
+      <point x="299" y="-265" name="inserted"/>
+      <point x="212" y="-250"/>
+      <point x="173" y="-234" type="qcurve"/>
+      <point x="127" y="-216" name="inserted"/>
+      <point x="82" y="-169"/>
+      <point x="82" y="-140" type="qcurve"/>
+      <point x="82" y="-82" name="inserted"/>
+      <point x="191" y="-25"/>
+      <point x="300" y="-25" type="qcurve"/>
+      <point x="377" y="-25" name="inserted"/>
+      <point x="538" y="-83"/>
+      <point x="622" y="-142" type="qcurve"/>
+      <point x="718" y="-114" name="inserted"/>
+      <point x="814" y="-43"/>
+      <point x="814" y="2" type="qcurve"/>
+      <point x="814" y="54" name="inserted"/>
+      <point x="697" y="107"/>
+      <point x="580" y="107" type="qcurve"/>
+      <point x="88" y="107" type="line"/>
+      <point x="88" y="290" type="line"/>
+      <point x="0" y="290" type="line"/>
+      <point x="0" y="364" type="line"/>
+      <point x="1027" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="486" y="-169" type="qcurve"/>
+      <point x="428" y="-133" name="inserted"/>
+      <point x="335" y="-97"/>
+      <point x="300" y="-97" type="qcurve"/>
+      <point x="251" y="-97" name="inserted"/>
+      <point x="202" y="-121"/>
+      <point x="202" y="-145" type="qcurve"/>
+      <point x="202" y="-155" name="inserted"/>
+      <point x="228" y="-171"/>
+      <point x="254" y="-176" type="qcurve"/>
+      <point x="273" y="-179" name="inserted"/>
+      <point x="312" y="-183"/>
+      <point x="332" y="-183" type="qcurve"/>
+      <point x="369" y="-183" name="inserted"/>
+      <point x="446" y="-176"/>
+    </contour>
+    <contour>
+      <point x="1091" y="-601" type="line"/>
+      <point x="990" y="-651" type="line"/>
+      <point x="754" y="-437" type="line"/>
+      <point x="857" y="-390" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

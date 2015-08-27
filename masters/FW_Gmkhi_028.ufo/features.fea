@@ -1,0 +1,119 @@
+feature ss05 {
+  sub uni0A47 by uni0A47.004;
+  sub uni0A48 by uni0A48.004;
+  sub uni0A0F by uni0A0F.004;
+  sub uni0A10 by uni0A10.004;
+  
+} ss05;
+feature ss04 {
+  sub uni0A47 by uni0A47.003;
+  sub uni0A48 by uni0A48.003;
+  sub uni0A0F by uni0A0F.003;
+  sub uni0A10 by uni0A10.003;
+  
+} ss04;
+feature ss03 {
+  sub uni0A47 by uni0A47.002;
+  sub uni0A48 by uni0A48.002;
+  sub uni0A0F by uni0A0F.002;
+  sub uni0A10 by uni0A10.002;
+  
+} ss03;
+feature ss06 {
+  sub uni0A47 by uni0A47.001;
+  sub uni0A48 by uni0A48.001;
+  sub uni0A0F by uni0A0F.001;
+  sub uni0A10 by uni0A10.001;
+  
+} ss06;
+feature ss01 {
+	sub uni0A07 by uni0A07.001;
+  sub uni0A08 by uni0A08.001;
+  sub uni0A3F by uni0A3F.001;
+  sub uni0A40 by uni0A40.001;
+  
+} ss01;
+feature ss02 {
+  sub uni0A07 by uni0A07.002;
+  sub uni0A08 by uni0A08.002;
+  sub uni0A3F by uni0A3F.002;
+  sub uni0A40 by uni0A40.002;
+} ss02;
+feature ss09 {
+  sub uni0A4B by uni0A4B.002;
+} ss09;
+feature ss08 {
+  sub uni0A4B by uni0A4B.001;
+} ss08;
+feature ss07 {
+  sub period by period.001;
+  sub comma by comma.001;
+  sub colon by colon.001;
+  sub colon.alt by colon.alt.001;
+  sub semicolon by semicolon.001;
+  sub ellipsis by ellipsis.001;
+  sub periodcentered by periodcentered.001;
+  sub ampersand by ampersand.001;
+  sub exclam by exclam.001;
+  sub question by question.001;
+  sub quotedblleft by quotedblleft.001;
+  sub quotedblright by quotedblright.001;
+  sub quoteleft by quoteleft.001;
+  sub quoteright by quoteright.001;
+  
+} ss07;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

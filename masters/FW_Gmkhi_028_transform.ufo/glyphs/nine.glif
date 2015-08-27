@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine" format="1">
+  <advance width="703"/>
+  <unicode hex="0039"/>
+  <outline>
+    <contour>
+      <point x="598" y="308" type="line"/>
+      <point x="598" y="217"/>
+      <point x="403" y="45"/>
+      <point x="197" y="11" type="qcurve"/>
+      <point x="214" y="-4" type="line"/>
+      <point x="428" y="32"/>
+      <point x="626" y="213"/>
+      <point x="626" y="318" type="qcurve" smooth="yes"/>
+      <point x="626" y="319" type="line" smooth="yes"/>
+      <point x="626" y="323"/>
+      <point x="626" y="321"/>
+      <point x="626" y="325" type="qcurve" smooth="yes"/>
+      <point x="624" y="383"/>
+      <point x="482" y="472"/>
+      <point x="378" y="472" type="qcurve" smooth="yes"/>
+      <point x="255" y="472"/>
+      <point x="110" y="388"/>
+      <point x="110" y="327" type="qcurve" smooth="yes"/>
+      <point x="110" y="268"/>
+      <point x="237" y="182"/>
+      <point x="349" y="182" type="qcurve" smooth="yes"/>
+      <point x="424" y="182"/>
+      <point x="558" y="223"/>
+      <point x="610" y="259" type="qcurve"/>
+      <point x="610" y="278" type="line"/>
+      <point x="551" y="236"/>
+      <point x="417" y="201"/>
+      <point x="351" y="201" type="qcurve" smooth="yes"/>
+      <point x="259" y="201"/>
+      <point x="139" y="275"/>
+      <point x="139" y="327" type="qcurve" smooth="yes"/>
+      <point x="139" y="379"/>
+      <point x="273" y="454"/>
+      <point x="378" y="454" type="qcurve" smooth="yes"/>
+      <point x="476" y="454"/>
+      <point x="598" y="371"/>
+      <point x="598" y="316" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typography.developmentName</key>
+      <string>nine</string>
+      <key>org.robofab.fontlab.guidelines</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

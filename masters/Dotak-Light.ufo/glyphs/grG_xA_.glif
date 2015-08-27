@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grGxA" format="1">
+  <advance width="1118"/>
+  <unicode hex="0A5A"/>
+  <outline>
+    <component base="uni0A17" xOffset="50"/>
+    <component base="uni0A3C" xOffset="1012"/>
+    <component base="grGA"/>
+    <component base="grNukta" xOffset="810"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

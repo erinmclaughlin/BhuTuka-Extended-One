@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="1">
+  <advance width="901"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="630.507462687" y="528.0"/>
+      <point x="711.089552239" y="603.194029851"/>
+      <point x="729" y="692" type="qcurve"/>
+      <point x="702" y="698" type="line"/>
+      <point x="679.611940299" y="623.373134328"/>
+      <point x="622.567164179" y="569.0"/>
+      <point x="586" y="569" type="qcurve" smooth="yes"/>
+      <point x="561.373134328" y="569.0"/>
+      <point x="498.582089552" y="603.358208955"/>
+      <point x="465" y="625" type="qcurve" smooth="yes"/>
+      <point x="428.432835821" y="647.388059701"/>
+      <point x="351.089552239" y="688.0"/>
+      <point x="319" y="688" type="qcurve" smooth="yes"/>
+      <point x="270.492537313" y="688.0"/>
+      <point x="190.656716418" y="612.805970149"/>
+      <point x="172" y="524" type="qcurve"/>
+      <point x="199" y="518" type="line"/>
+      <point x="221.388059701" y="592.626865672"/>
+      <point x="278.432835821" y="647.0"/>
+      <point x="315" y="647" type="qcurve" smooth="yes"/>
+      <point x="339.626865672" y="647.0"/>
+      <point x="402.417910448" y="613.641791045"/>
+      <point x="436" y="592" type="qcurve" smooth="yes"/>
+      <point x="472.567164179" y="568.865671642"/>
+      <point x="549.910447761" y="528.0"/>
+      <point x="582" y="528" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typography.developmentName</key>
+      <string>asciitilde</string>
+      <key>com.typography.legacyFontInfo</key>
+      <dict>
+        <key>Gotham Thin</key>
+        <string>asciitilde</string>
+      </dict>
+      <key>org.robofab.fontlab.guidelines</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grUU" format="1">
+  <advance width="960.0"/>
+  <unicode hex="0A0A"/>
+  <outline>
+    <component base="grUra"/>
+    <component base="grsignUU" xOffset="930"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

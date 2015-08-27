@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five" format="1">
+  <advance width="829"/>
+  <unicode hex="0035"/>
+  <outline>
+    <contour>
+      <point x="149" y="525" type="line"/>
+      <point x="182" y="526" type="line"/>
+      <point x="242" y="893" type="line"/>
+      <point x="230" y="882" type="line"/>
+      <point x="708" y="882" type="line"/>
+      <point x="708" y="918" type="line"/>
+      <point x="210" y="918" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="525" type="line"/>
+      <point x="158" y="489" type="line"/>
+      <point x="202.029850746" y="496.462686567"/>
+      <point x="334.343283582" y="510.0"/>
+      <point x="403" y="510" type="qcurve" smooth="yes"/>
+      <point x="555.23880597" y="510.0"/>
+      <point x="703.0" y="369.029850746"/>
+      <point x="703" y="275" type="qcurve" smooth="yes"/>
+      <point x="703" y="273" type="line" smooth="yes"/>
+      <point x="703.0" y="165.537313433"/>
+      <point x="546.149253731" y="33.0"/>
+      <point x="426" y="33" type="qcurve" smooth="yes"/>
+      <point x="332.71641791" y="33.0"/>
+      <point x="181.044776119" y="84.5671641791"/>
+      <point x="90" y="148" type="qcurve"/>
+      <point x="76" y="116" type="line"/>
+      <point x="137.194029851" y="68.9850746269"/>
+      <point x="317.029850746" y="-3.0"/>
+      <point x="423" y="-3" type="qcurve" smooth="yes"/>
+      <point x="564.791044776" y="-3.0"/>
+      <point x="739.0" y="149.626865672"/>
+      <point x="739" y="275" type="qcurve" smooth="yes"/>
+      <point x="739" y="278" type="line" smooth="yes"/>
+      <point x="739.0" y="386.955223881"/>
+      <point x="568.194029851" y="546.0"/>
+      <point x="407" y="546" type="qcurve" smooth="yes"/>
+      <point x="349.537313433" y="546.0"/>
+      <point x="233.208955224" y="531.47761194"/>
+      <point x="175" y="527" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typography.developmentName</key>
+      <string>five</string>
+      <key>org.robofab.fontlab.guidelines</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

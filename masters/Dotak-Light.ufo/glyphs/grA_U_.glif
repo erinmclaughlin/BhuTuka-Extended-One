@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grAU" format="1">
+  <advance width="1082"/>
+  <unicode hex="0A14"/>
+  <outline>
+    <component base="uni0A4C" xOffset="1418"/>
+    <component base="grA"/>
+    <component base="grsignAU" xOffset="1081"/>
+    <contour>
+      <point x="1698.0" y="1248.0" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

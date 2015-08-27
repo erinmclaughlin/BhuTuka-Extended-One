@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grII" format="1">
+  <advance width="870"/>
+  <unicode hex="0A08"/>
+  <outline>
+    <component base="grIri"/>
+    <component base="grsignII" xOffset="869"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A0F" format="1">
+  <advance width="889"/>
+  <unicode hex="0A0F"/>
+  <outline>
+    <component base="uni0A72" xOffset="5"/>
+    <component base="uni0A48" xOffset="1088"/>
+    <contour>
+      <point x="1410" y="1248" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

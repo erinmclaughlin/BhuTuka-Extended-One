@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six" format="1">
+  <advance width="879"/>
+  <unicode hex="0036"/>
+  <outline>
+    <contour>
+      <point x="174" y="316" type="line"/>
+      <point x="174.0" y="491.373134328"/>
+      <point x="417.537313433" y="826.328358209"/>
+      <point x="675" y="892" type="qcurve"/>
+      <point x="653" y="921" type="line"/>
+      <point x="386.582089552" y="850.850746269"/>
+      <point x="138.0" y="500.47761194"/>
+      <point x="138" y="296" type="qcurve" smooth="yes"/>
+      <point x="138" y="294" type="line" smooth="yes"/>
+      <point x="138.0" y="286.537313433"/>
+      <point x="138.0" y="289.71641791"/>
+      <point x="138" y="283" type="qcurve" smooth="yes"/>
+      <point x="140.985074627" y="168.820895522"/>
+      <point x="323.47761194" y="-4.0"/>
+      <point x="469" y="-4" type="qcurve" smooth="yes"/>
+      <point x="607.059701493" y="-4.0"/>
+      <point x="783.0" y="160.343283582"/>
+      <point x="783" y="279" type="qcurve" smooth="yes"/>
+      <point x="783.0" y="392.432835821"/>
+      <point x="625.298507463" y="549.0"/>
+      <point x="485" y="549" type="qcurve" smooth="yes"/>
+      <point x="390.970149254" y="549.0"/>
+      <point x="223.925373134" y="460.895522388"/>
+      <point x="159" y="390" type="qcurve"/>
+      <point x="159" y="353" type="line"/>
+      <point x="232.134328358" y="434.343283582"/>
+      <point x="399.164179104" y="513.0"/>
+      <point x="482" y="513" type="qcurve" smooth="yes"/>
+      <point x="596.925373134" y="513.0"/>
+      <point x="747.0" y="379.746268657"/>
+      <point x="747" y="279" type="qcurve" smooth="yes"/>
+      <point x="747.0" y="176.76119403"/>
+      <point x="581.880597015" y="32.0"/>
+      <point x="458" y="32" type="qcurve" smooth="yes"/>
+      <point x="331.134328358" y="32.0"/>
+      <point x="174.0" y="193.28358209"/>
+      <point x="174" y="300" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typography.developmentName</key>
+      <string>six</string>
+      <key>org.robofab.fontlab.guidelines</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

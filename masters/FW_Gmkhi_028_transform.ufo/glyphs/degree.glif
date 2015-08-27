@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="1">
+  <advance width="705"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="446" y="872"/>
+      <point x="586" y="959"/>
+      <point x="586" y="1019" type="qcurve" smooth="yes"/>
+      <point x="586" y="1021" type="line" smooth="yes"/>
+      <point x="586" y="1081"/>
+      <point x="446" y="1168"/>
+      <point x="352" y="1168" type="qcurve" smooth="yes"/>
+      <point x="258" y="1168"/>
+      <point x="118" y="1081"/>
+      <point x="118" y="1021" type="qcurve" smooth="yes"/>
+      <point x="118" y="1019" type="line" smooth="yes"/>
+      <point x="118" y="959"/>
+      <point x="258" y="872"/>
+      <point x="352" y="872" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="270" y="891"/>
+      <point x="150" y="967"/>
+      <point x="150" y="1019" type="qcurve" smooth="yes"/>
+      <point x="150" y="1021" type="line" smooth="yes"/>
+      <point x="150" y="1073"/>
+      <point x="270" y="1149"/>
+      <point x="352" y="1149" type="qcurve" smooth="yes"/>
+      <point x="434" y="1149"/>
+      <point x="554" y="1073"/>
+      <point x="554" y="1021" type="qcurve" smooth="yes"/>
+      <point x="554" y="1019" type="line" smooth="yes"/>
+      <point x="554" y="967"/>
+      <point x="434" y="891"/>
+      <point x="352" y="891" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typography.developmentName</key>
+      <string>degree</string>
+      <key>org.robofab.fontlab.guidelines</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

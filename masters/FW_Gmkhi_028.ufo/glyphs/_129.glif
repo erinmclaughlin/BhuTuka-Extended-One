@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_129" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-235" y="1248" type="move" name="_mark0"/>
+    </contour>
+    <component base="uni0A48"/>
+    <component base="uni0A3C" xOffset="944" yOffset="1145"/>
+  </outline>
+</glyph>
