@@ -3,14 +3,14 @@
   <advance width="377"/>
   <outline>
     <contour>
-      <point x="377" y="472" type="line"/>
+      <point x="377" y="467" type="line"/>
       <point x="377" y="490" type="line"/>
       <point x="0" y="490" type="line"/>
-      <point x="0" y="472" type="line"/>
+      <point x="0" y="467" type="line"/>
     </contour>
     <contour>
-      <point x="174" y="490" type="line"/>
-      <point x="174" y="159" type="line"/>
+      <point x="177" y="490" type="line"/>
+      <point x="177" y="159" type="line"/>
       <point x="202" y="159" type="line"/>
       <point x="202" y="490" type="line"/>
     </contour>
@@ -19,7 +19,126 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>377</integer>
+                  <key>y</key>
+                  <integer>472</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>377</integer>
+                  <key>y</key>
+                  <integer>490</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>0</integer>
+                  <key>y</key>
+                  <integer>490</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>0</integer>
+                  <key>y</key>
+                  <integer>472</integer>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>174</integer>
+                  <key>y</key>
+                  <integer>490</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>174</integer>
+                  <key>y</key>
+                  <integer>159</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>202</integer>
+                  <key>y</key>
+                  <integer>159</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>202</integer>
+                  <key>y</key>
+                  <integer>490</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>grsignAA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>377</integer>
+        </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

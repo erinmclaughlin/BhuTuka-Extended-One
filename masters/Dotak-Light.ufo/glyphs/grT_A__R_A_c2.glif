@@ -1,56 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grTA_RAc2" format="1">
-  <advance width="479"/>
+  <advance width="909"/>
   <outline>
-    <contour>
-      <point x="499" y="635" type="line"/>
-      <point x="-20" y="635" type="line"/>
-      <point x="-20" y="580" type="line"/>
-      <point x="499" y="580" type="line"/>
-    </contour>
-    <contour>
-      <point x="275" y="586" type="line"/>
-      <point x="307" y="567"/>
-      <point x="334" y="534"/>
-      <point x="334" y="479" type="curve" smooth="yes"/>
-      <point x="334" y="422"/>
-      <point x="305" y="366"/>
-      <point x="211" y="366" type="curve" smooth="yes"/>
-      <point x="121" y="366" type="line"/>
-      <point x="121" y="334" type="line"/>
-      <point x="289" y="331" type="line"/>
-      <point x="348" y="349"/>
-      <point x="396" y="408"/>
-      <point x="396" y="480" type="curve" smooth="yes"/>
-      <point x="396" y="542"/>
-      <point x="365" y="571"/>
-      <point x="347" y="586" type="curve"/>
-    </contour>
-    <contour>
-      <point x="121" y="343" type="line"/>
-      <point x="121" y="311" type="line"/>
-      <point x="208" y="311" type="line" smooth="yes"/>
-      <point x="307" y="311"/>
-      <point x="367" y="267"/>
-      <point x="367" y="182" type="curve" smooth="yes"/>
-      <point x="367" y="91"/>
-      <point x="297" y="52"/>
-      <point x="210" y="52" type="curve" smooth="yes"/>
-      <point x="124" y="52"/>
-      <point x="57" y="78"/>
-      <point x="0" y="108" type="curve"/>
-      <point x="0" y="46" type="line"/>
-      <point x="61" y="16"/>
-      <point x="126" y="-5"/>
-      <point x="211" y="-5" type="curve" smooth="yes"/>
-      <point x="352" y="-5"/>
-      <point x="429" y="76"/>
-      <point x="429" y="179" type="curve" smooth="yes"/>
-      <point x="429" y="281"/>
-      <point x="362" y="331"/>
-      <point x="289" y="345" type="curve"/>
-    </contour>
     <component base="grRAc2" xOffset="341" yOffset="25"/>
+    <component base="grTA"/>
     <contour>
       <point x="301" y="635" type="move" name="top.addak"/>
     </contour>
@@ -71,6 +24,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>grTA_RAc2</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>909</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

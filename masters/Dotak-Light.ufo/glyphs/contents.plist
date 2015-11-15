@@ -588,6 +588,8 @@
 	<string>grS_even.glif</string>
 	<key>grSix</key>
 	<string>grS_ix.glif</string>
+	<key>grSix.copy_1</key>
+	<string>grSix_.copy_1.glif</string>
 	<key>grSxA</key>
 	<string>grS_xA_.glif</string>
 	<key>grSxA_RAc2</key>

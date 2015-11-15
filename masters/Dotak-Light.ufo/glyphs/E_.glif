@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="911"/>
+  <advance width="967"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
       <point x="862" y="0" type="line"/>
-      <point x="862" y="186" type="line"/>
-      <point x="838" y="186" type="line"/>
+      <point x="862" y="183" type="line"/>
+      <point x="838" y="183" type="line"/>
       <point x="838" y="23" type="line"/>
       <point x="56" y="23" type="line"/>
       <point x="56" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="583" y="246" type="line"/>
-      <point x="583" y="269" type="line"/>
-      <point x="260" y="269" type="line"/>
-      <point x="260" y="246" type="line"/>
-    </contour>
-    <contour>
-      <point x="596" y="132" type="line"/>
-      <point x="596" y="372" type="line"/>
-      <point x="571" y="372" type="line"/>
-      <point x="571" y="132" type="line"/>
-    </contour>
-    <contour>
-      <point x="837" y="467" type="line"/>
-      <point x="837" y="307" type="line"/>
-      <point x="862" y="307" type="line"/>
-      <point x="862" y="490" type="line"/>
-      <point x="56" y="490" type="line"/>
-      <point x="56" y="467" type="line"/>
-    </contour>
-    <contour>
       <point x="263" y="13" type="line"/>
-      <point x="263" y="477" type="line"/>
-      <point x="238" y="477" type="line"/>
+      <point x="263" y="507" type="line"/>
+      <point x="238" y="507" type="line"/>
       <point x="238" y="13" type="line"/>
+    </contour>
+    <contour>
+      <point x="583" y="261" type="line"/>
+      <point x="583" y="284" type="line"/>
+      <point x="260" y="284" type="line"/>
+      <point x="260" y="261" type="line"/>
+    </contour>
+    <contour>
+      <point x="596" y="153" type="line"/>
+      <point x="596" y="392" type="line"/>
+      <point x="571" y="392" type="line"/>
+      <point x="571" y="153" type="line"/>
+    </contour>
+    <contour>
+      <point x="862" y="337" type="line"/>
+      <point x="862" y="520" type="line"/>
+      <point x="56" y="520" type="line"/>
+      <point x="56" y="497" type="line"/>
+      <point x="837" y="497" type="line"/>
+      <point x="837" y="337" type="line"/>
     </contour>
     <contour>
       <point x="760.0" y="10.0" type="move" name="ogonek"/>
@@ -49,8 +49,45 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>417</integer>
+          <key>y</key>
+          <integer>307</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>967</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -5,33 +5,33 @@
   <outline>
     <contour>
       <point x="213" y="254" type="line"/>
-      <point x="213" y="235" type="line"/>
-      <point x="671" y="235" type="line"/>
+      <point x="213" y="231" type="line"/>
+      <point x="671" y="231" type="line"/>
       <point x="671" y="254" type="line"/>
     </contour>
     <contour>
       <point x="209" y="254" type="line"/>
       <point x="209" y="0" type="line"/>
-      <point x="237" y="0" type="line"/>
-      <point x="237" y="254" type="line"/>
+      <point x="234" y="0" type="line"/>
+      <point x="234" y="254" type="line"/>
     </contour>
     <contour>
-      <point x="236" y="246" type="line"/>
-      <point x="157" y="353" type="line"/>
-      <point x="130" y="343" type="line"/>
-      <point x="214" y="238" type="line"/>
+      <point x="235" y="249" type="line"/>
+      <point x="147" y="356" type="line"/>
+      <point x="129" y="343" type="line"/>
+      <point x="213" y="238" type="line"/>
     </contour>
     <contour>
       <point x="675" y="488" type="line"/>
-      <point x="647" y="488" type="line"/>
-      <point x="647" y="0" type="line"/>
+      <point x="650" y="488" type="line"/>
+      <point x="650" y="0" type="line"/>
       <point x="675" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="862" y="472" type="line"/>
+      <point x="862" y="467" type="line"/>
       <point x="862" y="490" type="line"/>
       <point x="0" y="490" type="line"/>
-      <point x="0" y="472" type="line"/>
+      <point x="0" y="467" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -194,7 +194,7 @@
                   <key>x</key>
                   <integer>675</integer>
                   <key>y</key>
-                  <integer>490</integer>
+                  <integer>488</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -204,7 +204,7 @@
                   <key>x</key>
                   <integer>647</integer>
                   <key>y</key>
-                  <integer>490</integer>
+                  <integer>488</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -239,7 +239,7 @@
                   <key>x</key>
                   <integer>862</integer>
                   <key>y</key>
-                  <integer>474</integer>
+                  <integer>472</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -249,7 +249,7 @@
                   <key>x</key>
                   <integer>862</integer>
                   <key>y</key>
-                  <integer>492</integer>
+                  <integer>490</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -259,7 +259,7 @@
                   <key>x</key>
                   <integer>0</integer>
                   <key>y</key>
-                  <integer>492</integer>
+                  <integer>490</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -269,7 +269,7 @@
                   <key>x</key>
                   <integer>0</integer>
                   <key>y</key>
-                  <integer>474</integer>
+                  <integer>472</integer>
                 </dict>
               </array>
             </dict>
@@ -286,6 +286,13 @@
           <integer>862</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

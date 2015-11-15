@@ -53,25 +53,47 @@
     <component base="grNukta" xOffset="38" yOffset="128"/>
     <component base="grRAc2" xOffset="614" yOffset="30"/>
     <contour>
-      <point x="483" y="635" type="move" name="top.addak"/>
+      <point x="483.0" y="635.0" type="move" name="top.addak"/>
     </contour>
     <contour>
-      <point x="483" y="635" type="move" name="top"/>
+      <point x="483.0" y="635.0" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="483" y="635" type="move" name="top.bindi"/>
+      <point x="483.0" y="635.0" type="move" name="top.bindi"/>
     </contour>
     <contour>
-      <point x="483" y="635" type="move" name="top.tippi"/>
+      <point x="483.0" y="635.0" type="move" name="top.tippi"/>
     </contour>
     <contour>
-      <point x="330" y="-142" type="move" name="bottom"/>
+      <point x="330.0" y="-142.0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>grKHxA_RAc2</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>614</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

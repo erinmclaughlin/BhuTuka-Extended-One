@@ -37,10 +37,10 @@
 	<real>0.0</real>
 	<key>com.typemytype.robofont.bkgd.layerStrokeColor</key>
 	<array>
-		<real>1.0</real>
-		<real>0.75</real>
-		<real>0.0</real>
-		<real>0.7</real>
+		<real>0.0089</real>
+		<real>0.7265</real>
+		<real>0.0007</real>
+		<real>0.94</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
 	<true/>
@@ -74,6 +74,76 @@
 			<integer>88</integer>
 			<key>y</key>
 			<integer>490</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>1156</integer>
+			<key>y</key>
+			<integer>467</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>445</integer>
+			<key>y</key>
+			<integer>-10</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>499</integer>
+			<key>y</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>404</integer>
+			<key>y</key>
+			<integer>332</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>428</integer>
+			<key>y</key>
+			<integer>357</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -584,6 +654,16 @@
 				<string>G.copy_1</string>
 				<string>space.copy_1</string>
 				<string>dieresiscomb</string>
+				<string>grsignII</string>
+				<string>uni0A4B.001</string>
+				<string>grsignUU</string>
+				<string>grsignI</string>
+				<string>grsignU</string>
+				<string>grsignOO</string>
+				<string>grsignEE</string>
+				<string>grsignAA</string>
+				<string>grsignAI</string>
+				<string>grsignAU</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1084,6 +1164,16 @@
 		<string>G.copy_1</string>
 		<string>space.copy_1</string>
 		<string>dieresiscomb</string>
+		<string>grsignII</string>
+		<string>uni0A4B.001</string>
+		<string>grsignUU</string>
+		<string>grsignI</string>
+		<string>grsignU</string>
+		<string>grsignOO</string>
+		<string>grsignEE</string>
+		<string>grsignAA</string>
+		<string>grsignAI</string>
+		<string>grsignAU</string>
 	</array>
 </dict>
 </plist>

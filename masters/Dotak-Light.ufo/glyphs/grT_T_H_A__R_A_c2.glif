@@ -1,43 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grTTHA_RAc2" format="1">
-  <advance width="560"/>
+  <advance width="934"/>
   <outline>
-    <contour>
-      <point x="446" y="122"/>
-      <point x="385" y="57"/>
-      <point x="280" y="57" type="curve" smooth="yes"/>
-      <point x="175" y="57"/>
-      <point x="114" y="122"/>
-      <point x="114" y="224" type="curve" smooth="yes"/>
-      <point x="114" y="334"/>
-      <point x="204" y="379"/>
-      <point x="280" y="379" type="curve" smooth="yes"/>
-      <point x="356" y="379"/>
-      <point x="446" y="334"/>
-      <point x="446" y="224" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="580" y="580" type="line"/>
-      <point x="580" y="635" type="line"/>
-      <point x="-20" y="635" type="line"/>
-      <point x="-20" y="580" type="line"/>
-      <point x="249" y="580" type="line"/>
-      <point x="249" y="436" type="line"/>
-      <point x="143" y="421"/>
-      <point x="50" y="353"/>
-      <point x="50" y="224" type="curve" smooth="yes"/>
-      <point x="50" y="89"/>
-      <point x="140" y="0"/>
-      <point x="280" y="0" type="curve" smooth="yes"/>
-      <point x="420" y="0"/>
-      <point x="510" y="89"/>
-      <point x="510" y="224" type="curve" smooth="yes"/>
-      <point x="510" y="353"/>
-      <point x="417" y="421"/>
-      <point x="311" y="436" type="curve"/>
-      <point x="311" y="580" type="line"/>
-    </contour>
     <component base="grRAc2" xOffset="429" yOffset="31"/>
+    <component base="grTTHA"/>
     <contour>
       <point x="280" y="635" type="move" name="top.addak"/>
     </contour>
@@ -58,6 +24,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>grTTHA_RAc2</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>934</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

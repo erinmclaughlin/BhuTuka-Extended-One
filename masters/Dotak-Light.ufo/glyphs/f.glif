@@ -1,49 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="1">
-  <advance width="532"/>
+  <advance width="555"/>
   <unicode hex="0066"/>
   <outline>
     <contour>
-      <point x="90" y="0" type="line"/>
-      <point x="440" y="0" type="line"/>
-      <point x="440" y="23" type="line"/>
-      <point x="90" y="23" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="427" y="23" type="line"/>
+      <point x="50" y="23" type="line"/>
     </contour>
     <contour>
-      <point x="220" y="0" type="line"/>
-      <point x="245" y="0" type="line"/>
-      <point x="245" y="428" type="line"/>
-      <point x="245" y="515"/>
-      <point x="287" y="562"/>
-      <point x="383" y="562" type="curve" smooth="yes"/>
-      <point x="440" y="562"/>
-      <point x="513" y="544"/>
-      <point x="567" y="520" type="curve"/>
-      <point x="575" y="543" type="line"/>
-      <point x="519" y="565"/>
-      <point x="449" y="585"/>
-      <point x="385" y="585" type="curve" smooth="yes"/>
-      <point x="270" y="585"/>
-      <point x="220" y="524"/>
-      <point x="220" y="426" type="curve"/>
+      <point x="210" y="0" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="235" y="388" type="line"/>
+      <point x="235" y="485"/>
+      <point x="277" y="532"/>
+      <point x="373" y="532" type="curve" smooth="yes"/>
+      <point x="430" y="532"/>
+      <point x="503" y="514"/>
+      <point x="557" y="490" type="curve"/>
+      <point x="565" y="513" type="line"/>
+      <point x="509" y="535"/>
+      <point x="439" y="555"/>
+      <point x="375" y="555" type="curve" smooth="yes"/>
+      <point x="260" y="555"/>
+      <point x="210" y="494"/>
+      <point x="210" y="386" type="curve"/>
     </contour>
     <contour>
-      <point x="469" y="357" type="line"/>
-      <point x="90" y="357" type="line"/>
-      <point x="90" y="334" type="line"/>
-      <point x="469" y="334" type="line"/>
+      <point x="459" y="357" type="line"/>
+      <point x="50" y="357" type="line"/>
+      <point x="50" y="334" type="line"/>
+      <point x="459" y="334" type="line"/>
     </contour>
     <contour>
-      <point x="266.0" y="357.0" type="move" name="top"/>
+      <point x="256.0" y="557.0" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="266.0" y="0.0" type="move" name="bottom"/>
+      <point x="256.0" y="0.0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=n</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>f</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>555</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

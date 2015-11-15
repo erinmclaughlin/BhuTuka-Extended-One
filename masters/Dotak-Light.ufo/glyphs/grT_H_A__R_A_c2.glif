@@ -1,54 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grTHA_RAc2" format="1">
-  <advance width="614"/>
+  <advance width="879"/>
   <outline>
-    <contour>
-      <point x="88" y="580"/>
-      <point x="125" y="541"/>
-      <point x="125" y="487" type="curve" smooth="yes"/>
-      <point x="125" y="442"/>
-      <point x="104" y="396"/>
-      <point x="60" y="354" type="curve"/>
-      <point x="75" y="230"/>
-      <point x="159" y="143"/>
-      <point x="284" y="143" type="curve" smooth="yes"/>
-      <point x="362" y="143"/>
-      <point x="419" y="175"/>
-      <point x="452" y="215" type="curve"/>
-      <point x="452" y="356" type="line"/>
-      <point x="452" y="272"/>
-      <point x="392" y="200"/>
-      <point x="284" y="200" type="curve" smooth="yes"/>
-      <point x="190" y="200"/>
-      <point x="132" y="270"/>
-      <point x="126" y="342" type="curve"/>
-      <point x="171" y="393"/>
-      <point x="189" y="430"/>
-      <point x="189" y="487" type="curve" smooth="yes"/>
-      <point x="189" y="556"/>
-      <point x="138" y="635"/>
-      <point x="52" y="635" type="curve"/>
-      <point x="43" y="580" type="line"/>
-    </contour>
-    <contour>
-      <point x="452" y="590" type="line"/>
-      <point x="452" y="0" type="line"/>
-      <point x="514" y="0" type="line"/>
-      <point x="514" y="590" type="line"/>
-    </contour>
-    <contour>
-      <point x="465" y="435" type="line"/>
-      <point x="136" y="435" type="line"/>
-      <point x="136" y="380" type="line"/>
-      <point x="465" y="380" type="line"/>
-    </contour>
-    <contour>
-      <point x="634" y="635" type="line"/>
-      <point x="-20" y="635" type="line"/>
-      <point x="-20" y="580" type="line"/>
-      <point x="634" y="580" type="line"/>
-    </contour>
     <component base="grRAc2" xOffset="614" yOffset="30"/>
+    <component base="grTHA"/>
     <contour>
       <point x="483" y="635" type="move" name="top.addak"/>
     </contour>
@@ -69,6 +24,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>grTHA_RAc2</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>879</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
