@@ -32,19 +32,19 @@
       <point x="453" y="13" type="curve"/>
     </contour>
     <contour>
-      <point x="453.0" y="-10.0" type="move" name="bottom"/>
+      <point x="453" y="245" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="455.0" y="-8.0" type="move" name="ogonek"/>
+      <point x="455" y="-8" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="453.0" y="530.0" type="move" name="top"/>
+      <point x="453" y="530" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="886.0" y="490.0" type="move" name="topright"/>
+      <point x="886" y="490" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="453.0" y="245.0" type="move" name="center"/>
+      <point x="453" y="-10" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

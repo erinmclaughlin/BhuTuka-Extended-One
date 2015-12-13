@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grBHA_RAc2" format="1">
-  <advance width="934"/>
+  <advance width="846"/>
   <outline>
-    <component base="grRAc2" xOffset="381" yOffset="14"/>
+    <component base="grRAc2" xOffset="769" yOffset="-7"/>
     <component base="grBHA"/>
     <contour>
       <point x="403" y="635" type="move" name="top.addak"/>
@@ -44,7 +44,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>934</integer>
+          <integer>846</integer>
         </dict>
       </dict>
     </dict>

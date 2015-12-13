@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idotaccent" format="1">
-  <advance width="232"/>
+  <advance width="501"/>
   <unicode hex="0130"/>
   <outline>
     <component base="I"/>
-    <component base="dotaccent" xOffset="-83" yOffset="80"/>
+    <component base="dotaccent" xOffset="124" yOffset="59"/>
   </outline>
   <lib>
     <dict>
@@ -32,7 +32,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>232</integer>
+          <integer>501</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

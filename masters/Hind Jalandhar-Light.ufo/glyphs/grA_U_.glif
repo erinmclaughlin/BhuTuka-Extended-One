@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grAU" format="1">
+  <advance width="695"/>
+  <unicode hex="0A14"/>
+  <outline>
+    <component base="grA"/>
+    <component base="grmAU" xOffset="693"/>
+  </outline>
+</glyph>

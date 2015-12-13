@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wing" format="1">
+  <advance width="625"/>
+  <outline>
+    <contour>
+      <point x="335" y="464"/>
+      <point x="255" y="379"/>
+      <point x="210" y="299" type="curve"/>
+      <point x="214" y="265" type="line"/>
+      <point x="272" y="340"/>
+      <point x="340" y="404"/>
+      <point x="424" y="404" type="curve" smooth="yes"/>
+      <point x="480" y="404"/>
+      <point x="515" y="372"/>
+      <point x="515" y="325" type="curve" smooth="yes"/>
+      <point x="515" y="307"/>
+      <point x="510" y="291"/>
+      <point x="498" y="280" type="curve"/>
+      <point x="514" y="266" type="line"/>
+      <point x="537" y="281"/>
+      <point x="553" y="308"/>
+      <point x="553" y="348" type="curve" smooth="yes"/>
+      <point x="553" y="409"/>
+      <point x="510" y="464"/>
+      <point x="437" y="464" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

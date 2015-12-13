@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcedilla" format="1">
-  <advance width="475"/>
+  <advance width="528"/>
   <unicode hex="0163"/>
   <outline>
     <component base="t"/>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>475</integer>
+          <integer>528</integer>
         </dict>
       </dict>
     </dict>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grmAA" format="1">
+  <advance width="242"/>
+  <unicode hex="0A3E"/>
+  <outline>
+    <contour>
+      <point x="152" y="580" type="line"/>
+      <point x="262" y="580" type="line"/>
+      <point x="262" y="635" type="line"/>
+      <point x="-20" y="635" type="line"/>
+      <point x="-20" y="580" type="line"/>
+      <point x="90" y="580" type="line"/>
+      <point x="90" y="290" type="line"/>
+      <point x="152" y="290" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="635" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="121" y="635" type="move" name="top.bindi"/>
+    </contour>
+  </outline>
+</glyph>

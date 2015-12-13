@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grBA_RAc2" format="1">
-  <advance width="910"/>
+  <advance width="985"/>
   <outline>
-    <component base="grRAc2" xOffset="595" yOffset="30"/>
+    <component base="grRAc2" xOffset="985" yOffset="30"/>
     <component base="grBA"/>
     <contour>
       <point x="464" y="635" type="move" name="top.addak"/>
@@ -22,6 +22,9 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>bkgd</key>
@@ -44,7 +47,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>910</integer>
+          <integer>985</integer>
         </dict>
       </dict>
     </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Umacron" format="1">
-  <advance width="1023"/>
+  <advance width="1031"/>
   <unicode hex="016A"/>
   <outline>
     <component base="U"/>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1023</integer>
+          <integer>1031</integer>
         </dict>
       </dict>
     </dict>

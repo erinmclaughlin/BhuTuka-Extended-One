@@ -4,17 +4,20 @@
   <unicode hex="0A1E"/>
   <outline>
     <contour>
-      <point x="228" y="487" type="curve"/>
-      <point x="199" y="487" type="line"/>
-      <point x="224" y="433"/>
-      <point x="256" y="387"/>
-      <point x="305" y="339" type="curve"/>
-      <point x="338" y="339" type="line"/>
-      <point x="287" y="387"/>
-      <point x="252" y="431"/>
+      <point x="217" y="486" type="curve"/>
+      <point x="189" y="486" type="line"/>
+      <point x="216" y="432"/>
+      <point x="256" y="379"/>
+      <point x="296" y="339" type="curve"/>
+      <point x="328" y="339" type="line"/>
+      <point x="286" y="379"/>
+      <point x="242" y="433"/>
     </contour>
     <component base="uni0A35"/>
     <component base="grVA"/>
+    <contour>
+      <point x="773" y="490" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

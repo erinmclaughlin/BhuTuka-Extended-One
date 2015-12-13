@@ -2,7 +2,7 @@
 <glyph name="grNYA_RAc2" format="1">
   <advance width="986"/>
   <outline>
-    <component base="grRAc2" xOffset="555" yOffset="20"/>
+    <component base="grRAc2" xOffset="986" yOffset="-8"/>
     <component base="grNYA"/>
     <contour>
       <point x="434" y="635" type="move" name="top.addak"/>
@@ -22,6 +22,21 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>798</integer>
+          <key>y</key>
+          <integer>118</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>bkgd</key>

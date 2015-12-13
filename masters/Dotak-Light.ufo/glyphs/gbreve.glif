@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gbreve" format="1">
-  <advance width="539"/>
+  <advance width="760"/>
   <unicode hex="011F"/>
   <outline>
     <component base="g"/>
-    <component base="breve" xOffset="86" yOffset="-86"/>
+    <component base="breve" xOffset="133" yOffset="-24"/>
   </outline>
   <lib>
     <dict>
@@ -32,7 +32,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>539</integer>
+          <integer>760</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

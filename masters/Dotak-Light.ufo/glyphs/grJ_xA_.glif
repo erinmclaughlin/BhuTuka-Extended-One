@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grJxA" format="1">
-  <advance width="863"/>
+  <advance width="904"/>
   <unicode hex="0A5B"/>
   <outline>
-    <component base="uni0A1C"/>
-    <component base="uni0A3C" xOffset="1519"/>
     <component base="grJA"/>
-    <component base="grNukta" xOffset="1209"/>
+    <component base="grNukta" xOffset="1219"/>
+    <contour>
+      <point x="691" y="490" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -328,7 +329,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>863</integer>
+          <integer>904</integer>
         </dict>
       </dict>
     </dict>

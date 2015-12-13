@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grII" format="1">
-  <advance width="1246"/>
+  <advance width="1270"/>
   <unicode hex="0A08"/>
   <outline>
     <component base="grIri"/>
-    <component base="grsignII" xOffset="869"/>
+    <component base="grmII" xOffset="869"/>
   </outline>
   <lib>
     <dict>
@@ -662,7 +662,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1246</integer>
+          <integer>1270</integer>
         </dict>
       </dict>
     </dict>

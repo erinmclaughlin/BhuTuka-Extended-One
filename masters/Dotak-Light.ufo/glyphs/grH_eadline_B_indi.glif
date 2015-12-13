@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grHeadline_Bindi" format="1">
-  <advance width="132"/>
+  <advance width="182"/>
   <outline>
-    <component base="grBindi" xOffset="196"/>
     <component base="grHeadline"/>
+    <component base="grBindi" xOffset="288"/>
   </outline>
   <lib>
     <dict>
@@ -29,9 +29,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>132</integer>
+          <integer>182</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

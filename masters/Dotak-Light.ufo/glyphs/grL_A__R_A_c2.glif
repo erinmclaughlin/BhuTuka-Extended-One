@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grLA_RAc2" format="1">
-  <advance width="1024.0"/>
+  <advance width="982"/>
   <outline>
     <component base="grLA"/>
+    <component base="grRAc2" xOffset="885" yOffset="-20"/>
     <contour>
       <point x="326" y="635" type="move" name="top.addak"/>
     </contour>
@@ -43,7 +44,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1024.0</real>
+          <integer>982</integer>
         </dict>
       </dict>
     </dict>

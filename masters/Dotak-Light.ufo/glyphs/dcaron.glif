@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="827"/>
+  <advance width="858"/>
   <unicode hex="010F"/>
   <outline>
     <component base="d"/>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>827</integer>
+          <integer>858</integer>
         </dict>
       </dict>
     </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zacute" format="1">
-  <advance width="763"/>
+  <advance width="843"/>
   <unicode hex="0179"/>
   <outline>
     <component base="Z"/>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>763</integer>
+          <integer>843</integer>
         </dict>
       </dict>
     </dict>

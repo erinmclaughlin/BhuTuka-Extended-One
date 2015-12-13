@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grAI" format="1">
-  <advance width="1074"/>
+  <advance width="1076"/>
   <unicode hex="0A10"/>
   <outline>
-    <component base="uni0A47" xOffset="1306"/>
     <component base="grA"/>
-    <component base="grsignAI" xOffset="1063"/>
+    <component base="grmAI" xOffset="1064"/>
     <contour>
-      <point x="1418.0" y="1248.0" type="move" name="mark0"/>
+      <point x="1418" y="1248" type="move" name="mark0"/>
     </contour>
   </outline>
   <lib>
@@ -878,7 +877,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1074</integer>
+          <integer>1076</integer>
         </dict>
       </dict>
     </dict>

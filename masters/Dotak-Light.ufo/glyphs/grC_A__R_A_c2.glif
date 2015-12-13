@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grCA_RAc2" format="1">
-  <advance width="875"/>
+  <advance width="914"/>
   <outline>
     <component base="grCA"/>
+    <component base="grRAc2" xOffset="785" yOffset="-10"/>
     <contour>
       <point x="435" y="635" type="move" name="top.addak"/>
     </contour>
@@ -21,6 +22,21 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>688</integer>
+          <key>y</key>
+          <integer>226</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>bkgd</key>
@@ -43,7 +59,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>875</integer>
+          <integer>914</integer>
         </dict>
       </dict>
     </dict>

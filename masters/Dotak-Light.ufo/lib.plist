@@ -42,16 +42,20 @@
 		<real>0.0007</real>
 		<real>0.94</real>
 	</array>
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-	<false/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
-	<false/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Users/erinmclaughlin/Desktop/JOBS/_Google DOTAK/masters/Dotak-Light.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
-	<false/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -113,9 +117,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>499</integer>
+			<integer>305</integer>
 			<key>y</key>
-			<integer>10</integer>
+			<integer>4</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -127,9 +131,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>404</integer>
+			<integer>293</integer>
 			<key>y</key>
-			<integer>332</integer>
+			<integer>314</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -141,9 +145,23 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>428</integer>
-			<key>y</key>
 			<integer>357</integer>
+			<key>y</key>
+			<integer>337</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>306</integer>
+			<key>y</key>
+			<integer>27</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -634,36 +652,6 @@
 				<string>grTippi.alt</string>
 				<string>grAddak.alt</string>
 				<string>grmUU.alt2</string>
-				<string>turkishlira</string>
-				<string>ITF</string>
-				<string>caroncomb</string>
-				<string>H.copy_1</string>
-				<string>circumflexcomb</string>
-				<string>ogonekcomb</string>
-				<string>dotaccentcomb</string>
-				<string>macroncomb</string>
-				<string>acutecomb</string>
-				<string>commaturnedabovecomb</string>
-				<string>Gcommaaccent.copy_1</string>
-				<string>gravecomb</string>
-				<string>ringcomb</string>
-				<string>cedillacomb</string>
-				<string>brevecomb</string>
-				<string>hungarumlautcomb</string>
-				<string>commaaccentcomb</string>
-				<string>G.copy_1</string>
-				<string>space.copy_1</string>
-				<string>dieresiscomb</string>
-				<string>grsignII</string>
-				<string>uni0A4B.001</string>
-				<string>grsignUU</string>
-				<string>grsignI</string>
-				<string>grsignU</string>
-				<string>grsignOO</string>
-				<string>grsignEE</string>
-				<string>grsignAA</string>
-				<string>grsignAI</string>
-				<string>grsignAU</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1144,36 +1132,6 @@
 		<string>grTippi.alt</string>
 		<string>grAddak.alt</string>
 		<string>grmUU.alt2</string>
-		<string>turkishlira</string>
-		<string>ITF</string>
-		<string>caroncomb</string>
-		<string>H.copy_1</string>
-		<string>circumflexcomb</string>
-		<string>ogonekcomb</string>
-		<string>dotaccentcomb</string>
-		<string>macroncomb</string>
-		<string>acutecomb</string>
-		<string>commaturnedabovecomb</string>
-		<string>Gcommaaccent.copy_1</string>
-		<string>gravecomb</string>
-		<string>ringcomb</string>
-		<string>cedillacomb</string>
-		<string>brevecomb</string>
-		<string>hungarumlautcomb</string>
-		<string>commaaccentcomb</string>
-		<string>G.copy_1</string>
-		<string>space.copy_1</string>
-		<string>dieresiscomb</string>
-		<string>grsignII</string>
-		<string>uni0A4B.001</string>
-		<string>grsignUU</string>
-		<string>grsignI</string>
-		<string>grsignU</string>
-		<string>grsignOO</string>
-		<string>grsignEE</string>
-		<string>grsignAA</string>
-		<string>grsignAI</string>
-		<string>grsignAU</string>
 	</array>
 </dict>
 </plist>

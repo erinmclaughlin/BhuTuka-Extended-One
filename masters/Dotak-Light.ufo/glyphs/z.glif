@@ -49,10 +49,10 @@
       <point x="97" y="185" type="line"/>
     </contour>
     <contour>
-      <point x="411.0" y="367.0" type="move" name="top"/>
+      <point x="411" y="367" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="371.0" y="-10.0" type="move" name="bottom"/>
+      <point x="371" y="-10" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

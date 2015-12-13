@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflex" format="1">
-  <advance width="999"/>
+  <advance width="1034"/>
   <unicode hex="00C2"/>
   <outline>
     <component base="A"/>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>999</integer>
+          <integer>1034</integer>
         </dict>
       </dict>
     </dict>

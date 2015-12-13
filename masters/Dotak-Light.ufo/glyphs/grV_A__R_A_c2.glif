@@ -2,7 +2,7 @@
 <glyph name="grVA_RAc2" format="1">
   <advance width="986"/>
   <outline>
-    <component base="grRAc2" xOffset="515" yOffset="22"/>
+    <component base="grRAc2" xOffset="986" yOffset="-12"/>
     <component base="grVA"/>
     <contour>
       <point x="384" y="635" type="move" name="top.addak"/>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grII" format="1">
+  <advance width="815"/>
+  <unicode hex="0A08"/>
+  <outline>
+    <component base="grIri"/>
+    <component base="grmII" xOffset="553"/>
+    <contour>
+      <point x="898" y="635" type="move" name="top.addak"/>
+    </contour>
+    <contour>
+      <point x="898" y="635" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="898" y="635" type="move" name="top.bindi"/>
+    </contour>
+    <contour>
+      <point x="898" y="635" type="move" name="top.tippi"/>
+    </contour>
+  </outline>
+</glyph>

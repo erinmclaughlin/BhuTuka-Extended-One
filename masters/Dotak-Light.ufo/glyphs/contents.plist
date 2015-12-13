@@ -70,22 +70,14 @@
 	<string>F_.glif</string>
 	<key>G</key>
 	<string>G_.glif</string>
-	<key>G.copy_1</key>
-	<string>G_.copy_1.glif</string>
 	<key>Gbreve</key>
 	<string>G_breve.glif</string>
 	<key>Gcommaaccent</key>
 	<string>G_commaaccent.glif</string>
-	<key>Gcommaaccent.copy_1</key>
-	<string>Gcommaaccent_.copy_1.glif</string>
 	<key>H</key>
 	<string>H_.glif</string>
-	<key>H.copy_1</key>
-	<string>H_.copy_1.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
-	<key>ITF</key>
-	<string>I_T_F_.glif</string>
 	<key>Iacute</key>
 	<string>I_acute.glif</string>
 	<key>Icircumflex</key>
@@ -230,8 +222,6 @@
 	<string>acircumflex.glif</string>
 	<key>acute</key>
 	<string>acute.glif</string>
-	<key>acutecomb</key>
-	<string>acutecomb.glif</string>
 	<key>adieresis</key>
 	<string>adieresis.glif</string>
 	<key>ae</key>
@@ -274,8 +264,6 @@
 	<string>bracketright.glif</string>
 	<key>breve</key>
 	<string>breve.glif</string>
-	<key>brevecomb</key>
-	<string>brevecomb.glif</string>
 	<key>brokenbar</key>
 	<string>brokenbar.glif</string>
 	<key>bullet</key>
@@ -288,30 +276,20 @@
 	<string>cacute.glif</string>
 	<key>caron</key>
 	<string>caron.glif</string>
-	<key>caroncomb</key>
-	<string>caroncomb.glif</string>
 	<key>ccaron</key>
 	<string>ccaron.glif</string>
 	<key>ccedilla</key>
 	<string>ccedilla.glif</string>
 	<key>cedilla</key>
 	<string>cedilla.glif</string>
-	<key>cedillacomb</key>
-	<string>cedillacomb.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
-	<key>circumflexcomb</key>
-	<string>circumflexcomb.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
-	<key>commaaccentcomb</key>
-	<string>commaaccentcomb.glif</string>
-	<key>commaturnedabovecomb</key>
-	<string>commaturnedabovecomb.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
 	<key>currency</key>
@@ -332,8 +310,6 @@
 	<string>degree.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
-	<key>dieresiscomb</key>
-	<string>dieresiscomb.glif</string>
 	<key>divide</key>
 	<string>divide.glif</string>
 	<key>divisionslash</key>
@@ -342,8 +318,6 @@
 	<string>dollar.glif</string>
 	<key>dotaccent</key>
 	<string>dotaccent.glif</string>
-	<key>dotaccentcomb</key>
-	<string>dotaccentcomb.glif</string>
 	<key>dotlessi</key>
 	<string>dotlessi.glif</string>
 	<key>dottedcircle</key>
@@ -588,8 +562,6 @@
 	<string>grS_even.glif</string>
 	<key>grSix</key>
 	<string>grS_ix.glif</string>
-	<key>grSix.copy_1</key>
-	<string>grSix_.copy_1.glif</string>
 	<key>grSxA</key>
 	<string>grS_xA_.glif</string>
 	<key>grSxA_RAc2</key>
@@ -648,48 +620,46 @@
 	<string>grZ_ero.glif</string>
 	<key>grave</key>
 	<string>grave.glif</string>
-	<key>gravecomb</key>
-	<string>gravecomb.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
 	<key>greaterequal</key>
 	<string>greaterequal.glif</string>
+	<key>grmAA</key>
+	<string>grmA_A_.glif</string>
+	<key>grmAI</key>
+	<string>grmA_I_.glif</string>
 	<key>grmAI_Bindi</key>
 	<string>grmA_I__B_indi.glif</string>
+	<key>grmAU</key>
+	<string>grmA_U_.glif</string>
 	<key>grmAU_Bindi</key>
 	<string>grmA_U__B_indi.glif</string>
+	<key>grmEE</key>
+	<string>grmE_E_.glif</string>
 	<key>grmEE_Bindi</key>
 	<string>grmE_E__B_indi.glif</string>
+	<key>grmI</key>
+	<string>grmI_.glif</string>
+	<key>grmII</key>
+	<string>grmI_I_.glif</string>
 	<key>grmII_Bindi</key>
 	<string>grmI_I__B_indi.glif</string>
+	<key>grmOO</key>
+	<string>grmO_O_.glif</string>
 	<key>grmOO.alt</key>
 	<string>grmO_O_.alt.glif</string>
 	<key>grmOO_Bindi</key>
 	<string>grmO_O__B_indi.glif</string>
+	<key>grmU</key>
+	<string>grmU_.glif</string>
 	<key>grmU.alt</key>
 	<string>grmU_.alt.glif</string>
+	<key>grmUU</key>
+	<string>grmU_U_.glif</string>
 	<key>grmUU.alt</key>
 	<string>grmU_U_.alt.glif</string>
 	<key>grmUU.alt2</key>
 	<string>grmU_U_.alt2.glif</string>
-	<key>grsignAA</key>
-	<string>grsignAA_.glif</string>
-	<key>grsignAI</key>
-	<string>grsignAI_.glif</string>
-	<key>grsignAU</key>
-	<string>grsignAU_.glif</string>
-	<key>grsignEE</key>
-	<string>grsignEE_.glif</string>
-	<key>grsignI</key>
-	<string>grsignI_.glif</string>
-	<key>grsignII</key>
-	<string>grsignII_.glif</string>
-	<key>grsignOO</key>
-	<string>grsignOO_.glif</string>
-	<key>grsignU</key>
-	<string>grsignU_.glif</string>
-	<key>grsignUU</key>
-	<string>grsignUU_.glif</string>
 	<key>guillemotleft</key>
 	<string>guillemotleft.glif</string>
 	<key>guillemotright</key>
@@ -702,8 +672,6 @@
 	<string>h.glif</string>
 	<key>hungarumlaut</key>
 	<string>hungarumlaut.glif</string>
-	<key>hungarumlautcomb</key>
-	<string>hungarumlautcomb.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>i</key>
@@ -756,8 +724,6 @@
 	<string>m.glif</string>
 	<key>macron</key>
 	<string>macron.glif</string>
-	<key>macroncomb</key>
-	<string>macroncomb.glif</string>
 	<key>macronmod</key>
 	<string>macronmod.glif</string>
 	<key>minus</key>
@@ -796,8 +762,6 @@
 	<string>oe.glif</string>
 	<key>ogonek</key>
 	<string>ogonek.glif</string>
-	<key>ogonekcomb</key>
-	<string>ogonekcomb.glif</string>
 	<key>ograve</key>
 	<string>ograve.glif</string>
 	<key>ohungarumlaut</key>
@@ -882,8 +846,6 @@
 	<string>registered.glif</string>
 	<key>ring</key>
 	<string>ring.glif</string>
-	<key>ringcomb</key>
-	<string>ringcomb.glif</string>
 	<key>ruble</key>
 	<string>ruble.glif</string>
 	<key>s</key>
@@ -910,8 +872,6 @@
 	<string>softhyphen.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
-	<key>space.copy_1</key>
-	<string>space.copy_1.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
 	<key>summation</key>
@@ -936,8 +896,6 @@
 	<string>tilde.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
-	<key>turkishlira</key>
-	<string>turkishlira.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>twosuperior</key>
@@ -958,8 +916,6 @@
 	<string>umacron.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
-	<key>uni0A4B.001</key>
-	<string>uni0A4B_.001.glif</string>
 	<key>uogonek</key>
 	<string>uogonek.glif</string>
 	<key>uring</key>

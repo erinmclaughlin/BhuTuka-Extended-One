@@ -28,16 +28,16 @@
       <point x="30" y="334" type="line"/>
     </contour>
     <contour>
-      <point x="306.0" y="-10.0" type="move" name="bottom"/>
+      <point x="266" y="179" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="266.0" y="456.0" type="move" name="top"/>
+      <point x="266" y="456" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="359.0" y="419.0" type="move" name="topright"/>
+      <point x="359" y="419" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="266.0" y="179.0" type="move" name="center"/>
+      <point x="306" y="-10" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

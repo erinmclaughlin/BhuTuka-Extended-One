@@ -32,7 +32,7 @@
       <point x="472" y="623" type="line"/>
     </contour>
     <contour>
-      <point x="291.0" y="391.0" type="move" name="_top"/>
+      <point x="291" y="391" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

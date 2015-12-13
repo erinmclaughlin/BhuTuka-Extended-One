@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grSA_RAc2" format="1">
+  <advance width="552"/>
+  <outline>
+    <contour>
+      <point x="-20" y="580" type="line"/>
+      <point x="572" y="580" type="line"/>
+      <point x="572" y="635" type="line"/>
+      <point x="-20" y="635" type="line"/>
+    </contour>
+    <contour>
+      <point x="452" y="0" type="line"/>
+      <point x="452" y="589" type="line"/>
+      <point x="390" y="589" type="line"/>
+      <point x="390" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="295" type="line"/>
+      <point x="410" y="350" type="line"/>
+      <point x="157" y="350" type="line"/>
+      <point x="157" y="295" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="602" type="line"/>
+      <point x="83" y="543"/>
+      <point x="104" y="461"/>
+      <point x="104" y="379" type="curve" smooth="yes"/>
+      <point x="104" y="301"/>
+      <point x="75" y="214"/>
+      <point x="41" y="146" type="curve"/>
+      <point x="104" y="146" type="line"/>
+      <point x="142" y="217"/>
+      <point x="168" y="291"/>
+      <point x="168" y="379" type="curve" smooth="yes"/>
+      <point x="168" y="479"/>
+      <point x="132" y="576"/>
+      <point x="99" y="631" type="curve"/>
+    </contour>
+    <component base="grRAc2" xOffset="552" yOffset="30"/>
+    <contour>
+      <point x="421" y="635" type="move" name="top.addak"/>
+    </contour>
+    <contour>
+      <point x="421" y="635" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="421" y="635" type="move" name="top.bindi"/>
+    </contour>
+    <contour>
+      <point x="421" y="635" type="move" name="top.tippi"/>
+    </contour>
+    <contour>
+      <point x="268" y="-142" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

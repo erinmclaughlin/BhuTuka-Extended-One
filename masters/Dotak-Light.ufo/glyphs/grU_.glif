@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grU" format="1">
-  <advance width="960.0"/>
+  <advance width="1000"/>
   <unicode hex="0A09"/>
   <outline>
     <component base="grUra"/>
-    <component base="grsignU" xOffset="955"/>
+    <component base="grmU" xOffset="951"/>
   </outline>
   <lib>
     <dict>
@@ -738,7 +738,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>960.0</real>
+          <integer>1000</integer>
         </dict>
       </dict>
     </dict>

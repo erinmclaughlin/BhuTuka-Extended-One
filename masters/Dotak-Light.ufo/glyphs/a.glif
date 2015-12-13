@@ -62,13 +62,13 @@
       <point x="277" y="-10" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="782.0" y="19.0" type="move" name="ogonek"/>
+      <point x="782" y="19" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="277.0" y="-10.0" type="move" name="bottom"/>
+      <point x="277" y="-10" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="374.0" y="367.0" type="move" name="top"/>
+      <point x="374" y="367" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

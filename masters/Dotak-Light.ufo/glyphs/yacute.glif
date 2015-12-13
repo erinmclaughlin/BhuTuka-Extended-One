@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yacute" format="1">
-  <advance width="741"/>
+  <advance width="727"/>
   <unicode hex="00FD"/>
   <outline>
     <component base="y"/>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>741</integer>
+          <integer>727</integer>
         </dict>
       </dict>
     </dict>

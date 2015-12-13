@@ -52,16 +52,16 @@
       <point x="506" y="334" type="line"/>
     </contour>
     <contour>
-      <point x="837.0" y="19.0" type="move" name="ogonek"/>
+      <point x="837" y="19" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="381.0" y="347.0" type="move" name="top"/>
+      <point x="381" y="347" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="812.0" y="357.0" type="move" name="topright"/>
+      <point x="812" y="357" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="368.0" y="-10.0" type="move" name="bottom"/>
+      <point x="368" y="-10" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

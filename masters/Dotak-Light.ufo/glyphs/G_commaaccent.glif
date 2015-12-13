@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcommaaccent" format="1">
-  <advance width="858"/>
+  <advance width="874"/>
   <unicode hex="0122"/>
   <outline>
     <component base="G"/>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>858</integer>
+          <integer>874</integer>
         </dict>
       </dict>
     </dict>

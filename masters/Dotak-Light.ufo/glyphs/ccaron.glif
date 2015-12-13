@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccaron" format="1">
-  <advance width="741"/>
+  <advance width="768"/>
   <unicode hex="010D"/>
   <outline>
     <component base="c"/>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>741</integer>
+          <integer>768</integer>
         </dict>
       </dict>
     </dict>

@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grUU" format="1">
-  <advance width="960.0"/>
+  <advance width="1000"/>
   <unicode hex="0A0A"/>
   <outline>
     <component base="grUra"/>
-    <component base="grsignUU" xOffset="930"/>
+    <component base="grmUU" xOffset="951"/>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>200</integer>
+          <key>y</key>
+          <integer>-60</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>bkgd</key>
@@ -867,7 +882,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>960.0</real>
+          <integer>1000</integer>
         </dict>
       </dict>
     </dict>

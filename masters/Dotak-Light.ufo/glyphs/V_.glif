@@ -25,10 +25,10 @@
       <point x="470" y="-10" type="line"/>
     </contour>
     <contour>
-      <point x="474.0" y="490.0" type="move" name="top"/>
+      <point x="474" y="490" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="474.0" y="-10.0" type="move" name="bottom"/>
+      <point x="474" y="-10" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
