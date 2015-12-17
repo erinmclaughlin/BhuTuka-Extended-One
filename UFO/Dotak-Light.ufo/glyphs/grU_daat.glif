@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="grYakash" format="1">
+<glyph name="grUdaat" format="1">
   <advance width="0"/>
-  <unicode hex="0A51"/>
+  <unicode hex="0A75"/>
   <outline>
-    <component base="grUdaat"/>
+    <component base="grYakash"/>
+    <contour>
+      <point x="-111" y="0" type="move" name="_bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -28,25 +31,25 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-356</integer>
+                  <integer>15</integer>
                   <key>y</key>
-                  <integer>-127</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
                   <integer>-221</integer>
-                  <key>y</key>
-                  <integer>-131</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-148</integer>
+                  <integer>-120</integer>
                   <key>y</key>
-                  <integer>-151</integer>
+                  <integer>-217</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>-193</integer>
+                  <key>y</key>
+                  <integer>-197</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -54,9 +57,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>1</integer>
+                  <integer>-342</integer>
                   <key>y</key>
-                  <integer>-243</integer>
+                  <integer>-105</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -64,25 +67,25 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>15</integer>
+                  <integer>-356</integer>
                   <key>y</key>
-                  <integer>-223</integer>
+                  <integer>-125</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-133</integer>
+                  <integer>-208</integer>
                   <key>y</key>
-                  <integer>-127</integer>
+                  <integer>-221</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-211</integer>
+                  <integer>-130</integer>
                   <key>y</key>
-                  <integer>-106</integer>
+                  <integer>-242</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -90,9 +93,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-356</integer>
+                  <integer>15</integer>
                   <key>y</key>
-                  <integer>-105</integer>
+                  <integer>-243</integer>
                 </dict>
               </array>
             </dict>
@@ -101,7 +104,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>grYakash</string>
+          <string>grUdaat</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -123,7 +126,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>grYakash</string>
+          <string>grUdaat</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -131,13 +134,6 @@
           <integer>0</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.974</real>
-        <real>0.577</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grHeadline_Addak" format="1">
-  <advance width="182"/>
+  <advance width="82"/>
   <outline>
     <component base="grHeadline"/>
-    <component base="grAddak" xOffset="311"/>
+    <component base="grAddak" xOffset="239"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>182</integer>
+          <integer>82</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>182</integer>
+          <integer>82</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

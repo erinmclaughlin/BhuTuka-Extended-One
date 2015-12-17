@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="grVirama" format="1">
-  <advance width="0"/>
-  <unicode hex="0A4D"/>
+<glyph name="grHeadline_Bindi" format="1">
+  <advance width="82"/>
   <outline>
-    <contour>
-      <point x="-356" y="-127" type="line"/>
-      <point x="-221" y="-131"/>
-      <point x="-148" y="-151"/>
-      <point x="1" y="-243" type="curve"/>
-      <point x="15" y="-223" type="line"/>
-      <point x="-133" y="-127"/>
-      <point x="-211" y="-106"/>
-      <point x="-356" y="-105" type="curve"/>
-    </contour>
+    <component base="grHeadline"/>
+    <component base="grBindi" xOffset="236"/>
   </outline>
   <lib>
     <dict>
@@ -33,12 +24,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>grVirama</string>
+          <string>grHeadline_Bindi</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <integer>82</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -55,14 +46,21 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>grVirama</string>
+          <string>grHeadline_Bindi</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <integer>82</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
