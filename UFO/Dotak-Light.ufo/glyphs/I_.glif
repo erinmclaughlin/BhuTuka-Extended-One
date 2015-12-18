@@ -22,21 +22,17 @@
       <point x="56" y="497" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="445" y="11" type="move" name="ogonek"/>
+      <point x="445.0" y="0.0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="251" y="0" type="move" name="bottom"/>
+      <point x="251.0" y="0.0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="251" y="520" type="move" name="top"/>
+      <point x="251.0" y="520.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=H</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=H</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>bkgd</key>

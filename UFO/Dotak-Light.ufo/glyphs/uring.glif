@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uring" format="1">
-  <advance width="852"/>
+  <advance width="910"/>
   <unicode hex="016F"/>
   <outline>
     <component base="u"/>
-    <component base="ringcomb" xOffset="186" yOffset="-34"/>
+    <component base="ringcomb" xOffset="218" yOffset="-173"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>852</integer>
+          <integer>910</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>852</integer>
+          <integer>910</integer>
         </dict>
       </dict>
     </dict>

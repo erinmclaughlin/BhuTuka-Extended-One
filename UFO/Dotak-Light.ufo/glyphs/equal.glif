@@ -1,27 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="equal" format="1">
-  <advance width="544"/>
+  <advance width="637"/>
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="484" y="410" type="line"/>
-      <point x="484" y="465" type="line"/>
-      <point x="60" y="465" type="line"/>
-      <point x="60" y="410" type="line"/>
+      <point x="70" y="347" type="line"/>
+      <point x="70" y="324" type="line"/>
+      <point x="567" y="324" type="line"/>
+      <point x="567" y="347" type="line"/>
     </contour>
     <contour>
-      <point x="484" y="215" type="line"/>
-      <point x="484" y="271" type="line"/>
-      <point x="60" y="271" type="line"/>
-      <point x="60" y="215" type="line"/>
+      <point x="70" y="146" type="line"/>
+      <point x="70" y="123" type="line"/>
+      <point x="567" y="123" type="line"/>
+      <point x="567" y="146" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>equal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>637</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>equal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>637</integer>
+        </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

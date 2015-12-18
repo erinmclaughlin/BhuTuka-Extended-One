@@ -722,8 +722,6 @@
 	<string>m.glif</string>
 	<key>macron</key>
 	<string>macron.glif</string>
-	<key>macronmod</key>
-	<string>macronmod.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
 	<key>mu.math</key>
@@ -866,8 +864,6 @@
 	<string>six.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
-	<key>softhyphen</key>
-	<string>softhyphen.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>sterling</key>

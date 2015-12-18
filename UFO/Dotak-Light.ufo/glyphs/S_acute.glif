@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sacute" format="1">
-  <advance width="848"/>
+  <advance width="867"/>
   <unicode hex="015A"/>
   <outline>
     <component base="S"/>
-    <component base="acute" xOffset="231" yOffset="109"/>
+    <component base="acutecomb" xOffset="332" yOffset="10"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>bkgd</key>
@@ -32,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>848</integer>
+          <integer>867</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -54,11 +52,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>848</integer>
+          <integer>867</integer>
         </dict>
       </dict>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

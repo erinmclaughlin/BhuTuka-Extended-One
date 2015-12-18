@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="1">
-  <advance width="528"/>
+  <advance width="523"/>
   <unicode hex="0165"/>
   <outline>
     <component base="t"/>
-    <component base="caroncomb" xOffset="6" yOffset="-34"/>
+    <component base="caroncomb.alt" xOffset="191" yOffset="12"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>528</integer>
+          <integer>523</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>528</integer>
+          <integer>523</integer>
         </dict>
       </dict>
     </dict>

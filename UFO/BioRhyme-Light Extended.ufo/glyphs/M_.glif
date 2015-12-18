@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="1237"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="621" y="-11" type="line"/>
+      <point x="629" y="14" type="line"/>
+      <point x="263" y="520" type="line"/>
+      <point x="232" y="520" type="line"/>
+      <point x="616" y="-11" type="line"/>
+    </contour>
+    <contour>
+      <point x="413" y="0" type="line"/>
+      <point x="413" y="23" type="line"/>
+      <point x="56" y="23" type="line"/>
+      <point x="56" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="263" y="12" type="line"/>
+      <point x="263" y="453" type="line"/>
+      <point x="263" y="475"/>
+      <point x="263" y="498"/>
+      <point x="263" y="520" type="curve"/>
+      <point x="238" y="520" type="line"/>
+      <point x="238" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="263" y="497" type="line"/>
+      <point x="263" y="520" type="line"/>
+      <point x="56" y="520" type="line"/>
+      <point x="56" y="497" type="line"/>
+    </contour>
+    <contour>
+      <point x="1181" y="0" type="line"/>
+      <point x="1181" y="23" type="line"/>
+      <point x="824" y="23" type="line"/>
+      <point x="824" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="622" y="-11" type="line"/>
+      <point x="1006" y="520" type="line"/>
+      <point x="974" y="520" type="line"/>
+      <point x="611" y="14" type="line"/>
+      <point x="617" y="-11" type="line"/>
+    </contour>
+    <contour>
+      <point x="999" y="12" type="line"/>
+      <point x="999" y="520" type="line"/>
+      <point x="974" y="520" type="line"/>
+      <point x="974" y="498"/>
+      <point x="974" y="475"/>
+      <point x="974" y="453" type="curve"/>
+      <point x="974" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="1181" y="497" type="line"/>
+      <point x="1181" y="520" type="line"/>
+      <point x="974" y="520" type="line"/>
+      <point x="974" y="497" type="line"/>
+    </contour>
+    <contour>
+      <point x="619" y="490" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="619" y="-20" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

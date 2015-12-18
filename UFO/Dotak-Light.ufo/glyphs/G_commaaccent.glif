@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcommaaccent" format="1">
-  <advance width="874"/>
+  <advance width="899"/>
   <unicode hex="0122"/>
   <outline>
     <component base="G"/>
-    <component base="commaaccentcomb" xOffset="302" yOffset="-10"/>
+    <component base="commaaccentcomb" xOffset="312" yOffset="-10"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>874</integer>
+          <integer>899</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>874</integer>
+          <integer>899</integer>
         </dict>
       </dict>
     </dict>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="1">
-  <advance width="917"/>
+  <advance width="887"/>
   <unicode hex="0046"/>
   <outline>
     <contour>
-      <point x="862" y="337" type="line"/>
-      <point x="862" y="520" type="line"/>
+      <point x="812" y="337" type="line"/>
+      <point x="812" y="520" type="line"/>
       <point x="56" y="520" type="line"/>
       <point x="56" y="497" type="line"/>
-      <point x="838" y="497" type="line"/>
-      <point x="838" y="337" type="line"/>
+      <point x="788" y="497" type="line"/>
+      <point x="788" y="337" type="line"/>
     </contour>
     <contour>
       <point x="455" y="0" type="line"/>
@@ -24,28 +24,26 @@
       <point x="238" y="13" type="line"/>
     </contour>
     <contour>
-      <point x="603" y="240" type="line"/>
-      <point x="603" y="263" type="line"/>
+      <point x="553" y="240" type="line"/>
+      <point x="553" y="263" type="line"/>
       <point x="260" y="263" type="line"/>
       <point x="260" y="240" type="line"/>
     </contour>
     <contour>
-      <point x="615" y="132" type="line"/>
-      <point x="615" y="371" type="line"/>
-      <point x="591" y="371" type="line"/>
-      <point x="591" y="132" type="line"/>
+      <point x="565" y="132" type="line"/>
+      <point x="565" y="371" type="line"/>
+      <point x="541" y="371" type="line"/>
+      <point x="541" y="132" type="line"/>
     </contour>
     <contour>
-      <point x="449" y="490" type="move" name="top"/>
+      <point x="449.0" y="490.0" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="449" y="0" type="move" name="bottom"/>
+      <point x="449.0" y="0.0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=H</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>bkgd</key>
@@ -68,7 +66,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>917</integer>
+          <integer>887</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -90,7 +88,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>917</integer>
+          <integer>887</integer>
         </dict>
       </dict>
     </dict>

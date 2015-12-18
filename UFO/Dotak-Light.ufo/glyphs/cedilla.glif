@@ -38,7 +38,7 @@
       <point x="192" y="-175" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="160" y="-10" type="move" name="_bottom"/>
+      <point x="128.0" y="-10.0" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>

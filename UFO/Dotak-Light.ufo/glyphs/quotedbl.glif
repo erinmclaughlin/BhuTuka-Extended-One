@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="1">
-  <advance width="391"/>
+  <advance width="371"/>
   <unicode hex="0022"/>
   <outline>
-    <component base="quotedblright" xOffset="-4"/>
+    <contour>
+      <point x="85" y="360" type="line"/>
+      <point x="101" y="358" type="line"/>
+      <point x="146" y="556" type="line"/>
+      <point x="111" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="235" y="360" type="line"/>
+      <point x="251" y="358" type="line"/>
+      <point x="296" y="556" type="line"/>
+      <point x="261" y="562" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -29,7 +40,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>391</integer>
+          <integer>371</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -51,16 +62,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>391</integer>
+          <integer>371</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.974</real>
-        <real>0.577</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

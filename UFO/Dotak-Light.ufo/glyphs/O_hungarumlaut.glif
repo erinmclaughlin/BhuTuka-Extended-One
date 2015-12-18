@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohungarumlaut" format="1">
-  <advance width="906"/>
+  <advance width="916"/>
   <unicode hex="0150"/>
   <outline>
     <component base="O"/>
-    <component base="hungarumlautcomb" xOffset="206" yOffset="119"/>
+    <component base="hungarumlautcomb" xOffset="211" yOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>906</integer>
+          <integer>916</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>906</integer>
+          <integer>916</integer>
         </dict>
       </dict>
     </dict>

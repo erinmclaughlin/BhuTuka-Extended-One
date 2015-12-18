@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="1">
-  <advance width="959"/>
+  <advance width="964"/>
   <unicode hex="0044"/>
   <outline>
     <contour>
@@ -30,21 +30,17 @@
       <point x="238" y="13" type="line"/>
     </contour>
     <contour>
-      <point x="480" y="245" type="move" name="center"/>
+      <point x="480.0" y="245.0" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="480" y="0" type="move" name="bottom"/>
+      <point x="480.0" y="0.0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="480" y="520" type="move" name="top"/>
+      <point x="480.0" y="520.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=H</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=O</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>bkgd</key>
@@ -67,7 +63,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>959</integer>
+          <integer>964</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -89,7 +85,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>959</integer>
+          <integer>964</integer>
         </dict>
       </dict>
     </dict>

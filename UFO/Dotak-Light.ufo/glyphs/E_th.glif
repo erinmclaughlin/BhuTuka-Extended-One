@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
-  <advance width="959"/>
+  <advance width="964"/>
   <unicode hex="00D0"/>
   <outline>
-    <contour>
-      <point x="80" y="256" type="line"/>
-      <point x="80" y="234" type="line"/>
-      <point x="641" y="234" type="line"/>
-      <point x="641" y="256" type="line"/>
-    </contour>
     <component base="D"/>
+    <component base="strokeshortcomb" xOffset="-10" yOffset="22"/>
   </outline>
   <lib>
     <dict>
@@ -35,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>959</integer>
+          <integer>964</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -57,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>959</integer>
+          <integer>964</integer>
         </dict>
       </dict>
     </dict>

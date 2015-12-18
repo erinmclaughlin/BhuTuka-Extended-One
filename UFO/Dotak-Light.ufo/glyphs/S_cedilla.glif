@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scedilla" format="1">
-  <advance width="848"/>
+  <advance width="867"/>
   <unicode hex="015E"/>
   <outline>
     <component base="S"/>
-    <component base="caroncomb" xOffset="202" yOffset="119"/>
+    <component base="cedillacomb" xOffset="342"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>848</integer>
+          <integer>867</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>848</integer>
+          <integer>867</integer>
         </dict>
       </dict>
     </dict>

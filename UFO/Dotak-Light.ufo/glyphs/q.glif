@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="1">
-  <advance width="895"/>
+  <advance width="905"/>
   <unicode hex="0071"/>
   <outline>
     <contour>
@@ -39,24 +39,23 @@
     </contour>
     <contour>
       <point x="698" y="-165" type="line"/>
-      <point x="698" y="375" type="line"/>
-      <point x="673" y="375" type="line"/>
+      <point x="698" y="368" type="line"/>
+      <point x="686" y="368" type="line"/>
+      <point x="673" y="301" type="line"/>
       <point x="673" y="-165" type="line"/>
     </contour>
     <contour>
-      <point x="382" y="179" type="move" name="center"/>
+      <point x="382.0" y="179.0" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="382" y="-10" type="move" name="bottom"/>
+      <point x="382.0" y="-10.0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="382" y="367" type="move" name="top"/>
+      <point x="382.0" y="367.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=o</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>bkgd</key>
@@ -79,7 +78,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>895</integer>
+          <integer>905</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -101,7 +100,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>895</integer>
+          <integer>905</integer>
         </dict>
       </dict>
     </dict>

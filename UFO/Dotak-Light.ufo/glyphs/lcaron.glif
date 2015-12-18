@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="1">
-  <advance width="434"/>
+  <advance width="449"/>
   <unicode hex="013E"/>
   <outline>
     <component base="l"/>
-    <component base="caroncomb" xOffset="-42" yOffset="169"/>
+    <component base="caroncomb.alt" xOffset="243" yOffset="-103"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>434</integer>
+          <integer>449</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>434</integer>
+          <integer>449</integer>
         </dict>
       </dict>
     </dict>

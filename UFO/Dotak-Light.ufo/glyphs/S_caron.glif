@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron" format="1">
-  <advance width="848"/>
+  <advance width="867"/>
   <unicode hex="0160"/>
   <outline>
     <component base="S"/>
-    <component base="acutecomb" xOffset="221" yOffset="89"/>
+    <component base="caroncomb" xOffset="218" yOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>848</integer>
+          <integer>867</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>848</integer>
+          <integer>867</integer>
         </dict>
       </dict>
     </dict>

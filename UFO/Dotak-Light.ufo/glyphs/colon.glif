@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon" format="1">
-  <advance width="246"/>
+  <advance width="274"/>
   <unicode hex="003A"/>
   <outline>
-    <component base="period" yOffset="312"/>
-    <component base="period"/>
+    <contour>
+      <point x="169" y="302"/>
+      <point x="186" y="316"/>
+      <point x="186" y="334" type="curve"/>
+      <point x="186" y="353"/>
+      <point x="169" y="366"/>
+      <point x="137" y="366" type="curve"/>
+      <point x="106" y="366"/>
+      <point x="88" y="353"/>
+      <point x="88" y="334" type="curve"/>
+      <point x="88" y="316"/>
+      <point x="106" y="302"/>
+      <point x="137" y="302" type="curve"/>
+    </contour>
+    <contour>
+      <point x="169" y="-10"/>
+      <point x="186" y="4"/>
+      <point x="186" y="22" type="curve"/>
+      <point x="186" y="41"/>
+      <point x="169" y="54"/>
+      <point x="137" y="54" type="curve"/>
+      <point x="106" y="54"/>
+      <point x="88" y="41"/>
+      <point x="88" y="22" type="curve"/>
+      <point x="88" y="4"/>
+      <point x="106" y="-10"/>
+      <point x="137" y="-10" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -30,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>246</integer>
+          <integer>274</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,16 +78,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>246</integer>
+          <integer>274</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.974</real>
-        <real>0.577</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

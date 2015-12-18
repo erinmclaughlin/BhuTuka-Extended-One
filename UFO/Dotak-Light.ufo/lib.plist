@@ -983,7 +983,6 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
-		<string>softhyphen</string>
 		<string>guillemotleft</string>
 		<string>guillemotright</string>
 		<string>guilsinglleft</string>
@@ -1062,7 +1061,6 @@
 		<string>ogonek</string>
 		<string>ring</string>
 		<string>tilde</string>
-		<string>macronmod</string>
 		<string>grAdakbindi</string>
 		<string>grBindi</string>
 		<string>grNukta</string>

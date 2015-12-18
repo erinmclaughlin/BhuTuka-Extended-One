@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="834"/>
+  <advance width="839"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
@@ -24,22 +24,20 @@
       <point x="56" y="497" type="line"/>
     </contour>
     <contour>
-      <point x="412" y="245" type="move" name="center"/>
+      <point x="449.0" y="0.0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="412" y="520" type="move" name="top"/>
+      <point x="237.0" y="520.0" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="804" y="490" type="move" name="topright"/>
+      <point x="448.0" y="338.0" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="412" y="0" type="move" name="bottom"/>
+      <point x="412.0" y="245.0" type="move" name="center"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=H</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>bkgd</key>
@@ -62,7 +60,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>834</integer>
+          <integer>839</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -84,7 +82,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>834</integer>
+          <integer>839</integer>
         </dict>
       </dict>
     </dict>

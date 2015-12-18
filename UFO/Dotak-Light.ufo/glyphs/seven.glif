@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="642"/>
+  <advance width="708"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="207" y="0" type="line"/>
-      <point x="240" y="0" type="line"/>
-      <point x="652" y="447" type="line"/>
-      <point x="624" y="453" type="line"/>
+      <point x="211" y="4" type="line"/>
+      <point x="227" y="-10" type="line"/>
+      <point x="668" y="444" type="line"/>
+      <point x="642" y="450" type="line"/>
     </contour>
     <contour>
-      <point x="49" y="470" type="line"/>
-      <point x="49" y="298" type="line"/>
-      <point x="73" y="298" type="line"/>
-      <point x="73" y="447" type="line"/>
-      <point x="652" y="447" type="line"/>
-      <point x="652" y="470" type="line"/>
+      <point x="65" y="467" type="line"/>
+      <point x="65" y="284" type="line"/>
+      <point x="89" y="284" type="line"/>
+      <point x="89" y="444" type="line"/>
+      <point x="668" y="444" type="line"/>
+      <point x="668" y="467" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>642</integer>
+          <integer>708</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -64,7 +64,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>642</integer>
+          <integer>708</integer>
         </dict>
       </dict>
     </dict>

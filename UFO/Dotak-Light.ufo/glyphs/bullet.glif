@@ -1,29 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bullet" format="1">
-  <advance width="455"/>
+  <advance width="320"/>
   <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="302" y="223"/>
-      <point x="360" y="281"/>
-      <point x="360" y="356" type="curve"/>
-      <point x="360" y="431"/>
-      <point x="302" y="489"/>
-      <point x="227" y="489" type="curve"/>
-      <point x="151" y="489"/>
-      <point x="95" y="431"/>
-      <point x="95" y="356" type="curve"/>
-      <point x="95" y="281"/>
-      <point x="151" y="223"/>
-      <point x="228" y="223" type="curve"/>
+      <point x="210" y="200"/>
+      <point x="236" y="221"/>
+      <point x="236" y="248" type="curve"/>
+      <point x="236" y="278"/>
+      <point x="210" y="300"/>
+      <point x="160" y="300" type="curve"/>
+      <point x="112" y="300"/>
+      <point x="84" y="278"/>
+      <point x="84" y="248" type="curve"/>
+      <point x="84" y="221"/>
+      <point x="112" y="200"/>
+      <point x="160" y="200" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bullet</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>320</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bullet</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>320</integer>
+        </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

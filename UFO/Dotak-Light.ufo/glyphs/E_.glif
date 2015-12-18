@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="967"/>
+  <advance width="992"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
@@ -38,32 +38,17 @@
       <point x="837" y="337" type="line"/>
     </contour>
     <contour>
-      <point x="760" y="10" type="move" name="ogonek"/>
+      <point x="862.0" y="0.0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="456" y="10" type="move" name="bottom"/>
+      <point x="501.0" y="0.0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="456" y="490" type="move" name="top"/>
+      <point x="529.0" y="520.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=H</string>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>x</key>
-          <integer>417</integer>
-          <key>y</key>
-          <integer>307</integer>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>bkgd</key>
@@ -86,7 +71,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>967</integer>
+          <integer>992</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -108,7 +93,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>967</integer>
+          <integer>992</integer>
         </dict>
       </dict>
     </dict>

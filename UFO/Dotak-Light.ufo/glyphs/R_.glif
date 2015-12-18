@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="1">
-  <advance width="1047"/>
+  <advance width="1057"/>
   <unicode hex="0052"/>
   <outline>
     <contour>
@@ -62,16 +62,14 @@
       <point x="854" y="-10" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="524" y="520" type="move" name="top"/>
+      <point x="524.0" y="520.0" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="564" y="0" type="move" name="bottom"/>
+      <point x="564.0" y="0.0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=H</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>bkgd</key>
@@ -94,7 +92,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1047</integer>
+          <integer>1057</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -116,7 +114,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1047</integer>
+          <integer>1057</integer>
         </dict>
       </dict>
     </dict>

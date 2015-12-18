@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcedilla" format="1">
-  <advance width="861"/>
+  <advance width="921"/>
   <unicode hex="0162"/>
   <outline>
     <component base="T"/>
-    <component base="cedillacomb" xOffset="250" yOffset="10"/>
+    <component base="cedillacomb" xOffset="333" yOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>861</integer>
+          <integer>921</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>861</integer>
+          <integer>921</integer>
         </dict>
       </dict>
     </dict>
