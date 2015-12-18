@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grmEE" format="1">
   <advance width="0"/>
+  <unicode hex="0A47"/>
+  <unicode hex="0A43"/>
   <outline>
     <contour>
       <point x="-614" y="741" type="line"/>

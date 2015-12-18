@@ -83,12 +83,12 @@ feature blws {
 # Above- and Below-base Mark Positioning
 # --------------------------------------
 
-include (markclasses.fea);
+####include (markclasses.fea);
 
-feature abvm {
-  include (abvm.fea);
-} abvm;
+###feature abvm {
+###  include (abvm.fea);
+###} abvm;
 
-feature blwm {
-  include (blwm.fea);
-} blwm;
+###feature blwm {
+###  include (blwm.fea);
+###} blwm;

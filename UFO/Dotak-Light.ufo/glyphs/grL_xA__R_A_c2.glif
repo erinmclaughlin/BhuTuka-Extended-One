@@ -2,9 +2,8 @@
 <glyph name="grLxA_RAc2" format="1">
   <advance width="982"/>
   <outline>
-    <component base="grNukta" xOffset="552" yOffset="-3"/>
     <component base="grLA_RAc2"/>
-    <component base="grNukta" xOffset="1737" yOffset="-30"/>
+    <component base="grNukta" xOffset="1737" yOffset="-10"/>
     <contour>
       <point x="326" y="635" type="move" name="top.addak"/>
     </contour>

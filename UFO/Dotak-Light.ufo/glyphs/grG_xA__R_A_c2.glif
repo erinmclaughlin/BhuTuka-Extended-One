@@ -3,7 +3,7 @@
   <advance width="1116"/>
   <outline>
     <component base="grGA_RAc2"/>
-    <component base="grNukta" xOffset="810" yOffset="-30"/>
+    <component base="grNukta" xOffset="846" yOffset="-16"/>
     <contour>
       <point x="589" y="635" type="move" name="top.addak"/>
     </contour>

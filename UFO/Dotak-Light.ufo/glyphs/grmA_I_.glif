@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grmAI" format="1">
   <advance width="0"/>
+  <unicode hex="0A48"/>
+  <unicode hex="0A44"/>
   <outline>
     <contour>
       <point x="-687" y="654" type="line"/>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grmU" format="1">
   <advance width="0"/>
+  <unicode hex="0A41"/>
   <outline>
     <contour>
       <point x="-716" y="-99" type="line"/>

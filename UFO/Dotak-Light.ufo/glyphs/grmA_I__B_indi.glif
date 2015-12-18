@@ -3,7 +3,7 @@
   <advance width="0"/>
   <outline>
     <component base="grmAI"/>
-    <component base="grBindi" xOffset="110"/>
+    <component base="grBindi" xOffset="101"/>
   </outline>
   <lib>
     <dict>

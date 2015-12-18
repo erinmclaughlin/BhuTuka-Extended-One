@@ -4,7 +4,7 @@
   <unicode hex="0A5A"/>
   <outline>
     <component base="grGA"/>
-    <component base="grNukta" xOffset="810" yOffset="-30"/>
+    <component base="grNukta" xOffset="846" yOffset="-16"/>
     <contour>
       <point x="903" y="490" type="move" name="top"/>
     </contour>
