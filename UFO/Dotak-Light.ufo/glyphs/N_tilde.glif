@@ -3,8 +3,56 @@
   <advance width="1107"/>
   <unicode hex="00D1"/>
   <outline>
-    <component base="N"/>
-    <component base="tildecomb" xOffset="260" yOffset="-10"/>
+    <contour>
+      <point x="753" y="728" type="curve"/>
+      <point x="732" y="732" type="line"/>
+      <point x="721" y="665"/>
+      <point x="686" y="638"/>
+      <point x="648" y="638" type="curve" smooth="yes"/>
+      <point x="614" y="638"/>
+      <point x="583" y="659"/>
+      <point x="551" y="682" type="curve" smooth="yes"/>
+      <point x="516" y="706"/>
+      <point x="483" y="732"/>
+      <point x="438" y="732" type="curve" smooth="yes"/>
+      <point x="378" y="732"/>
+      <point x="341" y="686"/>
+      <point x="330" y="618" type="curve"/>
+      <point x="351" y="614" type="line"/>
+      <point x="362" y="682"/>
+      <point x="397" y="710"/>
+      <point x="436" y="710" type="curve" smooth="yes"/>
+      <point x="471" y="710"/>
+      <point x="500" y="689"/>
+      <point x="532" y="666" type="curve" smooth="yes"/>
+      <point x="567" y="642"/>
+      <point x="602" y="616"/>
+      <point x="646" y="616" type="curve" smooth="yes"/>
+      <point x="705" y="616"/>
+      <point x="742" y="661"/>
+    </contour>
+    <contour>
+      <point x="910" y="-5" type="line"/>
+      <point x="910" y="497" type="line"/>
+      <point x="1092" y="497" type="line"/>
+      <point x="1092" y="520" type="line"/>
+      <point x="703" y="520" type="line"/>
+      <point x="703" y="497" type="line"/>
+      <point x="885" y="497" type="line"/>
+      <point x="885" y="43" type="line"/>
+      <point x="263" y="520" type="line"/>
+      <point x="56" y="520" type="line"/>
+      <point x="56" y="497" type="line"/>
+      <point x="238" y="497" type="line"/>
+      <point x="238" y="23" type="line"/>
+      <point x="56" y="23" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="445" y="0" type="line"/>
+      <point x="445" y="23" type="line"/>
+      <point x="263" y="23" type="line"/>
+      <point x="263" y="486" type="line"/>
+      <point x="905" y="-5" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -55,6 +103,13 @@
           <integer>1107</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8891</real>
+        <real>0.9578</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

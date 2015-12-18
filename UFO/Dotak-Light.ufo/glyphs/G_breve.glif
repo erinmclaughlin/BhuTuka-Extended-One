@@ -4,7 +4,7 @@
   <unicode hex="011E"/>
   <outline>
     <component base="G"/>
-    <component base="breve" xOffset="186" yOffset="139"/>
+    <component base="breve" xOffset="186" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -57,6 +57,13 @@
           <integer>874</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7255</real>
+        <real>0.7149</real>
+        <real>1.0</real>
+      </array>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
     </dict>

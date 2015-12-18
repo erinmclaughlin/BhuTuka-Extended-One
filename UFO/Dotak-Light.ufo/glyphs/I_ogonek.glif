@@ -3,8 +3,39 @@
   <advance width="501"/>
   <unicode hex="012E"/>
   <outline>
-    <component base="I"/>
-    <component base="ogonekcomb" xOffset="267"/>
+    <contour>
+      <point x="580" y="-129" type="curve"/>
+      <point x="570" y="-109" type="line"/>
+      <point x="544" y="-126"/>
+      <point x="505" y="-144"/>
+      <point x="457" y="-144" type="curve" smooth="yes"/>
+      <point x="405" y="-144"/>
+      <point x="362" y="-121"/>
+      <point x="362" y="-82" type="curve" smooth="yes"/>
+      <point x="362" y="-42"/>
+      <point x="398" y="-16"/>
+      <point x="445" y="0" type="curve"/>
+      <point x="445" y="23" type="line"/>
+      <point x="263" y="23" type="line"/>
+      <point x="263" y="497" type="line"/>
+      <point x="445" y="497" type="line"/>
+      <point x="445" y="520" type="line"/>
+      <point x="56" y="520" type="line"/>
+      <point x="56" y="497" type="line"/>
+      <point x="238" y="497" type="line"/>
+      <point x="238" y="23" type="line"/>
+      <point x="56" y="23" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="407" y="0" type="line"/>
+      <point x="362" y="-19"/>
+      <point x="337" y="-49"/>
+      <point x="337" y="-85" type="curve" smooth="yes"/>
+      <point x="337" y="-137"/>
+      <point x="392" y="-167"/>
+      <point x="457" y="-167" type="curve" smooth="yes"/>
+      <point x="512" y="-167"/>
+      <point x="552" y="-147"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -55,6 +86,13 @@
           <integer>501</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8891</real>
+        <real>0.9578</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -3,8 +3,34 @@
   <advance width="1107"/>
   <unicode hex="0143"/>
   <outline>
-    <component base="N"/>
-    <component base="acutecomb" xOffset="433" yOffset="-10"/>
+    <contour>
+      <point x="483" y="590" type="line"/>
+      <point x="492" y="574" type="line"/>
+      <point x="733" y="703" type="line"/>
+      <point x="718" y="731" type="line"/>
+    </contour>
+    <contour>
+      <point x="910" y="-5" type="line"/>
+      <point x="910" y="497" type="line"/>
+      <point x="1092" y="497" type="line"/>
+      <point x="1092" y="520" type="line"/>
+      <point x="703" y="520" type="line"/>
+      <point x="703" y="497" type="line"/>
+      <point x="885" y="497" type="line"/>
+      <point x="885" y="43" type="line"/>
+      <point x="263" y="520" type="line"/>
+      <point x="56" y="520" type="line"/>
+      <point x="56" y="497" type="line"/>
+      <point x="238" y="497" type="line"/>
+      <point x="238" y="23" type="line"/>
+      <point x="56" y="23" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="445" y="0" type="line"/>
+      <point x="445" y="23" type="line"/>
+      <point x="263" y="23" type="line"/>
+      <point x="263" y="486" type="line"/>
+      <point x="905" y="-5" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -55,6 +81,13 @@
           <integer>1107</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8891</real>
+        <real>0.9578</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

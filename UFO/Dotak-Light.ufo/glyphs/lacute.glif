@@ -3,8 +3,24 @@
   <advance width="449"/>
   <unicode hex="013A"/>
   <outline>
-    <component base="l"/>
-    <component base="acutecomb" xOffset="94"/>
+    <contour>
+      <point x="144" y="600" type="line"/>
+      <point x="153" y="584" type="line"/>
+      <point x="394" y="713" type="line"/>
+      <point x="379" y="741" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="0" type="line"/>
+      <point x="419" y="23" type="line"/>
+      <point x="237" y="23" type="line"/>
+      <point x="237" y="520" type="line"/>
+      <point x="30" y="520" type="line"/>
+      <point x="30" y="497" type="line"/>
+      <point x="212" y="497" type="line"/>
+      <point x="212" y="23" type="line"/>
+      <point x="30" y="23" type="line"/>
+      <point x="30" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -55,6 +71,13 @@
           <integer>449</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8891</real>
+        <real>0.9578</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
