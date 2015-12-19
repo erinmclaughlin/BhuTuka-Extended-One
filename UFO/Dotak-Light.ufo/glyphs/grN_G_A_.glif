@@ -56,11 +56,28 @@
     <contour>
       <point x="629.0" y="490.0" type="move" name="top"/>
     </contour>
+    <contour>
+      <point x="431" y="490" type="move" name="topmid"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guides</key>
       <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>431</integer>
+          <key>y</key>
+          <integer>357</integer>
+        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>

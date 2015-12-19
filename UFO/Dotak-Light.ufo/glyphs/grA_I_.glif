@@ -4,7 +4,7 @@
   <unicode hex="0A10"/>
   <outline>
     <component base="grA"/>
-    <component base="grmAI" xOffset="1064"/>
+    <component base="grmAI" xOffset="1076"/>
     <contour>
       <point x="1418" y="1248" type="move" name="mark0"/>
     </contour>
