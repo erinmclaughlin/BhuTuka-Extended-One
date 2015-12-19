@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grKA_RAc2" format="1">
-  <advance width="887"/>
+  <advance width="907"/>
   <outline>
     <component base="grKA"/>
-    <component base="grRAc2" xOffset="593" yOffset="30"/>
-    <contour>
-      <point x="466" y="635" type="move" name="top.addak"/>
-    </contour>
-    <contour>
-      <point x="466" y="635" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="466" y="635" type="move" name="top.bindi"/>
-    </contour>
-    <contour>
-      <point x="466" y="635" type="move" name="top.tippi"/>
-    </contour>
-    <contour>
-      <point x="321" y="-142" type="move" name="bottom"/>
-    </contour>
+    <component base="grRAc2" xOffset="593" yOffset="39"/>
   </outline>
   <lib>
     <dict>
@@ -44,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>887</integer>
+          <integer>907</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -66,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>887</integer>
+          <integer>907</integer>
         </dict>
       </dict>
     </dict>

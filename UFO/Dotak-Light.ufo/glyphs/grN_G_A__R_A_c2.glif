@@ -3,22 +3,7 @@
   <advance width="875"/>
   <outline>
     <component base="grNGA"/>
-    <component base="grRAc2" xOffset="585" yOffset="-10"/>
-    <contour>
-      <point x="290" y="635" type="move" name="top.addak"/>
-    </contour>
-    <contour>
-      <point x="391" y="635" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="290" y="635" type="move" name="top.bindi"/>
-    </contour>
-    <contour>
-      <point x="290" y="635" type="move" name="top.tippi"/>
-    </contour>
-    <contour>
-      <point x="344" y="-142" type="move" name="bottom"/>
-    </contour>
+    <component base="grRAc2" xOffset="585" yOffset="-8"/>
   </outline>
   <lib>
     <dict>

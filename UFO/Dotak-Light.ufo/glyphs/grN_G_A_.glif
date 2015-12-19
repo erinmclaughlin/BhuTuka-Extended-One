@@ -53,12 +53,6 @@
       <point x="549" y="145"/>
       <point x="415" y="183"/>
     </contour>
-    <contour>
-      <point x="629.0" y="490.0" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="431" y="490" type="move" name="topmid"/>
-    </contour>
   </outline>
   <lib>
     <dict>

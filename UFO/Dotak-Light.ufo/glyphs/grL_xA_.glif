@@ -5,9 +5,6 @@
   <outline>
     <component base="grLA"/>
     <component base="grNukta" xOffset="1737" yOffset="-10"/>
-    <contour>
-      <point x="765" y="490" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

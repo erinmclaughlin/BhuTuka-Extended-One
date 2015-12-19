@@ -5,7 +5,7 @@
 	<key>grBHA</key>
 	<dict>
 		<key>grYAc2</key>
-		<integer>60</integer>
+		<integer>25</integer>
 	</dict>
 	<key>grCHA</key>
 	<dict>
@@ -20,7 +20,7 @@
 	<key>grDDA</key>
 	<dict>
 		<key>grYAc2</key>
-		<integer>55</integer>
+		<integer>20</integer>
 	</dict>
 	<key>grDDHA</key>
 	<dict>
@@ -31,11 +31,6 @@
 	<dict>
 		<key>grYAc2</key>
 		<integer>90</integer>
-	</dict>
-	<key>grKA</key>
-	<dict>
-		<key>grYAc2</key>
-		<integer>25</integer>
 	</dict>
 	<key>grLA</key>
 	<dict>
@@ -80,12 +75,12 @@
 	<key>grRRA</key>
 	<dict>
 		<key>grYAc2</key>
-		<integer>60</integer>
+		<integer>25</integer>
 	</dict>
 	<key>grTA</key>
 	<dict>
 		<key>grYAc2</key>
-		<integer>60</integer>
+		<integer>25</integer>
 	</dict>
 	<key>grTTA</key>
 	<dict>

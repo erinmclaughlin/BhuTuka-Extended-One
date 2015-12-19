@@ -21,18 +21,6 @@
       <point x="30" y="520" type="line"/>
       <point x="30" y="497" type="line"/>
     </contour>
-    <contour>
-      <point x="212.0" y="0.0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="212.0" y="520.0" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="280.0" y="337.0" type="move" name="topright"/>
-    </contour>
-    <contour>
-      <point x="212.0" y="283.0" type="move" name="center"/>
-    </contour>
   </outline>
   <lib>
     <dict>

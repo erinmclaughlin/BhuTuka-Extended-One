@@ -4,21 +4,6 @@
   <outline>
     <component base="grRAc2" xOffset="926" yOffset="30"/>
     <component base="grTHA"/>
-    <contour>
-      <point x="483" y="635" type="move" name="top.addak"/>
-    </contour>
-    <contour>
-      <point x="483" y="635" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="483" y="635" type="move" name="top.bindi"/>
-    </contour>
-    <contour>
-      <point x="483" y="635" type="move" name="top.tippi"/>
-    </contour>
-    <contour>
-      <point x="330" y="-141" type="move" name="bottom"/>
-    </contour>
   </outline>
   <lib>
     <dict>

@@ -43,15 +43,6 @@
       <point x="208" y="-10"/>
       <point x="370" y="-10" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="666.0" y="69.0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="370.0" y="-10.0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="376.0" y="367.0" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

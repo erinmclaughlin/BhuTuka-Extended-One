@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grKA" format="1">
-  <advance width="887"/>
+  <advance width="907"/>
   <unicode hex="0A15"/>
   <outline>
     <contour>
-      <point x="897" y="467" type="line"/>
-      <point x="897" y="490" type="line"/>
+      <point x="917" y="467" type="line"/>
+      <point x="917" y="490" type="line"/>
       <point x="-10" y="490" type="line"/>
       <point x="-10" y="467" type="line"/>
     </contour>
@@ -44,18 +44,6 @@
       <point x="776" y="4" type="line"/>
       <point x="744" y="85"/>
       <point x="697" y="166"/>
-    </contour>
-    <contour>
-      <point x="694" y="490" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="357" y="490" type="move" name="topmid"/>
-    </contour>
-    <contour>
-      <point x="753" y="-10" type="move" name="btm"/>
-    </contour>
-    <contour>
-      <point x="357" y="0" type="move" name="btmmid"/>
     </contour>
   </outline>
   <lib>
@@ -1673,7 +1661,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>887</integer>
+          <integer>907</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -1695,9 +1683,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>887</integer>
+          <integer>907</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

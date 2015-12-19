@@ -51,18 +51,6 @@
       <point x="519" y="357" type="line"/>
       <point x="519" y="334" type="line"/>
     </contour>
-    <contour>
-      <point x="850.0" y="19.0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="424.0" y="347.0" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="825.0" y="357.0" type="move" name="topright"/>
-    </contour>
-    <contour>
-      <point x="381.0" y="-10.0" type="move" name="bottom"/>
-    </contour>
   </outline>
   <lib>
     <dict>

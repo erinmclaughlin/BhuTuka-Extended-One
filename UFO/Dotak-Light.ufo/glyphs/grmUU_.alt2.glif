@@ -2,9 +2,9 @@
 <glyph name="grmUU.alt2" format="1">
   <advance width="0"/>
   <outline>
-    <component base="grmUU" yOffset="-160"/>
+    <component base="grmUU" yOffset="-170"/>
     <contour>
-      <point x="-284.0" y="0.0" type="move" name="_bottom"/>
+      <point x="-440.0" y="489.0" type="move" name="center"/>
     </contour>
   </outline>
   <lib>
@@ -319,8 +319,8 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
-        <real>0.974</real>
-        <real>0.577</real>
+        <real>0.7255</real>
+        <real>0.7149</real>
         <real>1.0</real>
       </array>
       <key>public.markColor</key>

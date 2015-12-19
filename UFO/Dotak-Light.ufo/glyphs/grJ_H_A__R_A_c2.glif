@@ -10,21 +10,6 @@
     </contour>
     <component base="grRAc2" xOffset="752" yOffset="30"/>
     <component base="grJHA"/>
-    <contour>
-      <point x="246" y="635" type="move" name="top.addak"/>
-    </contour>
-    <contour>
-      <point x="406" y="635" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="246" y="635" type="move" name="top.bindi"/>
-    </contour>
-    <contour>
-      <point x="246" y="635" type="move" name="top.tippi"/>
-    </contour>
-    <contour>
-      <point x="255" y="-94" type="move" name="bottom"/>
-    </contour>
   </outline>
   <lib>
     <dict>

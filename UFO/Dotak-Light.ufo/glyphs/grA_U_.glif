@@ -5,9 +5,6 @@
   <outline>
     <component base="grA"/>
     <component base="grmAU" xOffset="1079"/>
-    <contour>
-      <point x="1698" y="1248" type="move" name="mark0"/>
-    </contour>
   </outline>
   <lib>
     <dict>

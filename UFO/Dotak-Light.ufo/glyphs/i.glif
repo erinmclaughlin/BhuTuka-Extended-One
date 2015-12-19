@@ -35,15 +35,6 @@
       <point x="204" y="469"/>
       <point x="234" y="469" type="curve"/>
     </contour>
-    <contour>
-      <point x="410.0" y="10.0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="217.0" y="0.0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="227.0" y="357.0" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

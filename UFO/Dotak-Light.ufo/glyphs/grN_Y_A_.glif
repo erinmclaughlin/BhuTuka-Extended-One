@@ -15,12 +15,6 @@
     </contour>
     <component base="uni0A35"/>
     <component base="grVA"/>
-    <contour>
-      <point x="773" y="490" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="484" y="490" type="move" name="topmid"/>
-    </contour>
   </outline>
   <lib>
     <dict>

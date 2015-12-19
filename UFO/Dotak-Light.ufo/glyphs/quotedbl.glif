@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="1">
-  <advance width="371"/>
+  <advance width="391"/>
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="85" y="360" type="line"/>
-      <point x="101" y="358" type="line"/>
-      <point x="146" y="556" type="line"/>
-      <point x="111" y="562" type="line"/>
+      <point x="95" y="360" type="line"/>
+      <point x="111" y="358" type="line"/>
+      <point x="156" y="556" type="line"/>
+      <point x="121" y="562" type="line"/>
     </contour>
     <contour>
-      <point x="235" y="360" type="line"/>
-      <point x="251" y="358" type="line"/>
-      <point x="296" y="556" type="line"/>
-      <point x="261" y="562" type="line"/>
+      <point x="245" y="360" type="line"/>
+      <point x="261" y="358" type="line"/>
+      <point x="306" y="556" type="line"/>
+      <point x="271" y="562" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +40,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>371</integer>
+          <integer>391</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -62,9 +62,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>371</integer>
+          <integer>391</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

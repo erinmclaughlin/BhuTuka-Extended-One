@@ -20,6 +20,9 @@
       <point x="-489" y="669"/>
     </contour>
     <component base="grTippi"/>
+    <contour>
+      <point x="-197" y="489" type="move" name="_center"/>
+    </contour>
   </outline>
   <lib>
     <dict>

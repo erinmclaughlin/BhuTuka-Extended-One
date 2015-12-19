@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grBHA_RAc2" format="1">
-  <advance width="846"/>
+  <advance width="876"/>
   <outline>
     <component base="grRAc2" xOffset="769" yOffset="-7"/>
     <component base="grBHA"/>
-    <contour>
-      <point x="403" y="635" type="move" name="top.addak"/>
-    </contour>
-    <contour>
-      <point x="403" y="635" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="403" y="635" type="move" name="top.bindi"/>
-    </contour>
-    <contour>
-      <point x="403" y="635" type="move" name="top.tippi"/>
-    </contour>
-    <contour>
-      <point x="231" y="-161" type="move" name="bottom"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -44,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>846</integer>
+          <integer>876</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -66,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>846</integer>
+          <integer>876</integer>
         </dict>
       </dict>
     </dict>

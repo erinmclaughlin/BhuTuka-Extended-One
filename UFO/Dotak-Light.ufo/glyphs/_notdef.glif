@@ -9,16 +9,63 @@
       <point x="180" y="701" type="line"/>
     </contour>
     <contour>
-      <point x="234" y="651" type="line"/>
-      <point x="516" y="651" type="line"/>
-      <point x="516" y="50" type="line"/>
-      <point x="234" y="50" type="line"/>
+      <point x="205" y="678" type="line"/>
+      <point x="545" y="678" type="line"/>
+      <point x="545" y="23" type="line"/>
+      <point x="205" y="23" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>0</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>.notdef</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>750</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>.notdef</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>750</integer>
+        </dict>
+      </dict>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>
