@@ -1,16 +1,24 @@
 @generated_MARKS = [
   grmU
+  grmU.alt
   grmUU
   grmUU.alt
   grmEE
   grmAI
   grmOO
+  grmOO.alt
   grmAU
   grBindi
+  grBindi.alt
+  grBindi.alt2
   grTippi
+  grTippi.alt
+  grTippi.alt2  
   grVirama
   grNukta
   grAddak
+  grAddak.alt
+  grAddak.alt2
   grAdakbindi
   grUdaat
   grYakash
@@ -21,9 +29,4 @@
   grmAI_Bindi
   grmOO_Bindi
   grmAU_Bindi
-  grAddak.alt
-  grmUU.alt2
-  grmOO.alt
-  grmU.alt
-  grTippi.alt
 ];

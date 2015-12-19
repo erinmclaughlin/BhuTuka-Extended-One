@@ -65,6 +65,7 @@ feature abvs {
   # lookup abvs_matra_oo;
   lookup abvs_exceptions;
   #lookup abvs_headline_insertion;
+  lookup abvs_centered_U;
   lookup abvs_centered;
 } abvs;
 

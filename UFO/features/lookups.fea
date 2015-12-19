@@ -61,6 +61,7 @@ lookup abvs_matra_bindi {
 
 @grUra = [grU grUU grOO grUra grmEE grmAI grmOO grmAU];
 @grCenteredbase = [grNA grTTHA grNA_RAc2 grTTHA_RAc2];
+@grUvowels = [grmU grmUU grmU.alt grmUU.alt];
 
 lookup abvs_exceptions {
   sub @grUra grAddak' by grAddak.alt;
@@ -68,12 +69,16 @@ lookup abvs_exceptions {
   sub @grUra grTippi' by grTippi.alt;
 } abvs_exceptions;
 
+lookup abvs_centered_U {
+  sub @grCenteredbase @grUvowels grTippi' by grTippi.alt2;
+  sub @grCenteredbase @grUvowels grAddak' by grAddak.alt2;
+} abvs_centered_U;
+
 lookup abvs_centered {
   sub @grCenteredbase grBindi' by grBindi.alt2;
   sub @grCenteredbase grAddak' by grAddak.alt2;
   sub @grCenteredbase grTippi' by grTippi.alt2;
-} abvs_centered;
-  
+} abvs_centered;  
 
 
 # @consonants = [

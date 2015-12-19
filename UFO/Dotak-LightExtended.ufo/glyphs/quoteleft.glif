@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteleft" format="1">
-  <advance width="297"/>
+  <advance width="317"/>
   <unicode hex="2018"/>
   <outline>
     <contour>
@@ -49,7 +49,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>297</integer>
+          <integer>317</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -71,7 +71,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>297</integer>
+          <integer>317</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

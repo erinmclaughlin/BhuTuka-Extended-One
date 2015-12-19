@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="braceleft" format="1">
-  <advance width="479"/>
+  <advance width="529"/>
   <unicode hex="007B"/>
   <outline>
     <contour>
@@ -84,7 +84,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>479</integer>
+          <integer>529</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -106,7 +106,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>479</integer>
+          <integer>529</integer>
         </dict>
       </dict>
     </dict>
