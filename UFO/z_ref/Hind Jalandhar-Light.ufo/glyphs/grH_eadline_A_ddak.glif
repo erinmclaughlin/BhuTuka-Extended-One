@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="grHeadline_Addak" format="1">
-  <advance width="132"/>
-  <outline>
-    <component base="grHeadline"/>
-    <component base="grAddak" xOffset="195"/>
-  </outline>
-</glyph>

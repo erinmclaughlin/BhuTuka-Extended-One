@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="colon.alt.001" format="1">
-  <advance width="441"/>
-  <outline>
-    <component base="period.001" yOffset="172"/>
-    <component base="period.001" yOffset="579"/>
-  </outline>
-</glyph>
