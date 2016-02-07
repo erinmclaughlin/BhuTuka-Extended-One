@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="doubledanda" format="1">
-  <advance width="577"/>
+  <advance width="621"/>
   <outline>
     <contour>
-      <point x="263" y="578" type="line"/>
-      <point x="263" y="-121" type="line"/>
-      <point x="288" y="-121" type="line"/>
-      <point x="288" y="578" type="line"/>
+      <point x="280" y="578" type="line"/>
+      <point x="280" y="-121" type="line"/>
+      <point x="305" y="-121" type="line"/>
+      <point x="305" y="578" type="line"/>
     </contour>
     <contour>
-      <point x="473" y="578" type="line"/>
-      <point x="473" y="-121" type="line"/>
-      <point x="498" y="-121" type="line"/>
-      <point x="498" y="578" type="line"/>
+      <point x="490" y="578" type="line"/>
+      <point x="490" y="-121" type="line"/>
+      <point x="515" y="-121" type="line"/>
+      <point x="515" y="578" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>577</integer>
+          <integer>621</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -61,7 +61,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>577</integer>
+          <integer>621</integer>
         </dict>
       </dict>
     </dict>

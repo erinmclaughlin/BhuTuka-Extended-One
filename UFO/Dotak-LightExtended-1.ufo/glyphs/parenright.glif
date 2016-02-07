@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenright" format="1">
-  <advance width="353"/>
+  <advance width="404"/>
   <unicode hex="0029"/>
   <outline>
     <contour>
-      <point x="107" y="-45"/>
-      <point x="258" y="68"/>
-      <point x="258" y="265" type="curve"/>
-      <point x="258" y="461"/>
-      <point x="107" y="575"/>
-      <point x="24" y="620" type="curve"/>
-      <point x="15" y="601" type="line"/>
-      <point x="89" y="556"/>
-      <point x="233" y="453"/>
-      <point x="233" y="265" type="curve"/>
-      <point x="233" y="75"/>
-      <point x="89" y="-27"/>
-      <point x="15" y="-71" type="curve"/>
-      <point x="24" y="-91" type="line"/>
+      <point x="158" y="-45"/>
+      <point x="309" y="68"/>
+      <point x="309" y="265" type="curve"/>
+      <point x="309" y="461"/>
+      <point x="158" y="575"/>
+      <point x="75" y="620" type="curve"/>
+      <point x="66" y="601" type="line"/>
+      <point x="140" y="556"/>
+      <point x="284" y="453"/>
+      <point x="284" y="265" type="curve"/>
+      <point x="284" y="75"/>
+      <point x="140" y="-27"/>
+      <point x="66" y="-71" type="curve"/>
+      <point x="75" y="-91" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -44,7 +44,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>353</integer>
+          <integer>404</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -66,9 +66,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>353</integer>
+          <integer>404</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

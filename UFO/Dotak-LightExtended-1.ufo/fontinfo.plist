@@ -24,10 +24,6 @@
 	<string>~</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>~</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Dotak</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Light Extended</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -78,7 +74,7 @@
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Light Extended</string>
 	<key>trademark</key>
 	<string></string>
 	<key>unitsPerEm</key>
