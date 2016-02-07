@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccentcomb" format="1">
-  <advance width="336"/>
+  <advance width="255"/>
   <unicode hex="0307"/>
   <outline>
     <contour>
-      <point x="209" y="836"/>
-      <point x="230" y="853"/>
-      <point x="230" y="876" type="curve"/>
-      <point x="230" y="899"/>
-      <point x="209" y="916"/>
-      <point x="167" y="916" type="curve"/>
-      <point x="128" y="916"/>
-      <point x="106" y="899"/>
-      <point x="106" y="876" type="curve"/>
-      <point x="106" y="853"/>
-      <point x="128" y="836"/>
-      <point x="167" y="836" type="curve"/>
+      <point x="159" y="800"/>
+      <point x="175" y="813"/>
+      <point x="175" y="830" type="curve"/>
+      <point x="175" y="848"/>
+      <point x="159" y="861"/>
+      <point x="127" y="861" type="curve"/>
+      <point x="97" y="861"/>
+      <point x="81" y="848"/>
+      <point x="81" y="830" type="curve"/>
+      <point x="81" y="813"/>
+      <point x="97" y="800"/>
+      <point x="127" y="800" type="curve"/>
     </contour>
     <contour>
-      <point x="167" y="686" type="move" name="_top"/>
+      <point x="127" y="686" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

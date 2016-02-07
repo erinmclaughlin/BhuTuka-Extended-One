@@ -3,8 +3,39 @@
   <advance width="502"/>
   <unicode hex="012A"/>
   <outline>
-    <component base="I"/>
-    <component base="macroncomb" xOffset="-63"/>
+    <contour>
+      <point x="264" y="12" type="line" smooth="yes"/>
+      <point x="264" y="507" type="line" smooth="yes"/>
+      <point x="239" y="507" type="line" smooth="yes"/>
+      <point x="239" y="12" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="446" y="-1" type="line" smooth="yes"/>
+      <point x="446" y="22" type="line" smooth="yes"/>
+      <point x="56" y="22" type="line" smooth="yes"/>
+      <point x="56" y="-1" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="446" y="496" type="line" smooth="yes"/>
+      <point x="446" y="520" type="line" smooth="yes"/>
+      <point x="56" y="520" type="line" smooth="yes"/>
+      <point x="56" y="496" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="7" y="677" type="line"/>
+      <point x="7" y="654" type="line"/>
+      <point x="486" y="654" type="line"/>
+      <point x="486" y="677" type="line"/>
+    </contour>
+    <contour>
+      <point x="446" y="165" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="252" y="165" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="252" y="686" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

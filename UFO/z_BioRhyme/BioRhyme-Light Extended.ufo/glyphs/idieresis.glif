@@ -1,9 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idieresis" format="1">
-  <advance width="619"/>
+  <advance width="470"/>
   <unicode hex="00EF"/>
   <outline>
-    <component base="idotless"/>
-    <component base="dieresiscomb" xOffset="-17" yOffset="-215"/>
+    <contour>
+      <point x="258" y="165" type="line"/>
+      <point x="258" y="523" type="line"/>
+      <point x="233" y="523" type="line"/>
+      <point x="233" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="441" y="165" type="line"/>
+      <point x="441" y="188" type="line"/>
+      <point x="50" y="188" type="line"/>
+      <point x="50" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="500" type="line"/>
+      <point x="258" y="523" type="line"/>
+      <point x="50" y="523" type="line"/>
+      <point x="50" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="369" y="637"/>
+      <point x="385" y="650"/>
+      <point x="385" y="667" type="curve"/>
+      <point x="385" y="684"/>
+      <point x="369" y="695"/>
+      <point x="340" y="695" type="curve"/>
+      <point x="312" y="695"/>
+      <point x="295" y="684"/>
+      <point x="295" y="667" type="curve"/>
+      <point x="295" y="650"/>
+      <point x="312" y="637"/>
+      <point x="340" y="637" type="curve"/>
+    </contour>
+    <contour>
+      <point x="147" y="637"/>
+      <point x="163" y="650"/>
+      <point x="163" y="667" type="curve"/>
+      <point x="163" y="684"/>
+      <point x="147" y="695"/>
+      <point x="118" y="695" type="curve"/>
+      <point x="89" y="695"/>
+      <point x="73" y="684"/>
+      <point x="73" y="667" type="curve"/>
+      <point x="73" y="650"/>
+      <point x="89" y="637"/>
+      <point x="118" y="637" type="curve"/>
+    </contour>
+    <contour>
+      <point x="441" y="165" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="245" y="165" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="233" y="523" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

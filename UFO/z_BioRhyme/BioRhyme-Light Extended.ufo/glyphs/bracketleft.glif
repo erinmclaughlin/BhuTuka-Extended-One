@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketleft" format="1">
-  <advance width="487"/>
+  <advance width="370"/>
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="205" y="-100" type="line"/>
-      <point x="238" y="-100" type="line"/>
-      <point x="238" y="798" type="line"/>
-      <point x="205" y="798" type="line"/>
+      <point x="156" y="89" type="line"/>
+      <point x="181" y="89" type="line"/>
+      <point x="181" y="771" type="line"/>
+      <point x="156" y="771" type="line"/>
     </contour>
     <contour>
-      <point x="207" y="767" type="line"/>
-      <point x="501" y="767" type="line"/>
-      <point x="501" y="798" type="line"/>
-      <point x="207" y="798" type="line"/>
+      <point x="157" y="748" type="line"/>
+      <point x="381" y="748" type="line"/>
+      <point x="381" y="771" type="line"/>
+      <point x="157" y="771" type="line"/>
     </contour>
     <contour>
-      <point x="207" y="-100" type="line"/>
-      <point x="501" y="-100" type="line"/>
-      <point x="501" y="-70" type="line"/>
-      <point x="207" y="-70" type="line"/>
+      <point x="157" y="89" type="line"/>
+      <point x="381" y="89" type="line"/>
+      <point x="381" y="111" type="line"/>
+      <point x="157" y="111" type="line"/>
     </contour>
   </outline>
 </glyph>

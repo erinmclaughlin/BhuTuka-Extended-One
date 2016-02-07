@@ -3,8 +3,76 @@
   <advance width="764"/>
   <unicode hex="00FF"/>
   <outline>
-    <component base="y" yOffset="-57"/>
-    <component base="dieresiscomb" xOffset="137" yOffset="-221"/>
+    <contour>
+      <point x="277" y="-182"/>
+      <point x="334" y="-125"/>
+      <point x="382" y="-50" type="curve" smooth="yes"/>
+      <point x="633" y="343" type="line"/>
+      <point x="605" y="343" type="line"/>
+      <point x="354" y="-51" type="line" smooth="yes"/>
+      <point x="310" y="-118"/>
+      <point x="261" y="-159"/>
+      <point x="192" y="-159" type="curve" smooth="yes"/>
+      <point x="135" y="-159"/>
+      <point x="93" y="-142"/>
+      <point x="43" y="-118" type="curve"/>
+      <point x="35" y="-140" type="line"/>
+      <point x="87" y="-162"/>
+      <point x="126" y="-182"/>
+      <point x="191" y="-182" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="388" y="-11" type="line"/>
+      <point x="147" y="348" type="line"/>
+      <point x="119" y="348" type="line"/>
+      <point x="373" y="-36" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="333" type="line"/>
+      <point x="279" y="357" type="line"/>
+      <point x="5" y="357" type="line"/>
+      <point x="5" y="333" type="line"/>
+    </contour>
+    <contour>
+      <point x="754" y="333" type="line"/>
+      <point x="754" y="357" type="line"/>
+      <point x="481" y="357" type="line"/>
+      <point x="481" y="333" type="line"/>
+    </contour>
+    <contour>
+      <point x="519" y="471"/>
+      <point x="534" y="484"/>
+      <point x="534" y="501" type="curve"/>
+      <point x="534" y="518"/>
+      <point x="519" y="529"/>
+      <point x="489" y="529" type="curve"/>
+      <point x="462" y="529"/>
+      <point x="445" y="518"/>
+      <point x="445" y="501" type="curve"/>
+      <point x="445" y="484"/>
+      <point x="462" y="471"/>
+      <point x="489" y="471" type="curve"/>
+    </contour>
+    <contour>
+      <point x="296" y="471"/>
+      <point x="312" y="484"/>
+      <point x="312" y="501" type="curve"/>
+      <point x="312" y="518"/>
+      <point x="296" y="529"/>
+      <point x="268" y="529" type="curve"/>
+      <point x="239" y="529"/>
+      <point x="223" y="518"/>
+      <point x="223" y="501" type="curve"/>
+      <point x="223" y="484"/>
+      <point x="239" y="471"/>
+      <point x="268" y="471" type="curve"/>
+    </contour>
+    <contour>
+      <point x="382" y="523" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="382" y="165" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

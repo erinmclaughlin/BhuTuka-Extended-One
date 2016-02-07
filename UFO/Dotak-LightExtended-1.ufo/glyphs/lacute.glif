@@ -3,8 +3,42 @@
   <advance width="450"/>
   <unicode hex="013A"/>
   <outline>
-    <component base="l"/>
-    <component base="acutecomb" xOffset="93"/>
+    <contour>
+      <point x="237" y="-1" type="line"/>
+      <point x="237" y="520" type="line"/>
+      <point x="212" y="520" type="line"/>
+      <point x="212" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="-1" type="line"/>
+      <point x="420" y="22" type="line"/>
+      <point x="30" y="22" type="line"/>
+      <point x="30" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="237" y="496" type="line"/>
+      <point x="237" y="520" type="line"/>
+      <point x="30" y="520" type="line"/>
+      <point x="30" y="496" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="742" type="line"/>
+      <point x="394" y="715" type="line"/>
+      <point x="153" y="585" type="line"/>
+      <point x="144" y="601" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="449" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="212" y="686" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="281" y="502" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="212" y="165" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

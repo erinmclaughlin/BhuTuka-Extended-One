@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name=".notdef" format="1">
-  <advance width="421.04"/>
+  <advance width="421"/>
   <outline>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>421.04</real>
+          <integer>421</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -49,7 +49,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>421.04</real>
+          <integer>421</integer>
         </dict>
       </dict>
     </dict>

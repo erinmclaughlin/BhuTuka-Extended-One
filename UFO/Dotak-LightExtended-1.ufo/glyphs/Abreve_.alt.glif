@@ -2,8 +2,62 @@
 <glyph name="Abreve.alt" format="1">
   <advance width="1031"/>
   <outline>
-    <component base="A.alt"/>
-    <component base="brevecomb" xOffset="269"/>
+    <contour>
+      <point x="513" y="531" type="line"/>
+      <point x="156" y="12" type="line"/>
+      <point x="185" y="12" type="line"/>
+      <point x="523" y="502" type="line"/>
+      <point x="511" y="502" type="line"/>
+      <point x="847" y="12" type="line"/>
+      <point x="877" y="12" type="line"/>
+      <point x="520" y="531" type="line"/>
+    </contour>
+    <contour>
+      <point x="1031" y="-1" type="line"/>
+      <point x="1031" y="22" type="line"/>
+      <point x="693" y="22" type="line"/>
+      <point x="693" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="337" y="-1" type="line"/>
+      <point x="337" y="22" type="line"/>
+      <point x="0" y="22" type="line"/>
+      <point x="0" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="724" y="205" type="line"/>
+      <point x="310" y="205" type="line"/>
+      <point x="291" y="183" type="line"/>
+      <point x="738" y="183" type="line"/>
+    </contour>
+    <contour>
+      <point x="610" y="609"/>
+      <point x="671" y="680"/>
+      <point x="686" y="750" type="curve"/>
+      <point x="667" y="756" type="line"/>
+      <point x="646" y="685"/>
+      <point x="587" y="632"/>
+      <point x="514" y="632" type="curve"/>
+      <point x="441" y="632"/>
+      <point x="379" y="685"/>
+      <point x="359" y="756" type="curve"/>
+      <point x="339" y="750" type="line"/>
+      <point x="354" y="680"/>
+      <point x="416" y="609"/>
+      <point x="513" y="609" type="curve"/>
+    </contour>
+    <contour>
+      <point x="605" y="751" type="move" name="hook"/>
+    </contour>
+    <contour>
+      <point x="1033" y="165" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="513" y="686" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="515" y="165" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

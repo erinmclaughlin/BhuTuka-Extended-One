@@ -2,8 +2,47 @@
 <glyph name="idotaccent" format="1">
   <advance width="470"/>
   <outline>
-    <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="106" yOffset="-163"/>
+    <contour>
+      <point x="258" y="-1" type="line"/>
+      <point x="258" y="357" type="line"/>
+      <point x="233" y="357" type="line"/>
+      <point x="233" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="441" y="-1" type="line"/>
+      <point x="441" y="22" type="line"/>
+      <point x="50" y="22" type="line"/>
+      <point x="50" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="334" type="line"/>
+      <point x="258" y="357" type="line"/>
+      <point x="50" y="357" type="line"/>
+      <point x="50" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="264" y="471"/>
+      <point x="280" y="484"/>
+      <point x="280" y="501" type="curve"/>
+      <point x="280" y="518"/>
+      <point x="264" y="531"/>
+      <point x="233" y="531" type="curve"/>
+      <point x="203" y="531"/>
+      <point x="186" y="518"/>
+      <point x="186" y="501" type="curve"/>
+      <point x="186" y="484"/>
+      <point x="203" y="471"/>
+      <point x="233" y="471" type="curve"/>
+    </contour>
+    <contour>
+      <point x="441" y="165" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="245" y="165" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="233" y="523" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

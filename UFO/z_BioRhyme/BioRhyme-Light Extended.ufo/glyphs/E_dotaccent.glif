@@ -1,9 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edotaccent" format="1">
-  <advance width="1309"/>
+  <advance width="995"/>
   <unicode hex="0116"/>
   <outline>
-    <component base="E"/>
-    <component base="dotaccentcomb" xOffset="532"/>
+    <contour>
+      <point x="864" y="165" type="line"/>
+      <point x="864" y="349" type="line"/>
+      <point x="840" y="349" type="line"/>
+      <point x="840" y="188" type="line"/>
+      <point x="56" y="188" type="line"/>
+      <point x="56" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="264" y="178" type="line"/>
+      <point x="264" y="673" type="line"/>
+      <point x="239" y="673" type="line"/>
+      <point x="239" y="178" type="line"/>
+    </contour>
+    <contour>
+      <point x="585" y="426" type="line"/>
+      <point x="585" y="450" type="line"/>
+      <point x="261" y="450" type="line"/>
+      <point x="261" y="426" type="line"/>
+    </contour>
+    <contour>
+      <point x="598" y="318" type="line"/>
+      <point x="598" y="558" type="line"/>
+      <point x="573" y="558" type="line"/>
+      <point x="573" y="318" type="line"/>
+    </contour>
+    <contour>
+      <point x="864" y="502" type="line"/>
+      <point x="864" y="686" type="line"/>
+      <point x="56" y="686" type="line"/>
+      <point x="56" y="662" type="line"/>
+      <point x="839" y="662" type="line"/>
+      <point x="839" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="563" y="800"/>
+      <point x="579" y="813"/>
+      <point x="579" y="830" type="curve"/>
+      <point x="579" y="848"/>
+      <point x="563" y="861"/>
+      <point x="531" y="861" type="curve"/>
+      <point x="502" y="861"/>
+      <point x="485" y="848"/>
+      <point x="485" y="830" type="curve"/>
+      <point x="485" y="813"/>
+      <point x="502" y="800"/>
+      <point x="531" y="800" type="curve"/>
+    </contour>
+    <contour>
+      <point x="864" y="165" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="502" y="165" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="531" y="686" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

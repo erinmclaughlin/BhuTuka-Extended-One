@@ -1,8 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotaccent" format="1">
-  <advance width="619"/>
+  <advance width="470"/>
   <outline>
-    <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="139" yOffset="-215"/>
+    <contour>
+      <point x="258" y="165" type="line"/>
+      <point x="258" y="523" type="line"/>
+      <point x="233" y="523" type="line"/>
+      <point x="233" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="441" y="165" type="line"/>
+      <point x="441" y="188" type="line"/>
+      <point x="50" y="188" type="line"/>
+      <point x="50" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="500" type="line"/>
+      <point x="258" y="523" type="line"/>
+      <point x="50" y="523" type="line"/>
+      <point x="50" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="264" y="637"/>
+      <point x="280" y="650"/>
+      <point x="280" y="667" type="curve"/>
+      <point x="280" y="684"/>
+      <point x="264" y="697"/>
+      <point x="233" y="697" type="curve"/>
+      <point x="203" y="697"/>
+      <point x="186" y="684"/>
+      <point x="186" y="667" type="curve"/>
+      <point x="186" y="650"/>
+      <point x="203" y="637"/>
+      <point x="233" y="637" type="curve"/>
+    </contour>
+    <contour>
+      <point x="441" y="165" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="245" y="165" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="233" y="523" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

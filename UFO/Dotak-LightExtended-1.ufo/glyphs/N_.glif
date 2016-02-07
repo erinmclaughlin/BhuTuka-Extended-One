@@ -13,10 +13,10 @@
       <point x="908" y="-7" type="line"/>
     </contour>
     <contour>
-      <point x="446" y="-2" type="line"/>
+      <point x="446" y="-1" type="line"/>
       <point x="446" y="22" type="line"/>
       <point x="56" y="22" type="line"/>
-      <point x="56" y="-2" type="line"/>
+      <point x="56" y="-1" type="line"/>
     </contour>
     <contour>
       <point x="264" y="10" type="line"/>
@@ -37,10 +37,10 @@
       <point x="705" y="496" type="line"/>
     </contour>
     <contour>
-      <point x="670" y="673" type="move" name="top"/>
+      <point x="523" y="676" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="802" y="13" type="move" name="bottom"/>
+      <point x="623" y="175" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

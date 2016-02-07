@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="space" format="1">
-  <advance width="320.72"/>
+  <advance width="321"/>
   <unicode hex="0020"/>
   <outline>
   </outline>
@@ -28,7 +28,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>320.72</real>
+          <integer>321</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -50,7 +50,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>320.72</real>
+          <integer>321</integer>
         </dict>
       </dict>
     </dict>

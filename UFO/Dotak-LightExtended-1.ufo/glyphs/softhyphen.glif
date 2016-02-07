@@ -2,7 +2,12 @@
 <glyph name="softhyphen" format="1">
   <advance width="328"/>
   <outline>
-    <component base="hyphen" yOffset="53"/>
+    <contour>
+      <point x="28" y="190" type="line"/>
+      <point x="28" y="166" type="line"/>
+      <point x="299" y="166" type="line"/>
+      <point x="299" y="190" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -1,8 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Adieresis.alt" format="1">
-  <advance width="1357"/>
+  <advance width="1031"/>
   <outline>
-    <component base="A.alt"/>
-    <component base="dieresiscomb" xOffset="352"/>
+    <contour>
+      <point x="513" y="697" type="line"/>
+      <point x="156" y="178" type="line"/>
+      <point x="185" y="178" type="line"/>
+      <point x="523" y="668" type="line"/>
+      <point x="511" y="668" type="line"/>
+      <point x="847" y="178" type="line"/>
+      <point x="877" y="178" type="line"/>
+      <point x="520" y="697" type="line"/>
+    </contour>
+    <contour>
+      <point x="1031" y="165" type="line"/>
+      <point x="1031" y="188" type="line"/>
+      <point x="693" y="188" type="line"/>
+      <point x="693" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="337" y="165" type="line"/>
+      <point x="337" y="188" type="line"/>
+      <point x="0" y="188" type="line"/>
+      <point x="0" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="724" y="371" type="line"/>
+      <point x="310" y="371" type="line"/>
+      <point x="291" y="349" type="line"/>
+      <point x="738" y="349" type="line"/>
+    </contour>
+    <contour>
+      <point x="650" y="801"/>
+      <point x="665" y="814"/>
+      <point x="665" y="830" type="curve"/>
+      <point x="665" y="847"/>
+      <point x="650" y="859"/>
+      <point x="620" y="859" type="curve"/>
+      <point x="593" y="859"/>
+      <point x="575" y="847"/>
+      <point x="575" y="830" type="curve"/>
+      <point x="575" y="814"/>
+      <point x="593" y="801"/>
+      <point x="620" y="801" type="curve"/>
+    </contour>
+    <contour>
+      <point x="427" y="801"/>
+      <point x="443" y="814"/>
+      <point x="443" y="830" type="curve"/>
+      <point x="443" y="847"/>
+      <point x="427" y="859"/>
+      <point x="398" y="859" type="curve"/>
+      <point x="369" y="859"/>
+      <point x="353" y="847"/>
+      <point x="353" y="830" type="curve"/>
+      <point x="353" y="814"/>
+      <point x="369" y="801"/>
+      <point x="398" y="801" type="curve"/>
+    </contour>
+    <contour>
+      <point x="605" y="751" type="move" name="hook"/>
+    </contour>
+    <contour>
+      <point x="1033" y="165" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="513" y="686" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="515" y="165" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

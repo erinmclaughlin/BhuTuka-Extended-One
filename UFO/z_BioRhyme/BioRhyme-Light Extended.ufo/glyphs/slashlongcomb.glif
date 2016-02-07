@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slashlongcomb" format="1">
-  <advance width="550"/>
+  <advance width="418"/>
   <unicode hex="0338"/>
   <outline>
-    <component base="slash"/>
+    <contour>
+      <point x="383" y="727" type="line"/>
+      <point x="356" y="727" type="line"/>
+      <point x="21" y="85" type="line"/>
+      <point x="49" y="85" type="line"/>
+    </contour>
   </outline>
 </glyph>

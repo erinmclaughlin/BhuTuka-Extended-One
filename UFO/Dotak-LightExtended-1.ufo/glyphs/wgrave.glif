@@ -3,8 +3,64 @@
   <advance width="979"/>
   <unicode hex="1E81"/>
   <outline>
-    <component base="w" yOffset="-3"/>
-    <component base="gravecomb" xOffset="255" yOffset="-167"/>
+    <contour>
+      <point x="135" y="333" type="line"/>
+      <point x="144" y="333" type="line"/>
+      <point x="279" y="333" type="line"/>
+      <point x="279" y="357" type="line"/>
+      <point x="5" y="357" type="line"/>
+      <point x="5" y="333" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="-11" type="line"/>
+      <point x="312" y="8" type="line"/>
+      <point x="150" y="348" type="line"/>
+      <point x="122" y="348" type="line"/>
+      <point x="296" y="-11" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="-11" type="line"/>
+      <point x="495" y="325" type="line"/>
+      <point x="487" y="348" type="line"/>
+      <point x="485" y="348" type="line"/>
+      <point x="291" y="8" type="line"/>
+      <point x="296" y="-11" type="line"/>
+    </contour>
+    <contour>
+      <point x="678" y="-11" type="line"/>
+      <point x="686" y="8" type="line"/>
+      <point x="491" y="348" type="line"/>
+      <point x="485" y="348" type="line"/>
+      <point x="478" y="325" type="line"/>
+      <point x="672" y="-11" type="line"/>
+    </contour>
+    <contour>
+      <point x="678" y="-11" type="line"/>
+      <point x="852" y="348" type="line"/>
+      <point x="827" y="348" type="line"/>
+      <point x="667" y="8" type="line"/>
+      <point x="673" y="-11" type="line"/>
+    </contour>
+    <contour>
+      <point x="828" y="333" type="line"/>
+      <point x="837" y="333" type="line"/>
+      <point x="974" y="333" type="line"/>
+      <point x="974" y="357" type="line"/>
+      <point x="699" y="357" type="line"/>
+      <point x="699" y="333" type="line"/>
+    </contour>
+    <contour>
+      <point x="546" y="421" type="line"/>
+      <point x="305" y="551" type="line"/>
+      <point x="320" y="579" type="line"/>
+      <point x="556" y="437" type="line"/>
+    </contour>
+    <contour>
+      <point x="487" y="523" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="487" y="165" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

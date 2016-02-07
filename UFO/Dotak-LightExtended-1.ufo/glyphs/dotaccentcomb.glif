@@ -3,21 +3,21 @@
   <advance width="255"/>
   <outline>
     <contour>
-      <point x="159" y="836"/>
-      <point x="175" y="849"/>
-      <point x="175" y="866" type="curve"/>
-      <point x="175" y="884"/>
-      <point x="159" y="897"/>
-      <point x="127" y="897" type="curve"/>
-      <point x="97" y="897"/>
-      <point x="81" y="884"/>
-      <point x="81" y="866" type="curve"/>
-      <point x="81" y="849"/>
-      <point x="97" y="836"/>
-      <point x="127" y="836" type="curve"/>
+      <point x="159" y="634"/>
+      <point x="175" y="647"/>
+      <point x="175" y="664" type="curve"/>
+      <point x="175" y="682"/>
+      <point x="159" y="695"/>
+      <point x="127" y="695" type="curve"/>
+      <point x="97" y="695"/>
+      <point x="81" y="682"/>
+      <point x="81" y="664" type="curve"/>
+      <point x="81" y="647"/>
+      <point x="97" y="634"/>
+      <point x="127" y="634" type="curve"/>
     </contour>
     <contour>
-      <point x="142" y="686" type="move" name="_top"/>
+      <point x="127" y="686" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

@@ -3,8 +3,50 @@
   <advance width="967"/>
   <unicode hex="010E"/>
   <outline>
-    <component base="D"/>
-    <component base="caroncomb" xOffset="249"/>
+    <contour>
+      <point x="546" y="-1" type="line"/>
+      <point x="752" y="-1"/>
+      <point x="892" y="84"/>
+      <point x="892" y="259" type="curve"/>
+      <point x="892" y="435"/>
+      <point x="752" y="520"/>
+      <point x="546" y="520" type="curve"/>
+      <point x="56" y="520" type="line"/>
+      <point x="56" y="496" type="line"/>
+      <point x="546" y="496" type="line"/>
+      <point x="742" y="496"/>
+      <point x="867" y="418"/>
+      <point x="867" y="259" type="curve"/>
+      <point x="867" y="100"/>
+      <point x="742" y="22"/>
+      <point x="546" y="22" type="curve"/>
+      <point x="56" y="22" type="line"/>
+      <point x="56" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="264" y="12" type="line"/>
+      <point x="264" y="507" type="line"/>
+      <point x="239" y="507" type="line"/>
+      <point x="239" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="617" type="line"/>
+      <point x="315" y="744" type="line"/>
+      <point x="305" y="731" type="line"/>
+      <point x="472" y="589" type="line"/>
+      <point x="492" y="589" type="line"/>
+      <point x="660" y="731" type="line"/>
+      <point x="649" y="744" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="410" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="482" y="165" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="482" y="686" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

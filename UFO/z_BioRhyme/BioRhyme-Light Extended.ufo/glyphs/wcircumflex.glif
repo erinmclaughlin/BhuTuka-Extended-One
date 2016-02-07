@@ -1,9 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wcircumflex" format="1">
-  <advance width="1288"/>
+  <advance width="979"/>
   <unicode hex="0175"/>
   <outline>
-    <component base="w"/>
-    <component base="circumflexcomb" xOffset="335" yOffset="-215"/>
+    <contour>
+      <point x="135" y="499" type="line"/>
+      <point x="144" y="499" type="line"/>
+      <point x="279" y="499" type="line"/>
+      <point x="279" y="523" type="line"/>
+      <point x="5" y="523" type="line"/>
+      <point x="5" y="499" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="155" type="line"/>
+      <point x="312" y="174" type="line"/>
+      <point x="150" y="514" type="line"/>
+      <point x="122" y="514" type="line"/>
+      <point x="296" y="155" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="155" type="line"/>
+      <point x="495" y="491" type="line"/>
+      <point x="487" y="514" type="line"/>
+      <point x="485" y="514" type="line"/>
+      <point x="291" y="174" type="line"/>
+      <point x="296" y="155" type="line"/>
+    </contour>
+    <contour>
+      <point x="678" y="155" type="line"/>
+      <point x="686" y="174" type="line"/>
+      <point x="491" y="514" type="line"/>
+      <point x="485" y="514" type="line"/>
+      <point x="478" y="491" type="line"/>
+      <point x="672" y="155" type="line"/>
+    </contour>
+    <contour>
+      <point x="678" y="155" type="line"/>
+      <point x="852" y="514" type="line"/>
+      <point x="827" y="514" type="line"/>
+      <point x="667" y="174" type="line"/>
+      <point x="673" y="155" type="line"/>
+    </contour>
+    <contour>
+      <point x="828" y="499" type="line"/>
+      <point x="837" y="499" type="line"/>
+      <point x="974" y="499" type="line"/>
+      <point x="974" y="523" type="line"/>
+      <point x="699" y="523" type="line"/>
+      <point x="699" y="499" type="line"/>
+    </contour>
+    <contour>
+      <point x="487" y="703" type="line"/>
+      <point x="654" y="575" type="line"/>
+      <point x="665" y="588" type="line"/>
+      <point x="497" y="730" type="line"/>
+      <point x="477" y="730" type="line"/>
+      <point x="310" y="588" type="line"/>
+      <point x="321" y="575" type="line"/>
+    </contour>
+    <contour>
+      <point x="487" y="523" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="487" y="165" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

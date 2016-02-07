@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="1">
-  <advance width="593"/>
+  <advance width="451"/>
   <unicode hex="0142"/>
   <outline>
     <contour>
-      <point x="553" y="420" type="line"/>
-      <point x="553" y="453" type="line"/>
-      <point x="40" y="264" type="line"/>
-      <point x="40" y="231" type="line"/>
+      <point x="420" y="484" type="line"/>
+      <point x="420" y="509" type="line"/>
+      <point x="30" y="365" type="line"/>
+      <point x="30" y="340" type="line"/>
     </contour>
-    <component base="l"/>
+    <contour>
+      <point x="237" y="165" type="line"/>
+      <point x="237" y="686" type="line"/>
+      <point x="212" y="686" type="line"/>
+      <point x="212" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="165" type="line"/>
+      <point x="420" y="188" type="line"/>
+      <point x="30" y="188" type="line"/>
+      <point x="30" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="237" y="662" type="line"/>
+      <point x="237" y="686" type="line"/>
+      <point x="30" y="686" type="line"/>
+      <point x="30" y="662" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="449" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="212" y="686" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="281" y="502" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="212" y="165" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

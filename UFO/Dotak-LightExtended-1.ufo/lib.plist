@@ -803,6 +803,7 @@
 				<string>grAddak.alt2</string>
 				<string>zerowidthjoiner</string>
 				<string>zerowidthnonjoiner</string>
+				<string>dottedcircle</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

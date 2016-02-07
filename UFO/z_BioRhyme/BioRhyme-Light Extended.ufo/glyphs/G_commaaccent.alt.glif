@@ -1,8 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcommaaccent.alt" format="1">
-  <advance width="1187"/>
+  <advance width="902"/>
   <outline>
-    <component base="G.alt"/>
-    <component base="commaaccentcomb" xOffset="413" yOffset="-13"/>
+    <contour>
+      <point x="666" y="155"/>
+      <point x="812" y="271"/>
+      <point x="812" y="417" type="curve" smooth="yes"/>
+      <point x="812" y="420" type="line"/>
+      <point x="437" y="420" type="line"/>
+      <point x="437" y="396" type="line"/>
+      <point x="787" y="396" type="line"/>
+      <point x="774" y="283"/>
+      <point x="659" y="178"/>
+      <point x="437" y="178" type="curve" smooth="yes"/>
+      <point x="255" y="178"/>
+      <point x="106" y="272"/>
+      <point x="106" y="425" type="curve" smooth="yes"/>
+      <point x="106" y="580"/>
+      <point x="260" y="673"/>
+      <point x="445" y="673" type="curve" smooth="yes"/>
+      <point x="584" y="673"/>
+      <point x="701" y="627"/>
+      <point x="792" y="496" type="curve"/>
+      <point x="803" y="497" type="line"/>
+      <point x="803" y="686" type="line"/>
+      <point x="780" y="686" type="line"/>
+      <point x="780" y="526" type="line"/>
+      <point x="792" y="526" type="line"/>
+      <point x="722" y="627"/>
+      <point x="607" y="697"/>
+      <point x="445" y="697" type="curve" smooth="yes"/>
+      <point x="252" y="697"/>
+      <point x="81" y="597"/>
+      <point x="81" y="425" type="curve" smooth="yes"/>
+      <point x="81" y="254"/>
+      <point x="245" y="155"/>
+      <point x="437" y="155" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="490" y="51"/>
+      <point x="470" y="70"/>
+      <point x="441" y="70" type="curve" smooth="yes"/>
+      <point x="413" y="70"/>
+      <point x="396" y="55"/>
+      <point x="396" y="38" type="curve" smooth="yes"/>
+      <point x="396" y="21"/>
+      <point x="413" y="10"/>
+      <point x="435" y="10" type="curve" smooth="yes"/>
+      <point x="448" y="10"/>
+      <point x="459" y="13"/>
+      <point x="470" y="14" type="curve"/>
+      <point x="464" y="-30"/>
+      <point x="431" y="-66"/>
+      <point x="381" y="-111" type="curve"/>
+      <point x="392" y="-123" type="line"/>
+      <point x="454" y="-76"/>
+      <point x="490" y="-21"/>
+      <point x="490" y="23" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="441" y="697" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="441" y="155" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

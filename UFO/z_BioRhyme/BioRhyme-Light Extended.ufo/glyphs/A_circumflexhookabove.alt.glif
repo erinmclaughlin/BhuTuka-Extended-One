@@ -1,9 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflexhookabove.alt" format="1">
-  <advance width="1357"/>
+  <advance width="1031"/>
   <outline>
-    <component base="A.alt"/>
-    <component base="circumflexcomb" xOffset="369"/>
-    <component base="hookabovecomb" xOffset="561" yOffset="154"/>
+    <contour>
+      <point x="513" y="697" type="line"/>
+      <point x="156" y="178" type="line"/>
+      <point x="185" y="178" type="line"/>
+      <point x="523" y="668" type="line"/>
+      <point x="511" y="668" type="line"/>
+      <point x="847" y="178" type="line"/>
+      <point x="877" y="178" type="line"/>
+      <point x="520" y="697" type="line"/>
+    </contour>
+    <contour>
+      <point x="1031" y="165" type="line"/>
+      <point x="1031" y="188" type="line"/>
+      <point x="693" y="188" type="line"/>
+      <point x="693" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="337" y="165" type="line"/>
+      <point x="337" y="188" type="line"/>
+      <point x="0" y="188" type="line"/>
+      <point x="0" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="724" y="371" type="line"/>
+      <point x="310" y="371" type="line"/>
+      <point x="291" y="349" type="line"/>
+      <point x="738" y="349" type="line"/>
+    </contour>
+    <contour>
+      <point x="513" y="866" type="line"/>
+      <point x="680" y="738" type="line"/>
+      <point x="691" y="751" type="line"/>
+      <point x="523" y="893" type="line"/>
+      <point x="503" y="893" type="line"/>
+      <point x="336" y="751" type="line"/>
+      <point x="347" y="738" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="838" type="line"/>
+      <point x="713" y="870"/>
+      <point x="736" y="898"/>
+      <point x="736" y="935" type="curve" smooth="yes"/>
+      <point x="736" y="980"/>
+      <point x="695" y="1010"/>
+      <point x="635" y="1010" type="curve" smooth="yes"/>
+      <point x="585" y="1010"/>
+      <point x="546" y="990"/>
+      <point x="518" y="970" type="curve"/>
+      <point x="530" y="953" type="line"/>
+      <point x="558" y="969"/>
+      <point x="592" y="987"/>
+      <point x="635" y="987" type="curve" smooth="yes"/>
+      <point x="682" y="987"/>
+      <point x="711" y="964"/>
+      <point x="711" y="932" type="curve" smooth="yes"/>
+      <point x="711" y="898"/>
+      <point x="687" y="874"/>
+      <point x="670" y="847" type="curve"/>
+    </contour>
+    <contour>
+      <point x="605" y="751" type="move" name="hook"/>
+    </contour>
+    <contour>
+      <point x="1033" y="165" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="513" y="686" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="515" y="165" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

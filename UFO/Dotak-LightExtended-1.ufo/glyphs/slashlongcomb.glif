@@ -2,7 +2,12 @@
 <glyph name="slashlongcomb" format="1">
   <advance width="418.0"/>
   <outline>
-    <component base="slash" yOffset="-25"/>
+    <contour>
+      <point x="383" y="561" type="line"/>
+      <point x="356" y="561" type="line"/>
+      <point x="21" y="-81" type="line"/>
+      <point x="49" y="-81" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

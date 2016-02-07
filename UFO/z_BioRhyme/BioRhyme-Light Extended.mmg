@@ -1,0 +1,1729 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xml>
+  <group name=".notdef" side="left" type="kerning">
+    <glyphs>
+      .notdef
+    </glyphs>
+  </group>
+  <group name=".null" side="left" type="kerning">
+    <glyphs>
+      .null
+    </glyphs>
+  </group>
+  <group name="A" side="left" type="kerning">
+    <glyphs>
+      A
+      A.alt
+      Aacute
+      Aacute.alt
+      Abreve
+      Abreve.alt
+      Acircumflex
+      Acircumflex.alt
+      Acircumflexhookabove
+      Acircumflexhookabove.alt
+      Adieresis
+      Adieresis.alt
+      Agrave
+      Agrave.alt
+      Amacron
+      Amacron.alt
+      Aogonek
+      Aogonek.alt
+      Aring
+      Aring.alt
+      Atilde
+      Atilde.alt
+      De-cy
+    </glyphs>
+  </group>
+  <group name="B" side="left" type="kerning">
+    <glyphs>
+      B
+    </glyphs>
+  </group>
+  <group name="Be-cy" side="left" type="kerning">
+    <glyphs>
+      Be-cy
+    </glyphs>
+  </group>
+  <group name="C" side="left" type="kerning">
+    <glyphs>
+      C
+      Cacute
+      Ccaron
+      Ccedilla
+    </glyphs>
+  </group>
+  <group name="CR" side="left" type="kerning">
+    <glyphs>
+      CR
+    </glyphs>
+  </group>
+  <group name="E" side="left" type="kerning">
+    <glyphs>
+      AE
+      E
+      Eacute
+      Ecaron
+      Ecircumflex
+      Edieresis
+      Edotaccent
+      Egrave
+      Emacron
+      Eogonek
+      OE
+    </glyphs>
+  </group>
+  <group name="F" side="left" type="kerning">
+    <glyphs>
+      F
+    </glyphs>
+  </group>
+  <group name="G" side="left" type="kerning">
+    <glyphs>
+      G
+      G.alt
+      Gcommaaccent
+      Gcommaaccent.alt
+    </glyphs>
+  </group>
+  <group name="Germandbls" side="left" type="kerning">
+    <glyphs>
+      Germandbls
+    </glyphs>
+  </group>
+  <group name="H" side="left" type="kerning">
+    <glyphs>
+      H
+      Hbar
+      I
+      Iacute
+      Icircumflex
+      Idieresis
+      Igrave
+      Imacron
+      Iogonek
+      M
+    </glyphs>
+  </group>
+  <group name="J" side="left" type="kerning">
+    <glyphs>
+      Eng
+    </glyphs>
+  </group>
+  <group name="L" side="left" type="kerning">
+    <glyphs>
+      L
+      Lacute
+      Lcaron
+      Lcommaaccent
+      Lslash
+    </glyphs>
+  </group>
+  <group name="N" side="left" type="kerning">
+    <glyphs>
+      N
+      Nacute
+      Ncaron
+      Ncommaaccent
+      Ntilde
+    </glyphs>
+  </group>
+  <group name="O" side="left" type="kerning">
+    <glyphs>
+      D
+      Dcaron
+      Dcroat
+      Eth
+      O
+      Oacute
+      Ocircumflex
+      Odieresis
+      Ograve
+      Ohungarumlaut
+      Omacron
+      Oslash
+      Otilde
+      Q
+      Q.swsh
+    </glyphs>
+  </group>
+  <group name="P" side="left" type="kerning">
+    <glyphs>
+      P
+    </glyphs>
+  </group>
+  <group name="R" side="left" type="kerning">
+    <glyphs>
+      R
+      R.swsh
+      Racute
+      Racute.swsh
+      Rcaron
+      Rcaron.swsh
+      Rcommaaccent
+      Rcommaaccent.swsh
+    </glyphs>
+  </group>
+  <group name="S" side="left" type="kerning">
+    <glyphs>
+      S
+      Sacute
+      Scaron
+      Scedilla
+    </glyphs>
+  </group>
+  <group name="T" side="left" type="kerning">
+    <glyphs>
+      T
+      Tbar
+      Tcaron
+      Tcedilla
+    </glyphs>
+  </group>
+  <group name="Thorn" side="left" type="kerning">
+    <glyphs>
+      Ef-cy
+      Thorn
+    </glyphs>
+  </group>
+  <group name="U" side="left" type="kerning">
+    <glyphs>
+      J
+      U
+      Uacute
+      Ucircumflex
+      Udieresis
+      Ugrave
+      Uhungarumlaut
+      Umacron
+      Uogonek
+      Uring
+    </glyphs>
+  </group>
+  <group name="V" side="left" type="kerning">
+    <glyphs>
+      V
+      W
+      W.bold
+      Wacute
+      Wcircumflex
+      Wdieresis
+      Wgrave
+      Y
+      Yacute
+      Ycircumflex
+      Ydieresis
+      Ygrave
+    </glyphs>
+  </group>
+  <group name="X" side="left" type="kerning">
+    <glyphs>
+      K
+      Kcommaaccent
+      X
+      Zhe-cy
+    </glyphs>
+  </group>
+  <group name="Z" side="left" type="kerning">
+    <glyphs>
+      Z
+      Zacute
+      Zcaron
+      Zdotaccent
+    </glyphs>
+  </group>
+  <group name="acutecomb" side="left" type="kerning">
+    <glyphs>
+      acutecomb
+    </glyphs>
+  </group>
+  <group name="ampersand" side="left" type="kerning">
+    <glyphs>
+      ampersand
+      ampersand.swsh
+    </glyphs>
+  </group>
+  <group name="anoteleia" side="left" type="kerning">
+    <glyphs>
+      periodcentered
+    </glyphs>
+  </group>
+  <group name="asciicircum" side="left" type="kerning">
+    <glyphs>
+      asciicircum
+    </glyphs>
+  </group>
+  <group name="asciitilde" side="left" type="kerning">
+    <glyphs>
+      asciitilde
+    </glyphs>
+  </group>
+  <group name="asterisk" side="left" type="kerning">
+    <glyphs>
+      asterisk
+      degree
+      onesuperior
+      ordfeminine
+      ordmasculine
+      servicemark
+      threesuperior
+      trademark
+      twosuperior
+    </glyphs>
+  </group>
+  <group name="at" side="left" type="kerning">
+    <glyphs>
+      at
+      copyright
+      registered
+    </glyphs>
+  </group>
+  <group name="backslash" side="left" type="kerning">
+    <glyphs>
+      backslash
+    </glyphs>
+  </group>
+  <group name="bar" side="left" type="kerning">
+    <glyphs>
+      bar
+    </glyphs>
+  </group>
+  <group name="braceright" side="left" type="kerning">
+    <glyphs>
+      braceright
+    </glyphs>
+  </group>
+  <group name="bracketright" side="left" type="kerning">
+    <glyphs>
+      bracketright
+    </glyphs>
+  </group>
+  <group name="brevecomb" side="left" type="kerning">
+    <glyphs>
+      brevecomb
+    </glyphs>
+  </group>
+  <group name="brokenbar" side="left" type="kerning">
+    <glyphs>
+      brokenbar
+    </glyphs>
+  </group>
+  <group name="bullet" side="left" type="kerning">
+    <glyphs>
+      bullet
+    </glyphs>
+  </group>
+  <group name="c" side="left" type="kerning">
+    <glyphs>
+      c
+      cacute
+      ccaron
+      ccedilla
+      cent
+    </glyphs>
+  </group>
+  <group name="caroncomb" side="left" type="kerning">
+    <glyphs>
+      caroncomb
+    </glyphs>
+  </group>
+  <group name="cedillacomb" side="left" type="kerning">
+    <glyphs>
+      cedillacomb
+    </glyphs>
+  </group>
+  <group name="circumflexcomb" side="left" type="kerning">
+    <glyphs>
+      circumflexcomb
+    </glyphs>
+  </group>
+  <group name="colon" side="left" type="kerning">
+    <glyphs>
+      colon
+      semicolon
+    </glyphs>
+  </group>
+  <group name="commaaccentcomb" side="left" type="kerning">
+    <glyphs>
+      commaaccentcomb
+    </glyphs>
+  </group>
+  <group name="commaturnedabovecomb" side="left" type="kerning">
+    <glyphs>
+      commaturnedabovecomb
+    </glyphs>
+  </group>
+  <group name="commaturnedmod" side="left" type="kerning">
+    <glyphs>
+      commaturnedmod
+    </glyphs>
+  </group>
+  <group name="currency" side="left" type="kerning">
+    <glyphs>
+      currency
+    </glyphs>
+  </group>
+  <group name="dieresiscomb" side="left" type="kerning">
+    <glyphs>
+      dieresiscomb
+    </glyphs>
+  </group>
+  <group name="dollar" side="left" type="kerning">
+    <glyphs>
+      dollar
+    </glyphs>
+  </group>
+  <group name="dotaccentcomb" side="left" type="kerning">
+    <glyphs>
+      dotaccentcomb
+    </glyphs>
+  </group>
+  <group name="doubleprimemod" side="left" type="kerning">
+    <glyphs>
+      doubleprimemod
+      primemod
+    </glyphs>
+  </group>
+  <group name="e" side="left" type="kerning">
+    <glyphs>
+      ae
+      e
+      eacute
+      ecaron
+      ecircumflex
+      edieresis
+      edotaccent
+      egrave
+      emacron
+      eogonek
+      oe
+    </glyphs>
+  </group>
+  <group name="eight" side="left" type="kerning">
+    <glyphs>
+      eight
+      three
+    </glyphs>
+  </group>
+  <group name="equal" side="left" type="kerning">
+    <glyphs>
+      equal
+    </glyphs>
+  </group>
+  <group name="euro" side="left" type="kerning">
+    <glyphs>
+      euro
+    </glyphs>
+  </group>
+  <group name="exclam" side="left" type="kerning">
+    <glyphs>
+      exclam
+      exclamdown
+    </glyphs>
+  </group>
+  <group name="f" side="left" type="kerning">
+    <glyphs>
+      f
+      f.alt
+    </glyphs>
+  </group>
+  <group name="five" side="left" type="kerning">
+    <glyphs>
+      five
+    </glyphs>
+  </group>
+  <group name="four" side="left" type="kerning">
+    <glyphs>
+      four
+    </glyphs>
+  </group>
+  <group name="four.dnom" side="left" type="kerning">
+    <glyphs>
+      four.dnom
+    </glyphs>
+  </group>
+  <group name="fraction" side="left" type="kerning">
+    <glyphs>
+      fraction
+    </glyphs>
+  </group>
+  <group name="gravecomb" side="left" type="kerning">
+    <glyphs>
+      gravecomb
+    </glyphs>
+  </group>
+  <group name="greater" side="left" type="kerning">
+    <glyphs>
+      greater
+    </glyphs>
+  </group>
+  <group name="guillemetleft" side="left" type="kerning">
+    <glyphs>
+      guillemetleft
+    </glyphs>
+  </group>
+  <group name="guillemetright" side="left" type="kerning">
+    <glyphs>
+      guillemetright
+    </glyphs>
+  </group>
+  <group name="guillemotleft" side="left" type="kerning">
+    <glyphs>
+      guilsinglleft
+    </glyphs>
+  </group>
+  <group name="guillemotright" side="left" type="kerning">
+    <glyphs>
+      guilsinglright
+    </glyphs>
+  </group>
+  <group name="hungarumlautcomb" side="left" type="kerning">
+    <glyphs>
+      hungarumlautcomb
+    </glyphs>
+  </group>
+  <group name="hyphen" side="left" type="kerning">
+    <glyphs>
+      emdash
+      endash
+      hyphen
+    </glyphs>
+  </group>
+  <group name="j" side="left" type="kerning">
+    <glyphs>
+      eng
+      g.alt
+      j
+      jdotless
+    </glyphs>
+  </group>
+  <group name="k" side="left" type="kerning">
+    <glyphs>
+      k
+      kcommaaccent
+      kcommaaccent.alt
+    </glyphs>
+  </group>
+  <group name="l" side="left" type="kerning">
+    <glyphs>
+      d
+      d.alt
+      dcaron
+      dcaron.alt
+      dcroat
+      dcroat.alt
+      l
+      lacute
+      lcaron
+      lcommaaccent
+      lslash
+    </glyphs>
+  </group>
+  <group name="less" side="left" type="kerning">
+    <glyphs>
+      less
+    </glyphs>
+  </group>
+  <group name="logicalnot" side="left" type="kerning">
+    <glyphs>
+      logicalnot
+    </glyphs>
+  </group>
+  <group name="macroncomb" side="left" type="kerning">
+    <glyphs>
+      macroncomb
+    </glyphs>
+  </group>
+  <group name="micro" side="left" type="kerning">
+    <glyphs>
+      micro
+    </glyphs>
+  </group>
+  <group name="minus" side="left" type="kerning">
+    <glyphs>
+      minus
+      strokeshortcomb
+    </glyphs>
+  </group>
+  <group name="multiply" side="left" type="kerning">
+    <glyphs>
+      multiply
+    </glyphs>
+  </group>
+  <group name="n" side="left" type="kerning">
+    <glyphs>
+      a
+      a.alt
+      aacute
+      aacute.alt
+      aacute.alt2
+      abreve
+      abreve.alt
+      abreve.alt2
+      acircumflex
+      acircumflex.alt
+      acircumflex.alt2
+      adieresis
+      adieresis.alt
+      adieresis.alt2
+      agrave
+      agrave.alt
+      agrave.alt2
+      amacron
+      amacron.alt
+      amacron.alt2
+      aogonek
+      aogonek.alt
+      aogonek.alt2
+      aring
+      aring.alt
+      aring.alt2
+      atilde
+      atilde.alt
+      atilde.alt2
+      h
+      hbar
+      m
+      n
+      nacute
+      ncaron
+      ncommaaccent
+      ntilde
+    </glyphs>
+  </group>
+  <group name="nbspace" side="left" type="kerning">
+    <glyphs>
+      nbspace
+    </glyphs>
+  </group>
+  <group name="numbersign" side="left" type="kerning">
+    <glyphs>
+      numbersign
+    </glyphs>
+  </group>
+  <group name="o" side="left" type="kerning">
+    <glyphs>
+      b
+      eth
+      g
+      gcommaaccent
+      gcommaaccent.alt
+      o
+      oacute
+      ocircumflex
+      odieresis
+      ograve
+      ohungarumlaut
+      omacron
+      oslash
+      otilde
+      p
+      schwa
+      thorn
+    </glyphs>
+  </group>
+  <group name="ogonekcomb" side="left" type="kerning">
+    <glyphs>
+      ogonekcomb
+    </glyphs>
+  </group>
+  <group name="one" side="left" type="kerning">
+    <glyphs>
+      one
+    </glyphs>
+  </group>
+  <group name="one.numr" side="left" type="kerning">
+    <glyphs>
+      one.numr
+      onehalf
+      onequarter
+    </glyphs>
+  </group>
+  <group name="paragraph" side="left" type="kerning">
+    <glyphs>
+      paragraph
+    </glyphs>
+  </group>
+  <group name="parenleft" side="left" type="kerning">
+    <glyphs>
+      braceleft
+      bracketleft
+      parenleft
+    </glyphs>
+  </group>
+  <group name="parenright" side="left" type="kerning">
+    <glyphs>
+      parenright
+    </glyphs>
+  </group>
+  <group name="percent" side="left" type="kerning">
+    <glyphs>
+      percent
+    </glyphs>
+  </group>
+  <group name="period" side="left" type="kerning">
+    <glyphs>
+      comma
+      ellipsis
+      period
+      quotedblbase
+      quotesinglbase
+    </glyphs>
+  </group>
+  <group name="plus" side="left" type="kerning">
+    <glyphs>
+      plus
+    </glyphs>
+  </group>
+  <group name="plusminus" side="left" type="kerning">
+    <glyphs>
+      plusminus
+    </glyphs>
+  </group>
+  <group name="q" side="left" type="kerning">
+    <glyphs>
+      q
+    </glyphs>
+  </group>
+  <group name="question" side="left" type="kerning">
+    <glyphs>
+      question
+    </glyphs>
+  </group>
+  <group name="questiondown" side="left" type="kerning">
+    <glyphs>
+      questiondown
+    </glyphs>
+  </group>
+  <group name="quotedblleft" side="left" type="kerning">
+    <glyphs>
+      quotedbl
+      quotedblleft
+      quotedblright
+      quoteleft
+      quotereversed
+      quoteright
+      quotesingle
+    </glyphs>
+  </group>
+  <group name="r" side="left" type="kerning">
+    <glyphs>
+      r
+      racute
+      rcaron
+      rcommaaccent
+    </glyphs>
+  </group>
+  <group name="ringcomb" side="left" type="kerning">
+    <glyphs>
+      ringcomb
+    </glyphs>
+  </group>
+  <group name="s" side="left" type="kerning">
+    <glyphs>
+      germandbls
+      s
+      sacute
+      scaron
+      scedilla
+    </glyphs>
+  </group>
+  <group name="section" side="left" type="kerning">
+    <glyphs>
+      section
+    </glyphs>
+  </group>
+  <group name="seven" side="left" type="kerning">
+    <glyphs>
+      seven
+      seven.alt
+    </glyphs>
+  </group>
+  <group name="six" side="left" type="kerning">
+    <glyphs>
+      six
+    </glyphs>
+  </group>
+  <group name="slash" side="left" type="kerning">
+    <glyphs>
+      slash
+      slashlongcomb
+    </glyphs>
+  </group>
+  <group name="slashshortcomb" side="left" type="kerning">
+    <glyphs>
+      slashshortcomb
+    </glyphs>
+  </group>
+  <group name="space" side="left" type="kerning">
+    <glyphs>
+      space
+    </glyphs>
+  </group>
+  <group name="sterling" side="left" type="kerning">
+    <glyphs>
+      sterling
+    </glyphs>
+  </group>
+  <group name="t" side="left" type="kerning">
+    <glyphs>
+      t
+      t.alt
+      tbar
+      tbar.alt
+      tcaron
+      tcaron.alt
+      tcedilla
+      tcedilla.alt
+    </glyphs>
+  </group>
+  <group name="three.numr" side="left" type="kerning">
+    <glyphs>
+      three.numr
+      threequarters
+    </glyphs>
+  </group>
+  <group name="tildecomb" side="left" type="kerning">
+    <glyphs>
+      tildecomb
+    </glyphs>
+  </group>
+  <group name="two" side="left" type="kerning">
+    <glyphs>
+      two
+      two.alt
+    </glyphs>
+  </group>
+  <group name="two.dnom" side="left" type="kerning">
+    <glyphs>
+      two.dnom
+    </glyphs>
+  </group>
+  <group name="u" side="left" type="kerning">
+    <glyphs>
+      a.alt2
+      i
+      iacute
+      icircumflex
+      idieresis
+      idotaccent
+      idotless
+      igrave
+      imacron
+      iogonek
+      u
+      u.alt
+      uacute
+      uacute.alt
+      ucircumflex
+      ucircumflex.alt
+      udieresis
+      udieresis.alt
+      ugrave
+      ugrave.alt
+      uhungarumlaut
+      uhungarumlaut.alt
+      umacron
+      umacron.alt
+      uogonek
+      uogonek.alt
+      uring
+      uring.alt
+    </glyphs>
+  </group>
+  <group name="underscore" side="left" type="kerning">
+    <glyphs>
+      underscore
+    </glyphs>
+  </group>
+  <group name="v" side="left" type="kerning">
+    <glyphs>
+      v
+      w
+      w.bold
+      wacute
+      wcircumflex
+      wdieresis
+      wgrave
+      y
+      yacute
+      ycircumflex
+      ydieresis
+      ygrave
+    </glyphs>
+  </group>
+  <group name="x" side="left" type="kerning">
+    <glyphs>
+      k.alt
+      x
+      x.alt
+    </glyphs>
+  </group>
+  <group name="yen" side="left" type="kerning">
+    <glyphs>
+      yen
+    </glyphs>
+  </group>
+  <group name="z" side="left" type="kerning">
+    <glyphs>
+      z
+      z.alt
+      zacute
+      zacute.alt
+      zcaron
+      zcaron.alt
+      zdotaccent
+      zdotaccent.alt
+    </glyphs>
+  </group>
+  <group name="zero" side="left" type="kerning">
+    <glyphs>
+      nine
+      zero
+      zero.slash
+    </glyphs>
+  </group>
+  <group name=".notdef" side="right" type="kerning">
+    <glyphs>
+      .notdef
+    </glyphs>
+  </group>
+  <group name=".null" side="right" type="kerning">
+    <glyphs>
+      .null
+    </glyphs>
+  </group>
+  <group name="A" side="right" type="kerning">
+    <glyphs>
+      A
+      A.alt
+      Aacute
+      Aacute.alt
+      Abreve
+      Abreve.alt
+      Acircumflex
+      Acircumflex.alt
+      Acircumflexhookabove
+      Acircumflexhookabove.alt
+      Adieresis
+      Adieresis.alt
+      Agrave
+      Agrave.alt
+      Amacron
+      Amacron.alt
+      Aogonek
+      Aogonek.alt
+      Aring
+      Aring.alt
+      Atilde
+      Atilde.alt
+      De-cy
+    </glyphs>
+  </group>
+  <group name="AE" side="right" type="kerning">
+    <glyphs>
+      AE
+    </glyphs>
+  </group>
+  <group name="CR" side="right" type="kerning">
+    <glyphs>
+      CR
+    </glyphs>
+  </group>
+  <group name="Germandbls" side="right" type="kerning">
+    <glyphs>
+      Germandbls
+    </glyphs>
+  </group>
+  <group name="H" side="right" type="kerning">
+    <glyphs>
+      B
+      Be-cy
+      D
+      Dcaron
+      Dcroat
+      E
+      Eacute
+      Ecaron
+      Ecircumflex
+      Edieresis
+      Edotaccent
+      Egrave
+      Emacron
+      Eng
+      Eogonek
+      Eth
+      F
+      H
+      Hbar
+      I
+      Iacute
+      Icircumflex
+      Idieresis
+      Igrave
+      Imacron
+      Iogonek
+      K
+      Kcommaaccent
+      L
+      Lacute
+      Lcaron
+      Lcommaaccent
+      Lslash
+      M
+      N
+      Nacute
+      Ncaron
+      Ncommaaccent
+      Ntilde
+      P
+      R
+      R.swsh
+      Racute
+      Racute.swsh
+      Rcaron
+      Rcaron.swsh
+      Rcommaaccent
+      Rcommaaccent.swsh
+      Thorn
+    </glyphs>
+  </group>
+  <group name="J" side="right" type="kerning">
+    <glyphs>
+      J
+    </glyphs>
+  </group>
+  <group name="O" side="right" type="kerning">
+    <glyphs>
+      C
+      Cacute
+      Ccaron
+      Ccedilla
+      G
+      G.alt
+      Gcommaaccent
+      Gcommaaccent.alt
+      O
+      OE
+      Oacute
+      Ocircumflex
+      Odieresis
+      Ograve
+      Ohungarumlaut
+      Omacron
+      Oslash
+      Otilde
+      Q
+      Q.swsh
+    </glyphs>
+  </group>
+  <group name="S" side="right" type="kerning">
+    <glyphs>
+      S
+      Sacute
+      Scaron
+      Scedilla
+    </glyphs>
+  </group>
+  <group name="T" side="right" type="kerning">
+    <glyphs>
+      T
+      Tbar
+      Tcaron
+      Tcedilla
+    </glyphs>
+  </group>
+  <group name="Thorn" side="right" type="kerning">
+    <glyphs>
+      Ef-cy
+    </glyphs>
+  </group>
+  <group name="U" side="right" type="kerning">
+    <glyphs>
+      U
+      Uacute
+      Ucircumflex
+      Udieresis
+      Ugrave
+      Uhungarumlaut
+      Umacron
+      Uogonek
+      Uring
+    </glyphs>
+  </group>
+  <group name="V" side="right" type="kerning">
+    <glyphs>
+      V
+      W
+      W.bold
+      Wacute
+      Wcircumflex
+      Wdieresis
+      Wgrave
+      Y
+      Yacute
+      Ycircumflex
+      Ydieresis
+      Ygrave
+    </glyphs>
+  </group>
+  <group name="X" side="right" type="kerning">
+    <glyphs>
+      X
+      Zhe-cy
+    </glyphs>
+  </group>
+  <group name="Z" side="right" type="kerning">
+    <glyphs>
+      Z
+      Zacute
+      Zcaron
+      Zdotaccent
+    </glyphs>
+  </group>
+  <group name="a" side="right" type="kerning">
+    <glyphs>
+      a
+      a.alt
+      aacute
+      aacute.alt
+      aacute.alt2
+      abreve
+      abreve.alt
+      abreve.alt2
+      acircumflex
+      acircumflex.alt
+      acircumflex.alt2
+      adieresis
+      adieresis.alt
+      adieresis.alt2
+      ae
+      agrave
+      agrave.alt
+      agrave.alt2
+      amacron
+      amacron.alt
+      amacron.alt2
+      aogonek
+      aogonek.alt
+      aogonek.alt2
+      aring
+      aring.alt
+      aring.alt2
+      atilde
+      atilde.alt
+      atilde.alt2
+    </glyphs>
+  </group>
+  <group name="acutecomb" side="right" type="kerning">
+    <glyphs>
+      acutecomb
+    </glyphs>
+  </group>
+  <group name="ampersand" side="right" type="kerning">
+    <glyphs>
+      ampersand
+      ampersand.swsh
+    </glyphs>
+  </group>
+  <group name="anoteleia" side="right" type="kerning">
+    <glyphs>
+      periodcentered
+    </glyphs>
+  </group>
+  <group name="asciicircum" side="right" type="kerning">
+    <glyphs>
+      asciicircum
+    </glyphs>
+  </group>
+  <group name="asciitilde" side="right" type="kerning">
+    <glyphs>
+      asciitilde
+    </glyphs>
+  </group>
+  <group name="asterisk" side="right" type="kerning">
+    <glyphs>
+      asterisk
+      degree
+      onesuperior
+      ordfeminine
+      ordmasculine
+      servicemark
+      threesuperior
+      trademark
+      twosuperior
+    </glyphs>
+  </group>
+  <group name="at" side="right" type="kerning">
+    <glyphs>
+      at
+      copyright
+      registered
+    </glyphs>
+  </group>
+  <group name="b" side="right" type="kerning">
+    <glyphs>
+      b
+      thorn
+    </glyphs>
+  </group>
+  <group name="backslash" side="right" type="kerning">
+    <glyphs>
+      backslash
+    </glyphs>
+  </group>
+  <group name="bar" side="right" type="kerning">
+    <glyphs>
+      bar
+    </glyphs>
+  </group>
+  <group name="braceleft" side="right" type="kerning">
+    <glyphs>
+      braceleft
+    </glyphs>
+  </group>
+  <group name="bracketleft" side="right" type="kerning">
+    <glyphs>
+      bracketleft
+    </glyphs>
+  </group>
+  <group name="brevecomb" side="right" type="kerning">
+    <glyphs>
+      brevecomb
+    </glyphs>
+  </group>
+  <group name="brokenbar" side="right" type="kerning">
+    <glyphs>
+      brokenbar
+    </glyphs>
+  </group>
+  <group name="bullet" side="right" type="kerning">
+    <glyphs>
+      bullet
+    </glyphs>
+  </group>
+  <group name="caroncomb" side="right" type="kerning">
+    <glyphs>
+      caroncomb
+    </glyphs>
+  </group>
+  <group name="cedillacomb" side="right" type="kerning">
+    <glyphs>
+      cedillacomb
+    </glyphs>
+  </group>
+  <group name="circumflexcomb" side="right" type="kerning">
+    <glyphs>
+      circumflexcomb
+    </glyphs>
+  </group>
+  <group name="colon" side="right" type="kerning">
+    <glyphs>
+      colon
+      semicolon
+    </glyphs>
+  </group>
+  <group name="commaaccentcomb" side="right" type="kerning">
+    <glyphs>
+      commaaccentcomb
+    </glyphs>
+  </group>
+  <group name="commaturnedabovecomb" side="right" type="kerning">
+    <glyphs>
+      commaturnedabovecomb
+    </glyphs>
+  </group>
+  <group name="commaturnedmod" side="right" type="kerning">
+    <glyphs>
+      commaturnedmod
+    </glyphs>
+  </group>
+  <group name="currency" side="right" type="kerning">
+    <glyphs>
+      currency
+    </glyphs>
+  </group>
+  <group name="dieresiscomb" side="right" type="kerning">
+    <glyphs>
+      dieresiscomb
+    </glyphs>
+  </group>
+  <group name="dollar" side="right" type="kerning">
+    <glyphs>
+      dollar
+    </glyphs>
+  </group>
+  <group name="dotaccentcomb" side="right" type="kerning">
+    <glyphs>
+      dotaccentcomb
+    </glyphs>
+  </group>
+  <group name="doubleprimemod" side="right" type="kerning">
+    <glyphs>
+      doubleprimemod
+      primemod
+    </glyphs>
+  </group>
+  <group name="eight" side="right" type="kerning">
+    <glyphs>
+      eight
+    </glyphs>
+  </group>
+  <group name="equal" side="right" type="kerning">
+    <glyphs>
+      equal
+    </glyphs>
+  </group>
+  <group name="euro" side="right" type="kerning">
+    <glyphs>
+      euro
+    </glyphs>
+  </group>
+  <group name="exclam" side="right" type="kerning">
+    <glyphs>
+      exclam
+      exclamdown
+    </glyphs>
+  </group>
+  <group name="f" side="right" type="kerning">
+    <glyphs>
+      germandbls
+    </glyphs>
+  </group>
+  <group name="five" side="right" type="kerning">
+    <glyphs>
+      five
+    </glyphs>
+  </group>
+  <group name="four" side="right" type="kerning">
+    <glyphs>
+      four
+    </glyphs>
+  </group>
+  <group name="four.dnom" side="right" type="kerning">
+    <glyphs>
+      four.dnom
+    </glyphs>
+  </group>
+  <group name="fraction" side="right" type="kerning">
+    <glyphs>
+      fraction
+    </glyphs>
+  </group>
+  <group name="gravecomb" side="right" type="kerning">
+    <glyphs>
+      gravecomb
+    </glyphs>
+  </group>
+  <group name="greater" side="right" type="kerning">
+    <glyphs>
+      greater
+    </glyphs>
+  </group>
+  <group name="guillemetleft" side="right" type="kerning">
+    <glyphs>
+      guillemetleft
+    </glyphs>
+  </group>
+  <group name="guillemetright" side="right" type="kerning">
+    <glyphs>
+      guillemetright
+    </glyphs>
+  </group>
+  <group name="guillemotleft" side="right" type="kerning">
+    <glyphs>
+      guilsinglleft
+    </glyphs>
+  </group>
+  <group name="guillemotright" side="right" type="kerning">
+    <glyphs>
+      guilsinglright
+    </glyphs>
+  </group>
+  <group name="h" side="right" type="kerning">
+    <glyphs>
+      h
+      hbar
+      k
+      k.alt
+      kcommaaccent
+      kcommaaccent.alt
+      l
+      lacute
+      lcaron
+      lcommaaccent
+      lslash
+    </glyphs>
+  </group>
+  <group name="hungarumlautcomb" side="right" type="kerning">
+    <glyphs>
+      hungarumlautcomb
+    </glyphs>
+  </group>
+  <group name="hyphen" side="right" type="kerning">
+    <glyphs>
+      emdash
+      endash
+      hyphen
+    </glyphs>
+  </group>
+  <group name="less" side="right" type="kerning">
+    <glyphs>
+      less
+    </glyphs>
+  </group>
+  <group name="logicalnot" side="right" type="kerning">
+    <glyphs>
+      logicalnot
+    </glyphs>
+  </group>
+  <group name="macroncomb" side="right" type="kerning">
+    <glyphs>
+      macroncomb
+    </glyphs>
+  </group>
+  <group name="micro" side="right" type="kerning">
+    <glyphs>
+      micro
+    </glyphs>
+  </group>
+  <group name="minus" side="right" type="kerning">
+    <glyphs>
+      minus
+      strokeshortcomb
+    </glyphs>
+  </group>
+  <group name="multiply" side="right" type="kerning">
+    <glyphs>
+      multiply
+    </glyphs>
+  </group>
+  <group name="n" side="right" type="kerning">
+    <glyphs>
+      eng
+      f
+      f.alt
+      i
+      iacute
+      icircumflex
+      idieresis
+      idotaccent
+      idotless
+      igrave
+      imacron
+      iogonek
+      m
+      n
+      nacute
+      ncaron
+      ncommaaccent
+      ntilde
+      r
+      racute
+      rcaron
+      rcommaaccent
+    </glyphs>
+  </group>
+  <group name="nbspace" side="right" type="kerning">
+    <glyphs>
+      nbspace
+    </glyphs>
+  </group>
+  <group name="nine" side="right" type="kerning">
+    <glyphs>
+      nine
+    </glyphs>
+  </group>
+  <group name="numbersign" side="right" type="kerning">
+    <glyphs>
+      numbersign
+    </glyphs>
+  </group>
+  <group name="o" side="right" type="kerning">
+    <glyphs>
+      a.alt2
+      c
+      cacute
+      ccaron
+      ccedilla
+      cent
+      d
+      d.alt
+      dcaron
+      dcaron.alt
+      dcroat
+      dcroat.alt
+      e
+      eacute
+      ecaron
+      ecircumflex
+      edieresis
+      edotaccent
+      egrave
+      emacron
+      eogonek
+      eth
+      g
+      g.alt
+      gcommaaccent
+      gcommaaccent.alt
+      o
+      oacute
+      ocircumflex
+      odieresis
+      oe
+      ograve
+      ohungarumlaut
+      omacron
+      oslash
+      otilde
+      q
+      schwa
+    </glyphs>
+  </group>
+  <group name="ogonekcomb" side="right" type="kerning">
+    <glyphs>
+      ogonekcomb
+    </glyphs>
+  </group>
+  <group name="one" side="right" type="kerning">
+    <glyphs>
+      one
+    </glyphs>
+  </group>
+  <group name="one.numr" side="right" type="kerning">
+    <glyphs>
+      one.numr
+      onehalf
+      onequarter
+    </glyphs>
+  </group>
+  <group name="p" side="right" type="kerning">
+    <glyphs>
+      j
+      jdotless
+      p
+    </glyphs>
+  </group>
+  <group name="paragraph" side="right" type="kerning">
+    <glyphs>
+      paragraph
+    </glyphs>
+  </group>
+  <group name="parenleft" side="right" type="kerning">
+    <glyphs>
+      parenleft
+    </glyphs>
+  </group>
+  <group name="parenright" side="right" type="kerning">
+    <glyphs>
+      braceright
+      bracketright
+      parenright
+    </glyphs>
+  </group>
+  <group name="percent" side="right" type="kerning">
+    <glyphs>
+      percent
+    </glyphs>
+  </group>
+  <group name="period" side="right" type="kerning">
+    <glyphs>
+      comma
+      ellipsis
+      period
+      quotedblbase
+      quotesinglbase
+    </glyphs>
+  </group>
+  <group name="plus" side="right" type="kerning">
+    <glyphs>
+      plus
+    </glyphs>
+  </group>
+  <group name="plusminus" side="right" type="kerning">
+    <glyphs>
+      plusminus
+    </glyphs>
+  </group>
+  <group name="question" side="right" type="kerning">
+    <glyphs>
+      question
+    </glyphs>
+  </group>
+  <group name="questiondown" side="right" type="kerning">
+    <glyphs>
+      questiondown
+    </glyphs>
+  </group>
+  <group name="quotedblleft" side="right" type="kerning">
+    <glyphs>
+      quotedbl
+      quotedblleft
+      quotedblright
+      quoteleft
+      quotereversed
+      quoteright
+      quotesingle
+    </glyphs>
+  </group>
+  <group name="ringcomb" side="right" type="kerning">
+    <glyphs>
+      ringcomb
+    </glyphs>
+  </group>
+  <group name="s" side="right" type="kerning">
+    <glyphs>
+      s
+      sacute
+      scaron
+      scedilla
+    </glyphs>
+  </group>
+  <group name="section" side="right" type="kerning">
+    <glyphs>
+      section
+    </glyphs>
+  </group>
+  <group name="seven" side="right" type="kerning">
+    <glyphs>
+      seven
+      seven.alt
+    </glyphs>
+  </group>
+  <group name="slash" side="right" type="kerning">
+    <glyphs>
+      slash
+      slashlongcomb
+    </glyphs>
+  </group>
+  <group name="slashshortcomb" side="right" type="kerning">
+    <glyphs>
+      slashshortcomb
+    </glyphs>
+  </group>
+  <group name="space" side="right" type="kerning">
+    <glyphs>
+      space
+    </glyphs>
+  </group>
+  <group name="sterling" side="right" type="kerning">
+    <glyphs>
+      sterling
+    </glyphs>
+  </group>
+  <group name="t" side="right" type="kerning">
+    <glyphs>
+      t
+      t.alt
+      tbar
+      tbar.alt
+      tcaron
+      tcaron.alt
+      tcedilla
+      tcedilla.alt
+    </glyphs>
+  </group>
+  <group name="three" side="right" type="kerning">
+    <glyphs>
+      three
+    </glyphs>
+  </group>
+  <group name="three.numr" side="right" type="kerning">
+    <glyphs>
+      three.numr
+      threequarters
+    </glyphs>
+  </group>
+  <group name="tildecomb" side="right" type="kerning">
+    <glyphs>
+      tildecomb
+    </glyphs>
+  </group>
+  <group name="two" side="right" type="kerning">
+    <glyphs>
+      two
+      two.alt
+    </glyphs>
+  </group>
+  <group name="two.dnom" side="right" type="kerning">
+    <glyphs>
+      two.dnom
+    </glyphs>
+  </group>
+  <group name="u" side="right" type="kerning">
+    <glyphs>
+      u
+      u.alt
+      uacute
+      uacute.alt
+      ucircumflex
+      ucircumflex.alt
+      udieresis
+      udieresis.alt
+      ugrave
+      ugrave.alt
+      uhungarumlaut
+      uhungarumlaut.alt
+      umacron
+      umacron.alt
+      uogonek
+      uogonek.alt
+      uring
+      uring.alt
+    </glyphs>
+  </group>
+  <group name="underscore" side="right" type="kerning">
+    <glyphs>
+      underscore
+    </glyphs>
+  </group>
+  <group name="v" side="right" type="kerning">
+    <glyphs>
+      v
+      w
+      w.bold
+      wacute
+      wcircumflex
+      wdieresis
+      wgrave
+      y
+      yacute
+      ycircumflex
+      ydieresis
+      ygrave
+    </glyphs>
+  </group>
+  <group name="x" side="right" type="kerning">
+    <glyphs>
+      x
+      x.alt
+    </glyphs>
+  </group>
+  <group name="yen" side="right" type="kerning">
+    <glyphs>
+      yen
+    </glyphs>
+  </group>
+  <group name="z" side="right" type="kerning">
+    <glyphs>
+      z
+      z.alt
+      zacute
+      zacute.alt
+      zcaron
+      zcaron.alt
+      zdotaccent
+      zdotaccent.alt
+    </glyphs>
+  </group>
+  <group name="zero" side="right" type="kerning">
+    <glyphs>
+      six
+      zero
+      zero.slash
+    </glyphs>
+  </group>
+</xml>

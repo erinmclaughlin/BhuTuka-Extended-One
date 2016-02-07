@@ -3,9 +3,54 @@
   <advance width="893.0"/>
   <unicode hex="00BC"/>
   <outline>
-    <component base="one.numr" yOffset="-22"/>
-    <component base="fraction" xOffset="350" yOffset="-22"/>
-    <component base="four.dnom" xOffset="485" yOffset="-22"/>
+    <contour>
+      <point x="116" y="392"/>
+      <point x="172" y="420"/>
+      <point x="192" y="472" type="curve"/>
+      <point x="172" y="480" type="line"/>
+      <point x="157" y="435"/>
+      <point x="107" y="416"/>
+      <point x="56" y="410" type="curve"/>
+      <point x="59" y="386" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="198" type="line"/>
+      <point x="290" y="218" type="line"/>
+      <point x="55" y="218" type="line"/>
+      <point x="55" y="198" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="198" type="line"/>
+      <point x="195" y="480" type="line"/>
+      <point x="172" y="480" type="line"/>
+      <point x="172" y="198" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="-56" type="line"/>
+      <point x="280" y="-71" type="line"/>
+      <point x="461" y="239" type="line"/>
+      <point x="651" y="544" type="line"/>
+      <point x="625" y="559" type="line"/>
+      <point x="444" y="249" type="line"/>
+    </contour>
+    <contour>
+      <point x="790" y="278" type="line"/>
+      <point x="759" y="278" type="line"/>
+      <point x="515" y="88" type="line"/>
+      <point x="541" y="82" type="line"/>
+    </contour>
+    <contour>
+      <point x="883" y="66" type="line"/>
+      <point x="883" y="88" type="line"/>
+      <point x="515" y="88" type="line"/>
+      <point x="515" y="66" type="line"/>
+    </contour>
+    <contour>
+      <point x="767" y="-11" type="line"/>
+      <point x="790" y="-11" type="line"/>
+      <point x="790" y="278" type="line"/>
+      <point x="767" y="278" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

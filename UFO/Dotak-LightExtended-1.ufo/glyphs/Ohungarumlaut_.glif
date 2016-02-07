@@ -3,8 +3,61 @@
   <advance width="919"/>
   <unicode hex="0150"/>
   <outline>
-    <component base="O" yOffset="-3"/>
-    <component base="hungarumlautcomb" xOffset="212" yOffset="8"/>
+    <contour>
+      <point x="676" y="-11"/>
+      <point x="844" y="88"/>
+      <point x="844" y="259" type="curve"/>
+      <point x="844" y="431"/>
+      <point x="676" y="531"/>
+      <point x="460" y="531" type="curve"/>
+      <point x="242" y="531"/>
+      <point x="75" y="431"/>
+      <point x="75" y="259" type="curve"/>
+      <point x="75" y="88"/>
+      <point x="242" y="-11"/>
+      <point x="460" y="-11" type="curve"/>
+    </contour>
+    <contour>
+      <point x="252" y="12"/>
+      <point x="100" y="105"/>
+      <point x="100" y="259" type="curve"/>
+      <point x="100" y="414"/>
+      <point x="252" y="507"/>
+      <point x="460" y="507" type="curve"/>
+      <point x="666" y="507"/>
+      <point x="819" y="414"/>
+      <point x="819" y="259" type="curve"/>
+      <point x="819" y="105"/>
+      <point x="666" y="12"/>
+      <point x="460" y="12" type="curve"/>
+    </contour>
+    <contour>
+      <point x="683" y="775" type="line"/>
+      <point x="667" y="795" type="line"/>
+      <point x="499" y="627" type="line"/>
+      <point x="508" y="617" type="line"/>
+    </contour>
+    <contour>
+      <point x="487" y="775" type="line"/>
+      <point x="470" y="795" type="line"/>
+      <point x="302" y="627" type="line"/>
+      <point x="312" y="617" type="line"/>
+    </contour>
+    <contour>
+      <point x="460" y="410" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="461" y="156" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="460" y="697" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="894" y="656" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="460" y="155" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
