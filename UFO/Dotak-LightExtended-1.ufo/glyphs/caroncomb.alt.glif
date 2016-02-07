@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.alt" format="1">
+  <advance width="292"/>
+  <outline>
+    <contour>
+      <point x="211" y="724"/>
+      <point x="176" y="642"/>
+      <point x="90" y="542" type="curve"/>
+      <point x="106" y="528" type="line"/>
+      <point x="206" y="627"/>
+      <point x="249" y="722"/>
+      <point x="246" y="824" type="curve"/>
+      <point x="211" y="827" type="line"/>
+    </contour>
+    <contour>
+      <point x="48.0" y="581.0" type="move" name="_topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>caroncomb.alt</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>292</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>caroncomb.alt</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>292</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

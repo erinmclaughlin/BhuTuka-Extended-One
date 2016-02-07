@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="summation" format="1">
+  <advance width="890"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="751" y="-95" type="line"/>
+      <point x="101" y="-95" type="line"/>
+      <point x="59" y="-119" type="line"/>
+      <point x="62" y="-128" type="line"/>
+      <point x="751" y="-125" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="813" type="line"/>
+      <point x="59" y="804" type="line"/>
+      <point x="101" y="780" type="line"/>
+      <point x="751" y="780" type="line"/>
+      <point x="751" y="811" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="812" type="line"/>
+      <point x="62" y="812" type="line"/>
+      <point x="59" y="804" type="line"/>
+      <point x="442" y="345" type="line"/>
+      <point x="59" y="-119" type="line"/>
+      <point x="62" y="-127" type="line"/>
+      <point x="99" y="-127" type="line"/>
+      <point x="483" y="342" type="line"/>
+      <point x="483" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="721" y="583" type="line"/>
+      <point x="751" y="583" type="line"/>
+      <point x="751" y="811" type="line"/>
+      <point x="721" y="811" type="line"/>
+    </contour>
+    <contour>
+      <point x="721" y="-125" type="line"/>
+      <point x="751" y="-125" type="line"/>
+      <point x="751" y="101" type="line"/>
+      <point x="721" y="101" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>summation</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>890</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>summation</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>890</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

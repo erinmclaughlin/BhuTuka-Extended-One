@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="975"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="854" y="-13"/>
+      <point x="877" y="6"/>
+      <point x="877" y="29" type="curve"/>
+      <point x="877" y="54"/>
+      <point x="854" y="72"/>
+      <point x="812" y="72" type="curve"/>
+      <point x="771" y="72"/>
+      <point x="747" y="54"/>
+      <point x="747" y="29" type="curve"/>
+      <point x="747" y="6"/>
+      <point x="771" y="-13"/>
+      <point x="812" y="-13" type="curve"/>
+    </contour>
+    <contour>
+      <point x="205" y="-13"/>
+      <point x="227" y="6"/>
+      <point x="227" y="29" type="curve"/>
+      <point x="227" y="54"/>
+      <point x="205" y="72"/>
+      <point x="163" y="72" type="curve"/>
+      <point x="121" y="72"/>
+      <point x="98" y="54"/>
+      <point x="98" y="29" type="curve"/>
+      <point x="98" y="6"/>
+      <point x="121" y="-13"/>
+      <point x="163" y="-13" type="curve"/>
+    </contour>
+    <contour>
+      <point x="529" y="-13"/>
+      <point x="552" y="6"/>
+      <point x="552" y="29" type="curve"/>
+      <point x="552" y="54"/>
+      <point x="529" y="72"/>
+      <point x="487" y="72" type="curve"/>
+      <point x="447" y="72"/>
+      <point x="422" y="54"/>
+      <point x="422" y="29" type="curve"/>
+      <point x="422" y="6"/>
+      <point x="447" y="-13"/>
+      <point x="487" y="-13" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ellipsis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>975</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ellipsis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>975</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

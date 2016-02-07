@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="1">
+  <advance width="490"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="112" y="475" type="line"/>
+      <point x="133" y="473" type="line"/>
+      <point x="193" y="734" type="line"/>
+      <point x="146" y="741" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="475" type="line"/>
+      <point x="331" y="473" type="line"/>
+      <point x="391" y="734" type="line"/>
+      <point x="344" y="741" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedbl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>490</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedbl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>490</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

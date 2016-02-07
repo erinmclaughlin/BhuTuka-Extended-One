@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abreve" format="1">
-  <advance width="1024"/>
+  <advance width="1352"/>
   <unicode hex="0102"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb" xOffset="269"/>
+    <component base="brevecomb" xOffset="354"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

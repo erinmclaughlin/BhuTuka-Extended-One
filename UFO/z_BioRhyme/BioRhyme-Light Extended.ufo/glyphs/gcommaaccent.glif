@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcommaaccent" format="1">
-  <advance width="755"/>
+  <advance width="997"/>
   <unicode hex="0123"/>
   <outline>
     <component base="g"/>
-    <component base="commaturnedabovecomb" xOffset="256" yOffset="-153"/>
+    <component base="commaturnedabovecomb" xOffset="338" yOffset="-189"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

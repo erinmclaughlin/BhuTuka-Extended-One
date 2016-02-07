@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grJHA_RAc2" format="1">
+  <advance width="954"/>
+  <outline>
+    <contour>
+      <point x="540" y="125" type="line"/>
+      <point x="540" y="-74" type="line"/>
+      <point x="565" y="-74" type="line"/>
+      <point x="565" y="127" type="line"/>
+    </contour>
+    <component base="grRAc2" xOffset="752" yOffset="30"/>
+    <component base="grJHA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>grJHA_RAc2</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>954</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>grJHA_RAc2</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>954</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

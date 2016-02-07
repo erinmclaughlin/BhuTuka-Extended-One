@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb" format="1">
+  <advance width="336"/>
+  <outline>
+    <contour>
+      <point x="209" y="836"/>
+      <point x="230" y="853"/>
+      <point x="230" y="876" type="curve"/>
+      <point x="230" y="899"/>
+      <point x="209" y="916"/>
+      <point x="167" y="916" type="curve"/>
+      <point x="128" y="916"/>
+      <point x="106" y="899"/>
+      <point x="106" y="876" type="curve"/>
+      <point x="106" y="853"/>
+      <point x="128" y="836"/>
+      <point x="167" y="836" type="curve"/>
+    </contour>
+    <contour>
+      <point x="167.0" y="686.0" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dotaccentcomb</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>336</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dotaccentcomb</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>336</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

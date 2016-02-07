@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uogonek" format="1">
-  <advance width="910"/>
+  <advance width="1201"/>
   <unicode hex="0173"/>
   <outline>
     <component base="u"/>
-    <component base="ogonekcomb" xOffset="672" yOffset="19"/>
+    <component base="ogonekcomb" xOffset="887" yOffset="25"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

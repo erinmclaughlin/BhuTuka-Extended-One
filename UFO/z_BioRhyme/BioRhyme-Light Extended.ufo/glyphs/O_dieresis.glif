@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odieresis" format="1">
-  <advance width="916"/>
+  <advance width="1209"/>
   <unicode hex="00D6"/>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb" xOffset="213" yOffset="10"/>
+    <component base="dieresiscomb" xOffset="282" yOffset="14"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

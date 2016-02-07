@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="1">
+  <advance width="1108"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="237" y="12" type="line"/>
+      <point x="563" y="229" type="line"/>
+      <point x="569" y="229" type="line"/>
+      <point x="917" y="460" type="line"/>
+      <point x="871" y="460" type="line"/>
+      <point x="543" y="244" type="line"/>
+      <point x="539" y="244" type="line"/>
+      <point x="190" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="0" type="line"/>
+      <point x="480" y="31" type="line"/>
+      <point x="246" y="31" type="line"/>
+      <point x="231" y="31" type="line"/>
+      <point x="73" y="31" type="line"/>
+      <point x="73" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1035" y="0" type="line"/>
+      <point x="1035" y="31" type="line"/>
+      <point x="873" y="31" type="line"/>
+      <point x="859" y="31" type="line"/>
+      <point x="628" y="31" type="line"/>
+      <point x="628" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="235" y="440" type="line"/>
+      <point x="250" y="440" type="line"/>
+      <point x="480" y="440" type="line"/>
+      <point x="480" y="471" type="line"/>
+      <point x="73" y="471" type="line"/>
+      <point x="73" y="440" type="line"/>
+    </contour>
+    <contour>
+      <point x="865" y="440" type="line"/>
+      <point x="877" y="440" type="line"/>
+      <point x="1035" y="440" type="line"/>
+      <point x="1035" y="471" type="line"/>
+      <point x="628" y="471" type="line"/>
+      <point x="628" y="440" type="line"/>
+    </contour>
+    <contour>
+      <point x="920" y="12" type="line"/>
+      <point x="569" y="244" type="line"/>
+      <point x="568" y="244" type="line"/>
+      <point x="242" y="460" type="line"/>
+      <point x="187" y="460" type="line"/>
+      <point x="539" y="229" type="line"/>
+      <point x="540" y="229" type="line"/>
+      <point x="866" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="559.0" y="471.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="559.0" y="0.0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>x</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1108</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>x</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1108</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

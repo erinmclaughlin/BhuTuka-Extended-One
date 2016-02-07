@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcaron" format="1">
-  <advance width="1057"/>
+  <advance width="1395"/>
   <unicode hex="0158"/>
   <outline>
     <component base="R"/>
-    <component base="caroncomb" xOffset="292"/>
+    <component base="caroncomb" xOffset="386"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

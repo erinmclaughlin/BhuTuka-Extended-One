@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <advance width="619"/>
+  <unicode hex="0069"/>
+  <outline>
+    <contour>
+      <point x="339" y="0" type="line"/>
+      <point x="339" y="471" type="line"/>
+      <point x="306" y="471" type="line"/>
+      <point x="306" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="580" y="0" type="line"/>
+      <point x="580" y="31" type="line"/>
+      <point x="66" y="31" type="line"/>
+      <point x="66" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="440" type="line"/>
+      <point x="339" y="471" type="line"/>
+      <point x="66" y="471" type="line"/>
+      <point x="66" y="440" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="619"/>
+      <point x="371" y="636"/>
+      <point x="371" y="659" type="curve"/>
+      <point x="371" y="682"/>
+      <point x="350" y="700"/>
+      <point x="309" y="700" type="curve"/>
+      <point x="270" y="700"/>
+      <point x="246" y="682"/>
+      <point x="246" y="659" type="curve"/>
+      <point x="246" y="636"/>
+      <point x="270" y="619"/>
+      <point x="309" y="619" type="curve"/>
+    </contour>
+    <contour>
+      <point x="541.0" y="13.0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="286.0" y="0.0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="299.0" y="471.0" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>i</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>619</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>i</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>619</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

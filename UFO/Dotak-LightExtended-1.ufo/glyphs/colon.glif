@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="1">
+  <advance width="362"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="223" y="398"/>
+      <point x="245" y="417"/>
+      <point x="245" y="441" type="curve"/>
+      <point x="245" y="466"/>
+      <point x="223" y="483"/>
+      <point x="180" y="483" type="curve"/>
+      <point x="140" y="483"/>
+      <point x="117" y="466"/>
+      <point x="117" y="441" type="curve"/>
+      <point x="117" y="417"/>
+      <point x="140" y="398"/>
+      <point x="180" y="398" type="curve"/>
+    </contour>
+    <contour>
+      <point x="223" y="-13"/>
+      <point x="245" y="6"/>
+      <point x="245" y="29" type="curve"/>
+      <point x="245" y="54"/>
+      <point x="223" y="72"/>
+      <point x="180" y="72" type="curve"/>
+      <point x="140" y="72"/>
+      <point x="117" y="54"/>
+      <point x="117" y="29" type="curve"/>
+      <point x="117" y="6"/>
+      <point x="140" y="-13"/>
+      <point x="180" y="-13" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>colon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>362</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>colon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>362</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

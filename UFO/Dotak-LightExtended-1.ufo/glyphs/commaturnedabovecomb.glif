@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecomb" format="1">
+  <advance width="329"/>
+  <outline>
+    <contour>
+      <point x="92" y="838"/>
+      <point x="119" y="814"/>
+      <point x="157" y="814" type="curve" smooth="yes"/>
+      <point x="194" y="814"/>
+      <point x="217" y="833"/>
+      <point x="217" y="856" type="curve" smooth="yes"/>
+      <point x="217" y="878"/>
+      <point x="196" y="892"/>
+      <point x="165" y="892" type="curve" smooth="yes"/>
+      <point x="147" y="892"/>
+      <point x="133" y="890"/>
+      <point x="119" y="887" type="curve"/>
+      <point x="128" y="945"/>
+      <point x="171" y="992"/>
+      <point x="237" y="1052" type="curve"/>
+      <point x="222" y="1068" type="line"/>
+      <point x="141" y="1004"/>
+      <point x="92" y="933"/>
+      <point x="92" y="877" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="158.0" y="686.0" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>commaturnedabovecomb</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>329</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>commaturnedabovecomb</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>329</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

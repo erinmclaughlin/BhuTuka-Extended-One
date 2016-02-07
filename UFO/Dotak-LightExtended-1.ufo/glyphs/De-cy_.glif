@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="De-cy" format="1">
+  <advance width="1239"/>
+  <outline>
+    <contour>
+      <point x="1019" y="18" type="line"/>
+      <point x="711" y="673" type="line" smooth="yes"/>
+      <point x="528" y="673" type="line"/>
+      <point x="220" y="20" type="line"/>
+      <point x="256" y="20" type="line"/>
+      <point x="556" y="662" type="line"/>
+      <point x="684" y="662" type="line"/>
+      <point x="983" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="-143" type="line"/>
+      <point x="256" y="20" type="line"/>
+      <point x="220" y="20" type="line"/>
+      <point x="237" y="-143" type="line"/>
+    </contour>
+    <contour>
+      <point x="1001" y="0" type="line"/>
+      <point x="1001" y="29" type="line"/>
+      <point x="240" y="29" type="line"/>
+      <point x="240" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1003" y="-145" type="line"/>
+      <point x="1019" y="18" type="line"/>
+      <point x="983" y="18" type="line"/>
+      <point x="983" y="-145" type="line"/>
+    </contour>
+    <contour>
+      <point x="933" y="656" type="line"/>
+      <point x="933" y="686" type="line"/>
+      <point x="305" y="686" type="line"/>
+      <point x="305" y="656" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>De-cy</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1239</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>De-cy</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1239</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

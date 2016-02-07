@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scedilla" format="1">
-  <advance width="867"/>
+  <advance width="1144"/>
   <unicode hex="015E"/>
   <outline>
     <component base="S"/>
-    <component base="cedillacomb" xOffset="342"/>
+    <component base="cedillacomb" xOffset="392" yOffset="-13"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

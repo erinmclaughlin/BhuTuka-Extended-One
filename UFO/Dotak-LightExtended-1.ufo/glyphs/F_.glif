@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="1">
+  <advance width="1170"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="1071" y="444" type="line"/>
+      <point x="1071" y="686" type="line"/>
+      <point x="74" y="686" type="line"/>
+      <point x="74" y="655" type="line"/>
+      <point x="1039" y="655" type="line"/>
+      <point x="1039" y="444" type="line"/>
+    </contour>
+    <contour>
+      <point x="601" y="0" type="line"/>
+      <point x="601" y="31" type="line"/>
+      <point x="74" y="31" type="line"/>
+      <point x="74" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="348" y="18" type="line"/>
+      <point x="348" y="669" type="line"/>
+      <point x="315" y="669" type="line"/>
+      <point x="315" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="730" y="317" type="line"/>
+      <point x="730" y="348" type="line"/>
+      <point x="343" y="348" type="line"/>
+      <point x="343" y="317" type="line"/>
+    </contour>
+    <contour>
+      <point x="747" y="174" type="line"/>
+      <point x="747" y="490" type="line"/>
+      <point x="714" y="490" type="line"/>
+      <point x="714" y="174" type="line"/>
+    </contour>
+    <contour>
+      <point x="593.0" y="647.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="593.0" y="0.0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>F</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1170</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>F</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1170</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

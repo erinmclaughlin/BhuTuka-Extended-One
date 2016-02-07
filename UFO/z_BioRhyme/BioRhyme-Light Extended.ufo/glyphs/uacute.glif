@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uacute" format="1">
-  <advance width="910"/>
+  <advance width="1201"/>
   <unicode hex="00FA"/>
   <outline>
     <component base="u"/>
-    <component base="acutecomb" xOffset="306" yOffset="-173"/>
+    <component base="acutecomb" xOffset="404" yOffset="-228"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

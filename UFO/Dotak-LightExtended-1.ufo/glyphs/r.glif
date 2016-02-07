@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="1">
+  <advance width="957"/>
+  <unicode hex="0072"/>
+  <outline>
+    <contour>
+      <point x="496" y="377"/>
+      <point x="657" y="453"/>
+      <point x="825" y="453" type="curve"/>
+      <point x="825" y="289" type="line"/>
+      <point x="858" y="289" type="line"/>
+      <point x="858" y="483" type="line"/>
+      <point x="825" y="484" type="line"/>
+      <point x="636" y="484"/>
+      <point x="483" y="403"/>
+      <point x="322" y="278" type="curve"/>
+      <point x="322" y="248" type="line"/>
+    </contour>
+    <contour>
+      <point x="580" y="0" type="line"/>
+      <point x="580" y="31" type="line"/>
+      <point x="66" y="31" type="line"/>
+      <point x="66" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="0" type="line"/>
+      <point x="339" y="471" type="line"/>
+      <point x="306" y="471" type="line"/>
+      <point x="306" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="440" type="line"/>
+      <point x="339" y="471" type="line"/>
+      <point x="66" y="471" type="line"/>
+      <point x="66" y="440" type="line"/>
+    </contour>
+    <contour>
+      <point x="469.0" y="471.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="469.0" y="0.0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>r</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>957</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>r</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>957</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

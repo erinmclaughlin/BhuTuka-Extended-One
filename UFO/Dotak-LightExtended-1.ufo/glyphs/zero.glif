@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero" format="1">
+  <advance width="1018"/>
+  <unicode hex="0030"/>
+  <outline>
+    <contour>
+      <point x="738" y="-13"/>
+      <point x="939" y="99"/>
+      <point x="939" y="310" type="curve"/>
+      <point x="939" y="514"/>
+      <point x="738" y="634"/>
+      <point x="509" y="634" type="curve"/>
+      <point x="280" y="634"/>
+      <point x="79" y="514"/>
+      <point x="79" y="310" type="curve"/>
+      <point x="79" y="99"/>
+      <point x="280" y="-13"/>
+      <point x="509" y="-13" type="curve"/>
+    </contour>
+    <contour>
+      <point x="296" y="18"/>
+      <point x="113" y="121"/>
+      <point x="113" y="310" type="curve"/>
+      <point x="113" y="490"/>
+      <point x="296" y="603"/>
+      <point x="509" y="603" type="curve"/>
+      <point x="724" y="603"/>
+      <point x="906" y="490"/>
+      <point x="906" y="310" type="curve"/>
+      <point x="906" y="121"/>
+      <point x="724" y="18"/>
+      <point x="509" y="18" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zero</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1018</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zero</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1018</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="happy.rev" format="1">
+  <advance width="1260"/>
+  <outline>
+    <contour>
+      <point x="952" y="-218"/>
+      <point x="1180" y="-26"/>
+      <point x="1180" y="233" type="curve"/>
+      <point x="1180" y="494"/>
+      <point x="952" y="685"/>
+      <point x="629" y="685" type="curve"/>
+      <point x="308" y="685"/>
+      <point x="79" y="494"/>
+      <point x="79" y="233" type="curve"/>
+      <point x="79" y="-26"/>
+      <point x="308" y="-218"/>
+      <point x="629" y="-218" type="curve"/>
+    </contour>
+    <contour>
+      <point x="351" y="178"/>
+      <point x="336" y="194"/>
+      <point x="336" y="216" type="curve" smooth="yes"/>
+      <point x="336" y="235"/>
+      <point x="351" y="251"/>
+      <point x="372" y="251" type="curve" smooth="yes"/>
+      <point x="392" y="251"/>
+      <point x="408" y="235"/>
+      <point x="408" y="216" type="curve" smooth="yes"/>
+      <point x="408" y="194"/>
+      <point x="392" y="178"/>
+      <point x="372" y="178" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="508" y="-32"/>
+      <point x="424" y="1"/>
+      <point x="341" y="45" type="curve"/>
+      <point x="344" y="62" type="line"/>
+      <point x="431" y="32"/>
+      <point x="516" y="7"/>
+      <point x="629" y="7" type="curve" smooth="yes"/>
+      <point x="739" y="7"/>
+      <point x="827" y="32"/>
+      <point x="915" y="62" type="curve"/>
+      <point x="919" y="45" type="line"/>
+      <point x="836" y="1"/>
+      <point x="751" y="-32"/>
+      <point x="629" y="-32" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="246" y="325" type="line"/>
+      <point x="293" y="382"/>
+      <point x="367" y="394"/>
+      <point x="451" y="414" type="curve"/>
+      <point x="463" y="376" type="line"/>
+      <point x="388" y="364"/>
+      <point x="311" y="359"/>
+      <point x="263" y="310" type="curve"/>
+    </contour>
+    <contour>
+      <point x="864" y="178"/>
+      <point x="847" y="194"/>
+      <point x="847" y="216" type="curve" smooth="yes"/>
+      <point x="847" y="235"/>
+      <point x="864" y="251"/>
+      <point x="884" y="251" type="curve" smooth="yes"/>
+      <point x="904" y="251"/>
+      <point x="920" y="235"/>
+      <point x="920" y="216" type="curve" smooth="yes"/>
+      <point x="920" y="194"/>
+      <point x="904" y="178"/>
+      <point x="884" y="178" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="948" y="359"/>
+      <point x="871" y="364"/>
+      <point x="796" y="376" type="curve"/>
+      <point x="807" y="414" type="line"/>
+      <point x="892" y="394"/>
+      <point x="966" y="382"/>
+      <point x="1012" y="325" type="curve"/>
+      <point x="997" y="310" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>happy.rev</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1260</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>happy.rev</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1260</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

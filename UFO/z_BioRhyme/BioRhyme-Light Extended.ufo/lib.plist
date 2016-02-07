@@ -7,86 +7,86 @@
 		<key>543F9737-16F7-428D-9F96-2EBD9FC8D3B6</key>
 		<dict>
 			<key>HH</key>
-			<integer>23</integer>
+			<integer>31</integer>
 			<key>HV</key>
-			<string>25 </string>
+			<string>33 </string>
 			<key>OH</key>
-			<integer>23</integer>
+			<integer>31</integer>
 			<key>OV</key>
-			<integer>25</integer>
+			<integer>33</integer>
 			<key>nV</key>
-			<integer>25</integer>
+			<integer>33</integer>
 			<key>nd</key>
-			<integer>23</integer>
+			<integer>31</integer>
 			<key>oH</key>
-			<integer>23</integer>
+			<integer>31</integer>
 			<key>oV</key>
-			<integer>25</integer>
+			<integer>33</integer>
 			<key>tH</key>
-			<integer>23</integer>
+			<integer>31</integer>
 		</dict>
 		<key>B29C398E-974A-40D0-A0A0-00935056D4B4</key>
 		<dict>
 			<key>HH</key>
-			<integer>23</integer>
+			<integer>31</integer>
 			<key>HV</key>
-			<integer>25</integer>
+			<integer>33</integer>
 			<key>OH</key>
-			<integer>23</integer>
+			<integer>31</integer>
 			<key>OV</key>
-			<integer>25</integer>
+			<integer>33</integer>
 			<key>nV</key>
-			<integer>25</integer>
+			<integer>33</integer>
 			<key>nd</key>
-			<integer>23</integer>
+			<integer>31</integer>
 			<key>oH</key>
-			<integer>23</integer>
+			<integer>31</integer>
 			<key>oV</key>
-			<integer>25</integer>
+			<integer>33</integer>
 			<key>tH</key>
-			<integer>23</integer>
+			<integer>31</integer>
 		</dict>
 		<key>C70E3B11-AF58-44B6-92D7-58C9185F522D</key>
 		<dict>
 			<key>HH</key>
-			<integer>90</integer>
+			<integer>119</integer>
 			<key>HV</key>
-			<integer>123</integer>
+			<integer>162</integer>
 			<key>OH</key>
-			<integer>98</integer>
+			<integer>131</integer>
 			<key>OV</key>
-			<integer>134</integer>
+			<integer>170</integer>
 			<key>nV</key>
-			<integer>115</integer>
+			<integer>152</integer>
 			<key>nd</key>
-			<integer>103</integer>
+			<integer>135</integer>
 			<key>oH</key>
-			<integer>90</integer>
+			<integer>119</integer>
 			<key>oV</key>
-			<integer>121</integer>
+			<integer>160</integer>
 			<key>tH</key>
-			<integer>90</integer>
+			<integer>119</integer>
 		</dict>
 		<key>EB38A4D2-CD30-49BA-8E45-1F04A566FFE8</key>
 		<dict>
 			<key>HH</key>
-			<integer>90</integer>
+			<integer>119</integer>
 			<key>HV</key>
-			<integer>123</integer>
+			<integer>162</integer>
 			<key>OH</key>
-			<integer>99</integer>
+			<integer>131</integer>
 			<key>OV</key>
-			<integer>129</integer>
+			<integer>169</integer>
 			<key>nV</key>
-			<integer>115</integer>
+			<integer>149</integer>
 			<key>nd</key>
-			<integer>108</integer>
+			<integer>142</integer>
 			<key>oH</key>
-			<integer>90</integer>
+			<integer>119</integer>
 			<key>oV</key>
-			<integer>121</integer>
+			<integer>159</integer>
 			<key>tH</key>
-			<integer>90</integer>
+			<integer>119</integer>
 		</dict>
 		<key>FA480B27-EBBD-4830-9868-98507D39050C</key>
 		<dict>
@@ -107,44 +107,40 @@
 	<key>com.schriftgestaltung.weight</key>
 	<string>Light</string>
 	<key>com.schriftgestaltung.weightValue</key>
-	<real>250.0</real>
+	<real>250</real>
 	<key>com.schriftgestaltung.width</key>
 	<string>Extended</string>
-	<key>com.typemytype.robofont.layerOrder</key>
-	<array>
-	</array>
-	<key>com.typemytype.robofont.segmentType</key>
-	<string>curve</string>
-	<key>com.typemytype.robofont.sort</key>
-	<array>
-		<dict>
-			<key>ascending</key>
-			<string>Dotak</string>
-			<key>type</key>
-			<string>characterSet</string>
-		</dict>
-	</array>
 	<key>public.glyphOrder</key>
 	<array>
-		<string>.notdef</string>
-		<string>CR</string>
-		<string>space</string>
 		<string>A</string>
+		<string>A.alt</string>
 		<string>Aacute</string>
+		<string>Aacute.alt</string>
 		<string>Abreve</string>
+		<string>Abreve.alt</string>
 		<string>Acircumflex</string>
+		<string>Acircumflex.alt</string>
+		<string>Acircumflexhookabove</string>
+		<string>Acircumflexhookabove.alt</string>
 		<string>Adieresis</string>
+		<string>Adieresis.alt</string>
 		<string>Agrave</string>
+		<string>Agrave.alt</string>
 		<string>Amacron</string>
+		<string>Amacron.alt</string>
 		<string>Aogonek</string>
+		<string>Aogonek.alt</string>
 		<string>Aring</string>
+		<string>Aring.alt</string>
 		<string>Atilde</string>
+		<string>Atilde.alt</string>
 		<string>AE</string>
 		<string>B</string>
 		<string>C</string>
 		<string>Cacute</string>
 		<string>Ccaron</string>
 		<string>Ccedilla</string>
+		<string>Cdotaccent</string>
 		<string>D</string>
 		<string>Eth</string>
 		<string>Dcaron</string>
@@ -160,12 +156,20 @@
 		<string>Eogonek</string>
 		<string>F</string>
 		<string>G</string>
+		<string>G.alt</string>
+		<string>Gbreve</string>
+		<string>Gbreve.alt</string>
 		<string>Gcommaaccent</string>
+		<string>Gcommaaccent.alt</string>
+		<string>Gdotaccent</string>
+		<string>Gdotaccent.alt</string>
 		<string>H</string>
+		<string>Hbar</string>
 		<string>I</string>
 		<string>Iacute</string>
 		<string>Icircumflex</string>
 		<string>Idieresis</string>
+		<string>Idotaccent</string>
 		<string>Igrave</string>
 		<string>Imacron</string>
 		<string>Iogonek</string>
@@ -176,12 +180,14 @@
 		<string>Lacute</string>
 		<string>Lcaron</string>
 		<string>Lcommaaccent</string>
+		<string>Ldot</string>
 		<string>Lslash</string>
 		<string>M</string>
 		<string>N</string>
 		<string>Nacute</string>
 		<string>Ncaron</string>
 		<string>Ncommaaccent</string>
+		<string>Eng</string>
 		<string>Ntilde</string>
 		<string>O</string>
 		<string>Oacute</string>
@@ -196,17 +202,26 @@
 		<string>P</string>
 		<string>Thorn</string>
 		<string>Q</string>
+		<string>Q.swsh</string>
 		<string>R</string>
+		<string>R.swsh</string>
 		<string>Racute</string>
+		<string>Racute.swsh</string>
 		<string>Rcaron</string>
+		<string>Rcaron.swsh</string>
 		<string>Rcommaaccent</string>
+		<string>Rcommaaccent.swsh</string>
 		<string>S</string>
 		<string>Sacute</string>
 		<string>Scaron</string>
 		<string>Scedilla</string>
+		<string>Scommaaccent</string>
+		<string>Germandbls</string>
 		<string>T</string>
+		<string>Tbar</string>
 		<string>Tcaron</string>
 		<string>Tcedilla</string>
+		<string>Tcommaaccent</string>
 		<string>U</string>
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
@@ -218,33 +233,65 @@
 		<string>Uring</string>
 		<string>V</string>
 		<string>W</string>
+		<string>Wacute</string>
+		<string>Wcircumflex</string>
+		<string>Wdieresis</string>
+		<string>Wgrave</string>
 		<string>X</string>
 		<string>Y</string>
 		<string>Yacute</string>
+		<string>Ycircumflex</string>
 		<string>Ydieresis</string>
+		<string>Ygrave</string>
 		<string>Z</string>
 		<string>Zacute</string>
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
+		<string>W.bold</string>
 		<string>a</string>
+		<string>a.alt</string>
+		<string>a.alt2</string>
 		<string>aacute</string>
+		<string>aacute.alt</string>
+		<string>aacute.alt2</string>
 		<string>abreve</string>
+		<string>abreve.alt</string>
+		<string>abreve.alt2</string>
 		<string>acircumflex</string>
+		<string>acircumflex.alt</string>
+		<string>acircumflex.alt2</string>
 		<string>adieresis</string>
+		<string>adieresis.alt</string>
+		<string>adieresis.alt2</string>
 		<string>agrave</string>
+		<string>agrave.alt</string>
+		<string>agrave.alt2</string>
 		<string>amacron</string>
+		<string>amacron.alt</string>
+		<string>amacron.alt2</string>
 		<string>aogonek</string>
+		<string>aogonek.alt</string>
+		<string>aogonek.alt2</string>
 		<string>aring</string>
+		<string>aring.alt</string>
+		<string>aring.alt2</string>
 		<string>atilde</string>
+		<string>atilde.alt</string>
+		<string>atilde.alt2</string>
 		<string>ae</string>
 		<string>b</string>
 		<string>c</string>
 		<string>cacute</string>
 		<string>ccaron</string>
 		<string>ccedilla</string>
+		<string>cdotaccent</string>
 		<string>d</string>
+		<string>d.alt</string>
 		<string>eth</string>
 		<string>dcaron</string>
+		<string>dcaron.alt</string>
+		<string>dcroat</string>
+		<string>dcroat.alt</string>
 		<string>e</string>
 		<string>eacute</string>
 		<string>ecaron</string>
@@ -255,29 +302,44 @@
 		<string>emacron</string>
 		<string>eogonek</string>
 		<string>f</string>
+		<string>f.alt</string>
 		<string>g</string>
+		<string>g.alt</string>
+		<string>gbreve</string>
+		<string>gbreve.alt</string>
 		<string>gcommaaccent</string>
+		<string>gcommaaccent.alt</string>
+		<string>gdotaccent</string>
+		<string>gdotaccent.alt</string>
 		<string>h</string>
+		<string>hbar</string>
 		<string>i</string>
+		<string>idotless</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
+		<string>idotaccent</string>
 		<string>igrave</string>
 		<string>imacron</string>
 		<string>iogonek</string>
 		<string>j</string>
+		<string>jdotless</string>
 		<string>k</string>
+		<string>k.alt</string>
 		<string>kcommaaccent</string>
+		<string>kcommaaccent.alt</string>
 		<string>l</string>
 		<string>lacute</string>
 		<string>lcaron</string>
 		<string>lcommaaccent</string>
+		<string>ldot</string>
 		<string>lslash</string>
 		<string>m</string>
 		<string>n</string>
 		<string>nacute</string>
 		<string>ncaron</string>
 		<string>ncommaaccent</string>
+		<string>eng</string>
 		<string>ntilde</string>
 		<string>o</string>
 		<string>oacute</string>
@@ -300,31 +362,71 @@
 		<string>sacute</string>
 		<string>scaron</string>
 		<string>scedilla</string>
+		<string>scommaaccent</string>
 		<string>germandbls</string>
+		<string>schwa</string>
 		<string>t</string>
+		<string>t.alt</string>
+		<string>tbar</string>
+		<string>tbar.alt</string>
 		<string>tcaron</string>
+		<string>tcaron.alt</string>
 		<string>tcedilla</string>
+		<string>tcedilla.alt</string>
+		<string>tcommaaccent</string>
+		<string>tcommaaccent.alt</string>
 		<string>u</string>
+		<string>u.alt</string>
 		<string>uacute</string>
+		<string>uacute.alt</string>
 		<string>ucircumflex</string>
+		<string>ucircumflex.alt</string>
 		<string>udieresis</string>
+		<string>udieresis.alt</string>
 		<string>ugrave</string>
+		<string>ugrave.alt</string>
 		<string>uhungarumlaut</string>
+		<string>uhungarumlaut.alt</string>
 		<string>umacron</string>
+		<string>umacron.alt</string>
 		<string>uogonek</string>
+		<string>uogonek.alt</string>
 		<string>uring</string>
+		<string>uring.alt</string>
 		<string>v</string>
 		<string>w</string>
+		<string>wacute</string>
+		<string>wcircumflex</string>
+		<string>wdieresis</string>
+		<string>wgrave</string>
 		<string>x</string>
+		<string>x.alt</string>
 		<string>y</string>
 		<string>yacute</string>
+		<string>ycircumflex</string>
 		<string>ydieresis</string>
+		<string>ygrave</string>
 		<string>z</string>
+		<string>z.alt</string>
 		<string>zacute</string>
+		<string>zacute.alt</string>
 		<string>zcaron</string>
+		<string>zcaron.alt</string>
 		<string>zdotaccent</string>
+		<string>zdotaccent.alt</string>
+		<string>w.bold</string>
+		<string>fi</string>
+		<string>fl</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
+		<string>Be-cy</string>
+		<string>De-cy</string>
+		<string>Zhe-cy</string>
+		<string>Ef-cy</string>
+		<string>Delta</string>
+		<string>Omega</string>
+		<string>mu</string>
+		<string>pi</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -335,6 +437,20 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>two.alt</string>
+		<string>seven.alt</string>
+		<string>zero.slash</string>
+		<string>fraction</string>
+		<string>onehalf</string>
+		<string>onequarter</string>
+		<string>threequarters</string>
+		<string>two.dnom</string>
+		<string>four.dnom</string>
+		<string>one.numr</string>
+		<string>three.numr</string>
+		<string>onesuperior</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>
@@ -362,29 +478,63 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
+		<string>softhyphen</string>
+		<string>guillemetleft</string>
+		<string>guillemetright</string>
 		<string>guilsinglleft</string>
 		<string>guilsinglright</string>
 		<string>quotedblbase</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
 		<string>quoteleft</string>
+		<string>quotereversed</string>
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
+		<string>space</string>
+		<string>nbspace</string>
+		<string>.notdef</string>
+		<string>CR</string>
+		<string>.null</string>
 		<string>cent</string>
 		<string>currency</string>
 		<string>dollar</string>
+		<string>euro</string>
+		<string>florin</string>
+		<string>liraTurkish</string>
+		<string>ruble</string>
 		<string>sterling</string>
 		<string>yen</string>
+		<string>Ohm</string>
+		<string>approxequal</string>
 		<string>asciitilde</string>
+		<string>bulletoperator</string>
+		<string>divisionslash</string>
 		<string>equal</string>
 		<string>greater</string>
+		<string>greaterequal</string>
+		<string>increment</string>
+		<string>infinity</string>
+		<string>integral</string>
 		<string>less</string>
+		<string>lessequal</string>
 		<string>logicalnot</string>
+		<string>micro</string>
 		<string>minus</string>
 		<string>multiply</string>
+		<string>notequal</string>
+		<string>partialdiff</string>
 		<string>percent</string>
+		<string>perthousand</string>
 		<string>plus</string>
 		<string>plusminus</string>
+		<string>product</string>
+		<string>radical</string>
+		<string>summation</string>
+		<string>lozenge</string>
+		<string>afraid</string>
+		<string>angry</string>
+		<string>bar</string>
+		<string>brokenbar</string>
 		<string>at</string>
 		<string>ampersand</string>
 		<string>paragraph</string>
@@ -393,7 +543,49 @@
 		<string>section</string>
 		<string>trademark</string>
 		<string>degree</string>
+		<string>estimated</string>
+		<string>literSign</string>
 		<string>asciicircum</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
+		<string>disgusted</string>
+		<string>happy</string>
+		<string>neutral</string>
+		<string>sad</string>
+		<string>servicemark</string>
+		<string>surprised</string>
+		<string>ampersand.swsh</string>
+		<string>acutecomb</string>
+		<string>caroncomb.alt</string>
+		<string>brevecomb</string>
+		<string>caroncomb</string>
+		<string>cedillacomb</string>
+		<string>circumflexcomb</string>
+		<string>commaaccentcomb</string>
+		<string>commaturnedabovecomb</string>
+		<string>dieresiscomb</string>
+		<string>dotaccentcomb</string>
+		<string>gravecomb</string>
+		<string>hookabovecomb</string>
+		<string>hungarumlautcomb</string>
+		<string>macroncomb</string>
+		<string>ogonekcomb</string>
+		<string>ringcomb</string>
+		<string>slashlongcomb</string>
+		<string>slashshortcomb</string>
+		<string>strokeshortcomb</string>
+		<string>tildecomb</string>
+		<string>commaturnedmod</string>
+		<string>doubleprimemod</string>
+		<string>primemod</string>
+		<string>am</string>
+		<string>neutral.rev</string>
+		<string>happy.rev</string>
+		<string>sad.rev</string>
+		<string>angry.rev</string>
+		<string>surprised.rev</string>
+		<string>afraid.rev</string>
+		<string>disgusted.rev</string>
 	</array>
 </dict>
 </plist>

@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1237"/>
+  <advance width="1633"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="621" y="-11" type="line"/>
-      <point x="629" y="14" type="line"/>
-      <point x="263" y="520" type="line"/>
-      <point x="232" y="520" type="line"/>
-      <point x="616" y="-11" type="line"/>
+      <point x="820" y="-14" type="line"/>
+      <point x="831" y="19" type="line"/>
+      <point x="348" y="686" type="line"/>
+      <point x="306" y="686" type="line"/>
+      <point x="813" y="-14" type="line"/>
     </contour>
     <contour>
-      <point x="413" y="0" type="line"/>
-      <point x="413" y="23" type="line"/>
-      <point x="56" y="23" type="line"/>
-      <point x="56" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="546" y="31" type="line"/>
+      <point x="74" y="31" type="line"/>
+      <point x="74" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="263" y="12" type="line"/>
-      <point x="263" y="453" type="line"/>
-      <point x="263" y="475"/>
-      <point x="263" y="498"/>
-      <point x="263" y="520" type="curve"/>
-      <point x="238" y="520" type="line"/>
-      <point x="238" y="12" type="line"/>
+      <point x="348" y="15" type="line"/>
+      <point x="348" y="598" type="line"/>
+      <point x="348" y="627"/>
+      <point x="348" y="658"/>
+      <point x="348" y="686" type="curve"/>
+      <point x="315" y="686" type="line"/>
+      <point x="315" y="15" type="line"/>
     </contour>
     <contour>
-      <point x="263" y="497" type="line"/>
-      <point x="263" y="520" type="line"/>
-      <point x="56" y="520" type="line"/>
-      <point x="56" y="497" type="line"/>
+      <point x="348" y="655" type="line"/>
+      <point x="348" y="686" type="line"/>
+      <point x="74" y="686" type="line"/>
+      <point x="74" y="655" type="line"/>
     </contour>
     <contour>
-      <point x="1181" y="0" type="line"/>
-      <point x="1181" y="23" type="line"/>
-      <point x="824" y="23" type="line"/>
-      <point x="824" y="0" type="line"/>
+      <point x="1559" y="0" type="line"/>
+      <point x="1559" y="31" type="line"/>
+      <point x="1088" y="31" type="line"/>
+      <point x="1088" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="622" y="-11" type="line"/>
-      <point x="1006" y="520" type="line"/>
-      <point x="974" y="520" type="line"/>
-      <point x="611" y="14" type="line"/>
-      <point x="617" y="-11" type="line"/>
+      <point x="821" y="-14" type="line"/>
+      <point x="1328" y="686" type="line"/>
+      <point x="1286" y="686" type="line"/>
+      <point x="806" y="19" type="line"/>
+      <point x="814" y="-14" type="line"/>
     </contour>
     <contour>
-      <point x="999" y="12" type="line"/>
-      <point x="999" y="520" type="line"/>
-      <point x="974" y="520" type="line"/>
-      <point x="974" y="498"/>
-      <point x="974" y="475"/>
-      <point x="974" y="453" type="curve"/>
-      <point x="974" y="12" type="line"/>
+      <point x="1319" y="15" type="line"/>
+      <point x="1319" y="686" type="line"/>
+      <point x="1286" y="686" type="line"/>
+      <point x="1286" y="658"/>
+      <point x="1286" y="627"/>
+      <point x="1286" y="598" type="curve"/>
+      <point x="1286" y="15" type="line"/>
     </contour>
     <contour>
-      <point x="1181" y="497" type="line"/>
-      <point x="1181" y="520" type="line"/>
-      <point x="974" y="520" type="line"/>
-      <point x="974" y="497" type="line"/>
+      <point x="1559" y="655" type="line"/>
+      <point x="1559" y="686" type="line"/>
+      <point x="1286" y="686" type="line"/>
+      <point x="1286" y="655" type="line"/>
     </contour>
     <contour>
-      <point x="619" y="490" type="move" name="top"/>
+      <point x="817" y="647" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="619" y="-20" type="move" name="bottom"/>
+      <point x="817" y="-26" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="1">
+  <advance width="490"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="355" y="480"/>
+      <point x="437" y="548"/>
+      <point x="437" y="646" type="curve"/>
+      <point x="437" y="747"/>
+      <point x="355" y="811"/>
+      <point x="245" y="811" type="curve"/>
+      <point x="141" y="811"/>
+      <point x="53" y="747"/>
+      <point x="53" y="646" type="curve"/>
+      <point x="53" y="548"/>
+      <point x="141" y="480"/>
+      <point x="245" y="480" type="curve"/>
+    </contour>
+    <contour>
+      <point x="156" y="508"/>
+      <point x="84" y="567"/>
+      <point x="84" y="646" type="curve"/>
+      <point x="84" y="727"/>
+      <point x="156" y="781"/>
+      <point x="245" y="781" type="curve"/>
+      <point x="339" y="781"/>
+      <point x="407" y="727"/>
+      <point x="407" y="646" type="curve"/>
+      <point x="407" y="567"/>
+      <point x="339" y="508"/>
+      <point x="245" y="508" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>degree</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>490</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>degree</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>490</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
