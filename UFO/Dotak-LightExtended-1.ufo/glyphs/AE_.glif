@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="1">
-  <advance width="1874"/>
+  <advance width="1424"/>
   <unicode hex="00C6"/>
   <outline>
     <contour>
-      <point x="244" y="18" type="line"/>
-      <point x="823" y="662" type="line"/>
-      <point x="810" y="662" type="line"/>
-      <point x="1126" y="18" type="line"/>
-      <point x="1163" y="18" type="line"/>
-      <point x="839" y="673" type="line" smooth="yes"/>
-      <point x="788" y="673" type="line"/>
-      <point x="200" y="18" type="line"/>
+      <point x="185" y="14" type="line"/>
+      <point x="625" y="503" type="line"/>
+      <point x="616" y="503" type="line"/>
+      <point x="856" y="14" type="line"/>
+      <point x="884" y="14" type="line"/>
+      <point x="638" y="511" type="line" smooth="yes"/>
+      <point x="599" y="511" type="line"/>
+      <point x="152" y="14" type="line"/>
     </contour>
     <contour>
-      <point x="461" y="0" type="line"/>
-      <point x="461" y="31" type="line"/>
-      <point x="0" y="31" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="350" y="24" type="line"/>
+      <point x="0" y="24" type="line"/>
       <point x="0" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1015" y="256" type="line"/>
-      <point x="1015" y="286" type="line"/>
-      <point x="474" y="286" type="line"/>
-      <point x="442" y="256" type="line"/>
+      <point x="771" y="195" type="line"/>
+      <point x="771" y="217" type="line"/>
+      <point x="360" y="217" type="line"/>
+      <point x="336" y="195" type="line"/>
     </contour>
     <contour>
-      <point x="1702" y="0" type="line"/>
-      <point x="1702" y="242" type="line"/>
-      <point x="1670" y="242" type="line"/>
-      <point x="1670" y="31" type="line"/>
-      <point x="889" y="31" type="line"/>
-      <point x="889" y="0" type="line"/>
+      <point x="1294" y="0" type="line"/>
+      <point x="1294" y="184" type="line"/>
+      <point x="1269" y="184" type="line"/>
+      <point x="1269" y="24" type="line"/>
+      <point x="676" y="24" type="line"/>
+      <point x="676" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1351" y="209" type="line"/>
-      <point x="1351" y="524" type="line"/>
-      <point x="1318" y="524" type="line"/>
-      <point x="1318" y="382" type="line"/>
-      <point x="972" y="382" type="line"/>
-      <point x="972" y="351" type="line"/>
-      <point x="1318" y="351" type="line"/>
-      <point x="1318" y="209" type="line"/>
+      <point x="1027" y="159" type="line"/>
+      <point x="1027" y="398" type="line"/>
+      <point x="1002" y="398" type="line"/>
+      <point x="1002" y="290" type="line"/>
+      <point x="739" y="290" type="line"/>
+      <point x="739" y="267" type="line"/>
+      <point x="1002" y="267" type="line"/>
+      <point x="1002" y="159" type="line"/>
     </contour>
     <contour>
-      <point x="1702" y="444" type="line"/>
-      <point x="1702" y="686" type="line"/>
-      <point x="546" y="686" type="line"/>
-      <point x="546" y="656" type="line"/>
-      <point x="1669" y="656" type="line"/>
-      <point x="1669" y="444" type="line"/>
+      <point x="1294" y="337" type="line"/>
+      <point x="1294" y="521" type="line"/>
+      <point x="415" y="521" type="line"/>
+      <point x="415" y="499" type="line"/>
+      <point x="1268" y="499" type="line"/>
+      <point x="1268" y="337" type="line"/>
     </contour>
     <contour>
-      <point x="1702.0" y="0.0" type="move" name="ogonek"/>
+      <point x="1702" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="1032.0" y="0.0" type="move" name="bottom"/>
+      <point x="1032" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="1034.0" y="686.0" type="move" name="top"/>
+      <point x="1034" y="686" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -85,7 +85,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1874</integer>
+          <integer>1424</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -107,7 +107,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1874</integer>
+          <integer>1424</integer>
         </dict>
       </dict>
     </dict>

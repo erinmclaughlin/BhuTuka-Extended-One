@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.numr" format="1">
-  <advance width="420"/>
+  <advance width="319"/>
   <outline>
     <contour>
-      <point x="153" y="517"/>
-      <point x="226" y="554"/>
-      <point x="252" y="623" type="curve"/>
-      <point x="226" y="634" type="line"/>
-      <point x="206" y="574"/>
-      <point x="141" y="549"/>
-      <point x="74" y="541" type="curve"/>
-      <point x="77" y="510" type="line"/>
+      <point x="116" y="456"/>
+      <point x="172" y="484"/>
+      <point x="192" y="536" type="curve"/>
+      <point x="172" y="545" type="line"/>
+      <point x="157" y="499"/>
+      <point x="107" y="480"/>
+      <point x="56" y="474" type="curve"/>
+      <point x="59" y="450" type="line"/>
     </contour>
     <contour>
-      <point x="381" y="262" type="line"/>
-      <point x="381" y="289" type="line"/>
-      <point x="73" y="289" type="line"/>
-      <point x="73" y="262" type="line"/>
+      <point x="290" y="262" type="line"/>
+      <point x="290" y="283" type="line"/>
+      <point x="55" y="283" type="line"/>
+      <point x="55" y="262" type="line"/>
     </contour>
     <contour>
-      <point x="256" y="262" type="line"/>
-      <point x="256" y="634" type="line"/>
-      <point x="226" y="634" type="line"/>
-      <point x="226" y="262" type="line"/>
+      <point x="195" y="262" type="line"/>
+      <point x="195" y="545" type="line"/>
+      <point x="172" y="545" type="line"/>
+      <point x="172" y="262" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -49,7 +49,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>420</integer>
+          <integer>319</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -71,7 +71,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>420</integer>
+          <integer>319</integer>
         </dict>
       </dict>
     </dict>

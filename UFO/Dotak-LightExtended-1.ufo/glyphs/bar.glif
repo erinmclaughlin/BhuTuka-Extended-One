@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar" format="1">
-  <advance width="363"/>
+  <advance width="276"/>
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="165" y="-193" type="line"/>
-      <point x="198" y="-193" type="line"/>
-      <point x="198" y="837" type="line"/>
-      <point x="165" y="837" type="line"/>
+      <point x="125" y="-193" type="line"/>
+      <point x="150" y="-193" type="line"/>
+      <point x="150" y="590" type="line"/>
+      <point x="125" y="590" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>363</integer>
+          <integer>276</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -56,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>363</integer>
+          <integer>276</integer>
         </dict>
       </dict>
     </dict>

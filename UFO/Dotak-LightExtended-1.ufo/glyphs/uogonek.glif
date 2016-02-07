@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uogonek" format="1">
-  <advance width="1201"/>
+  <advance width="913"/>
   <unicode hex="0173"/>
   <outline>
-    <component base="u"/>
-    <component base="ogonekcomb" xOffset="887" yOffset="25"/>
+    <component base="u" yOffset="-47"/>
+    <component base="ogonekcomb" xOffset="674" yOffset="-28"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1201</integer>
+          <integer>913</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1201</integer>
+          <integer>913</integer>
         </dict>
       </dict>
     </dict>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="1">
-  <advance width="1196"/>
+  <advance width="909"/>
   <unicode hex="00D8"/>
   <outline>
     <contour>
-      <point x="442" y="12" type="line"/>
-      <point x="447" y="20" type="line"/>
-      <point x="780" y="664" type="line"/>
-      <point x="785" y="673" type="line"/>
-      <point x="834" y="767" type="line"/>
-      <point x="798" y="767" type="line"/>
-      <point x="751" y="679" type="line"/>
-      <point x="746" y="669" type="line"/>
-      <point x="414" y="31" type="line"/>
-      <point x="407" y="19" type="line"/>
-      <point x="358" y="-78" type="line"/>
-      <point x="395" y="-78" type="line"/>
+      <point x="336" y="-10" type="line"/>
+      <point x="340" y="-4" type="line"/>
+      <point x="593" y="486" type="line"/>
+      <point x="597" y="493" type="line"/>
+      <point x="634" y="564" type="line"/>
+      <point x="606" y="564" type="line"/>
+      <point x="571" y="497" type="line"/>
+      <point x="567" y="490" type="line"/>
+      <point x="315" y="5" type="line"/>
+      <point x="309" y="-4" type="line"/>
+      <point x="272" y="-78" type="line"/>
+      <point x="300" y="-78" type="line"/>
     </contour>
-    <component base="O"/>
+    <component base="O" yOffset="-19"/>
   </outline>
   <lib>
     <dict>
@@ -43,7 +43,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1196</integer>
+          <integer>909</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -65,7 +65,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1196</integer>
+          <integer>909</integer>
         </dict>
       </dict>
     </dict>

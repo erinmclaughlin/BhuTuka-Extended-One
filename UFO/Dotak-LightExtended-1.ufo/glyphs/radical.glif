@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="radical" format="1">
-  <advance width="846"/>
+  <advance width="643"/>
   <unicode hex="221A"/>
   <outline>
     <contour>
-      <point x="237" y="473" type="line"/>
-      <point x="205" y="460" type="line"/>
-      <point x="447" y="-1" type="line"/>
-      <point x="450" y="-1" type="line"/>
-      <point x="461" y="46" type="line"/>
+      <point x="180" y="359" type="line"/>
+      <point x="156" y="349" type="line"/>
+      <point x="340" y="-1" type="line"/>
+      <point x="342" y="-1" type="line"/>
+      <point x="350" y="35" type="line"/>
     </contour>
     <contour>
-      <point x="748" y="843" type="line"/>
-      <point x="437" y="46" type="line"/>
-      <point x="447" y="-1" type="line"/>
-      <point x="450" y="-1" type="line"/>
-      <point x="780" y="832" type="line"/>
+      <point x="568" y="640" type="line"/>
+      <point x="332" y="35" type="line"/>
+      <point x="340" y="-1" type="line"/>
+      <point x="342" y="-1" type="line"/>
+      <point x="593" y="632" type="line"/>
     </contour>
     <contour>
-      <point x="246" y="447" type="line"/>
-      <point x="237" y="473" type="line"/>
-      <point x="40" y="398" type="line"/>
-      <point x="51" y="369" type="line"/>
+      <point x="187" y="339" type="line"/>
+      <point x="180" y="359" type="line"/>
+      <point x="30" y="302" type="line"/>
+      <point x="39" y="280" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -48,7 +48,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>846</integer>
+          <integer>643</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -70,7 +70,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>846</integer>
+          <integer>643</integer>
         </dict>
       </dict>
     </dict>

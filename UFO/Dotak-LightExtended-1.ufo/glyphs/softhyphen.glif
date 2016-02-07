@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="softhyphen" format="1">
-  <advance width="431"/>
+  <advance width="328"/>
   <outline>
-    <component base="hyphen"/>
+    <component base="hyphen" yOffset="53"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +28,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>431</integer>
+          <integer>328</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -50,7 +50,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>431</integer>
+          <integer>328</integer>
         </dict>
       </dict>
     </dict>

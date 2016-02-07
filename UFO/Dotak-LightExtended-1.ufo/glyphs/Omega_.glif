@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omega" format="1">
-  <advance width="1093"/>
+  <advance width="831"/>
   <unicode hex="03A9"/>
   <outline>
     <component base="Ohm"/>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1093</integer>
+          <integer>831</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1093</integer>
+          <integer>831</integer>
         </dict>
       </dict>
     </dict>

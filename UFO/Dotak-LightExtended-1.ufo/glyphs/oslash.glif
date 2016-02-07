@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash" format="1">
-  <advance width="1055"/>
+  <advance width="802"/>
   <unicode hex="00F8"/>
   <outline>
     <contour>
-      <point x="425" y="2" type="line"/>
-      <point x="432" y="15" type="line"/>
-      <point x="660" y="458" type="line"/>
-      <point x="666" y="470" type="line"/>
-      <point x="709" y="550" type="line"/>
-      <point x="671" y="550" type="line"/>
-      <point x="632" y="475" type="line"/>
-      <point x="625" y="463" type="line"/>
-      <point x="397" y="21" type="line"/>
-      <point x="390" y="9" type="line"/>
-      <point x="346" y="-78" type="line"/>
-      <point x="382" y="-78" type="line"/>
+      <point x="323" y="-17" type="line"/>
+      <point x="328" y="-7" type="line"/>
+      <point x="502" y="329" type="line"/>
+      <point x="506" y="338" type="line"/>
+      <point x="539" y="399" type="line"/>
+      <point x="510" y="399" type="line"/>
+      <point x="480" y="342" type="line"/>
+      <point x="475" y="333" type="line"/>
+      <point x="302" y="-3" type="line"/>
+      <point x="296" y="-12" type="line"/>
+      <point x="263" y="-78" type="line"/>
+      <point x="290" y="-78" type="line"/>
     </contour>
-    <component base="o"/>
+    <component base="o" yOffset="-19"/>
   </outline>
   <lib>
     <dict>
@@ -45,7 +45,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1055</integer>
+          <integer>802</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -67,7 +67,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1055</integer>
+          <integer>802</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

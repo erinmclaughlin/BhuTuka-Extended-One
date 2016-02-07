@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccentcomb" format="1">
-  <advance width="336"/>
+  <advance width="255"/>
   <outline>
     <contour>
-      <point x="209" y="836"/>
-      <point x="230" y="853"/>
-      <point x="230" y="876" type="curve"/>
-      <point x="230" y="899"/>
-      <point x="209" y="916"/>
-      <point x="167" y="916" type="curve"/>
-      <point x="128" y="916"/>
-      <point x="106" y="899"/>
-      <point x="106" y="876" type="curve"/>
-      <point x="106" y="853"/>
-      <point x="128" y="836"/>
-      <point x="167" y="836" type="curve"/>
+      <point x="159" y="836"/>
+      <point x="175" y="849"/>
+      <point x="175" y="866" type="curve"/>
+      <point x="175" y="884"/>
+      <point x="159" y="897"/>
+      <point x="127" y="897" type="curve"/>
+      <point x="97" y="897"/>
+      <point x="81" y="884"/>
+      <point x="81" y="866" type="curve"/>
+      <point x="81" y="849"/>
+      <point x="97" y="836"/>
+      <point x="127" y="836" type="curve"/>
     </contour>
     <contour>
-      <point x="167.0" y="686.0" type="move" name="_top"/>
+      <point x="142" y="686" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -44,7 +44,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>336</integer>
+          <integer>255</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -66,7 +66,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>336</integer>
+          <integer>255</integer>
         </dict>
       </dict>
     </dict>

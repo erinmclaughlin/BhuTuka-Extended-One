@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Agrave.alt" format="1">
-  <advance width="1357"/>
+  <advance width="1031"/>
   <outline>
     <component base="A.alt"/>
-    <component base="gravecomb" xOffset="369"/>
+    <component base="gravecomb" xOffset="280"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1357</integer>
+          <integer>1031</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1357</integer>
+          <integer>1031</integer>
         </dict>
       </dict>
     </dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gbreve.alt" format="1">
-  <advance width="1187"/>
+  <advance width="902"/>
   <outline>
-    <component base="G.alt"/>
-    <component base="brevecomb" xOffset="259" yOffset="14"/>
+    <component base="G.alt" yOffset="-3"/>
+    <component base="brevecomb" xOffset="197" yOffset="8"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1187</integer>
+          <integer>902</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1187</integer>
+          <integer>902</integer>
         </dict>
       </dict>
     </dict>

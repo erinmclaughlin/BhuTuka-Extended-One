@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="1256"/>
+  <advance width="955"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="152" y="444" type="line"/>
-      <point x="152" y="656" type="line"/>
-      <point x="1104" y="656" type="line"/>
-      <point x="1104" y="444" type="line"/>
-      <point x="1137" y="444" type="line"/>
-      <point x="1137" y="686" type="line"/>
-      <point x="119" y="686" type="line"/>
-      <point x="119" y="444" type="line"/>
+      <point x="116" y="337" type="line"/>
+      <point x="116" y="499" type="line"/>
+      <point x="839" y="499" type="line"/>
+      <point x="839" y="337" type="line"/>
+      <point x="864" y="337" type="line"/>
+      <point x="864" y="521" type="line"/>
+      <point x="90" y="521" type="line"/>
+      <point x="90" y="337" type="line"/>
     </contour>
     <contour>
-      <point x="898" y="0" type="line"/>
-      <point x="898" y="31" type="line"/>
-      <point x="358" y="31" type="line"/>
-      <point x="358" y="0" type="line"/>
+      <point x="682" y="0" type="line"/>
+      <point x="682" y="24" type="line"/>
+      <point x="272" y="24" type="line"/>
+      <point x="272" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="645" y="18" type="line"/>
-      <point x="645" y="669" type="line"/>
-      <point x="612" y="669" type="line"/>
-      <point x="612" y="18" type="line"/>
+      <point x="490" y="14" type="line"/>
+      <point x="490" y="508" type="line"/>
+      <point x="465" y="508" type="line"/>
+      <point x="465" y="14" type="line"/>
     </contour>
     <contour>
-      <point x="628.0" y="323.0" type="move" name="center"/>
+      <point x="599" y="323" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="628.0" y="0.0" type="move" name="bottom"/>
+      <point x="599" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="628.0" y="686.0" type="move" name="top"/>
+      <point x="599" y="686" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -59,7 +59,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1256</integer>
+          <integer>955</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -81,7 +81,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1256</integer>
+          <integer>955</integer>
         </dict>
       </dict>
     </dict>

@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1633"/>
+  <advance width="1241"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="820" y="-14" type="line"/>
-      <point x="831" y="19" type="line"/>
-      <point x="348" y="686" type="line"/>
-      <point x="306" y="686" type="line"/>
-      <point x="813" y="-14" type="line"/>
+      <point x="623" y="-14" type="line"/>
+      <point x="632" y="11" type="line"/>
+      <point x="264" y="518" type="line"/>
+      <point x="233" y="518" type="line"/>
+      <point x="618" y="-14" type="line"/>
     </contour>
     <contour>
-      <point x="546" y="0" type="line"/>
-      <point x="546" y="31" type="line"/>
-      <point x="74" y="31" type="line"/>
-      <point x="74" y="0" type="line"/>
+      <point x="415" y="-3" type="line"/>
+      <point x="415" y="20" type="line"/>
+      <point x="56" y="20" type="line"/>
+      <point x="56" y="-3" type="line"/>
     </contour>
     <contour>
-      <point x="348" y="15" type="line"/>
-      <point x="348" y="598" type="line"/>
-      <point x="348" y="627"/>
-      <point x="348" y="658"/>
-      <point x="348" y="686" type="curve"/>
-      <point x="315" y="686" type="line"/>
-      <point x="315" y="15" type="line"/>
+      <point x="264" y="8" type="line"/>
+      <point x="264" y="451" type="line"/>
+      <point x="264" y="473"/>
+      <point x="264" y="497"/>
+      <point x="264" y="518" type="curve"/>
+      <point x="239" y="518" type="line"/>
+      <point x="239" y="8" type="line"/>
     </contour>
     <contour>
-      <point x="348" y="655" type="line"/>
-      <point x="348" y="686" type="line"/>
-      <point x="74" y="686" type="line"/>
-      <point x="74" y="655" type="line"/>
+      <point x="264" y="494" type="line"/>
+      <point x="264" y="518" type="line"/>
+      <point x="56" y="518" type="line"/>
+      <point x="56" y="494" type="line"/>
     </contour>
     <contour>
-      <point x="1559" y="0" type="line"/>
-      <point x="1559" y="31" type="line"/>
-      <point x="1088" y="31" type="line"/>
-      <point x="1088" y="0" type="line"/>
+      <point x="1185" y="-3" type="line"/>
+      <point x="1185" y="20" type="line"/>
+      <point x="827" y="20" type="line"/>
+      <point x="827" y="-3" type="line"/>
     </contour>
     <contour>
-      <point x="821" y="-14" type="line"/>
-      <point x="1328" y="686" type="line"/>
-      <point x="1286" y="686" type="line"/>
-      <point x="806" y="19" type="line"/>
-      <point x="814" y="-14" type="line"/>
+      <point x="624" y="-14" type="line"/>
+      <point x="1009" y="518" type="line"/>
+      <point x="977" y="518" type="line"/>
+      <point x="613" y="11" type="line"/>
+      <point x="619" y="-14" type="line"/>
     </contour>
     <contour>
-      <point x="1319" y="15" type="line"/>
-      <point x="1319" y="686" type="line"/>
-      <point x="1286" y="686" type="line"/>
-      <point x="1286" y="658"/>
-      <point x="1286" y="627"/>
-      <point x="1286" y="598" type="curve"/>
-      <point x="1286" y="15" type="line"/>
+      <point x="1002" y="8" type="line"/>
+      <point x="1002" y="518" type="line"/>
+      <point x="977" y="518" type="line"/>
+      <point x="977" y="497"/>
+      <point x="977" y="473"/>
+      <point x="977" y="451" type="curve"/>
+      <point x="977" y="8" type="line"/>
     </contour>
     <contour>
-      <point x="1559" y="655" type="line"/>
-      <point x="1559" y="686" type="line"/>
-      <point x="1286" y="686" type="line"/>
-      <point x="1286" y="655" type="line"/>
+      <point x="1185" y="494" type="line"/>
+      <point x="1185" y="518" type="line"/>
+      <point x="977" y="518" type="line"/>
+      <point x="977" y="494" type="line"/>
     </contour>
     <contour>
-      <point x="817.0" y="647.0" type="move" name="top"/>
+      <point x="799" y="647" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="817.0" y="-26.0" type="move" name="bottom"/>
+      <point x="799" y="-26" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -90,7 +90,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1633</integer>
+          <integer>1241</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -112,7 +112,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1633</integer>
+          <integer>1241</integer>
         </dict>
       </dict>
     </dict>

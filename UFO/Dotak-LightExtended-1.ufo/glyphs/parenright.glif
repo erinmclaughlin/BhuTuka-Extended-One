@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenright" format="1">
-  <advance width="464"/>
+  <advance width="353"/>
   <unicode hex="0029"/>
   <outline>
     <contour>
-      <point x="141" y="-58"/>
-      <point x="339" y="91"/>
-      <point x="339" y="350" type="curve"/>
-      <point x="339" y="608"/>
-      <point x="141" y="758"/>
-      <point x="31" y="817" type="curve"/>
-      <point x="20" y="792" type="line"/>
-      <point x="117" y="734"/>
-      <point x="306" y="598"/>
-      <point x="306" y="350" type="curve"/>
-      <point x="306" y="101"/>
-      <point x="117" y="-34"/>
-      <point x="20" y="-92" type="curve"/>
-      <point x="31" y="-118" type="line"/>
+      <point x="107" y="-72"/>
+      <point x="258" y="41"/>
+      <point x="258" y="238" type="curve"/>
+      <point x="258" y="434"/>
+      <point x="107" y="548"/>
+      <point x="24" y="593" type="curve"/>
+      <point x="15" y="574" type="line"/>
+      <point x="89" y="530"/>
+      <point x="233" y="426"/>
+      <point x="233" y="238" type="curve"/>
+      <point x="233" y="48"/>
+      <point x="89" y="-54"/>
+      <point x="15" y="-98" type="curve"/>
+      <point x="24" y="-118" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -44,7 +44,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>464</integer>
+          <integer>353</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -66,7 +66,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>464</integer>
+          <integer>353</integer>
         </dict>
       </dict>
     </dict>

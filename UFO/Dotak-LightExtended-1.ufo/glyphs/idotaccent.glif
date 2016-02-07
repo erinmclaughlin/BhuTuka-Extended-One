@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotaccent" format="1">
-  <advance width="619"/>
+  <advance width="470"/>
   <outline>
     <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="139" yOffset="-215"/>
+    <component base="dotaccentcomb" xOffset="106" yOffset="-163"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>619</integer>
+          <integer>470</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>619</integer>
+          <integer>470</integer>
         </dict>
       </dict>
     </dict>

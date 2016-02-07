@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iacute" format="1">
-  <advance width="661"/>
+  <advance width="502"/>
   <unicode hex="00CD"/>
   <outline>
     <component base="I"/>
-    <component base="acutecomb" xOffset="175"/>
+    <component base="acutecomb" xOffset="133"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>661</integer>
+          <integer>502</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>661</integer>
+          <integer>502</integer>
         </dict>
       </dict>
     </dict>

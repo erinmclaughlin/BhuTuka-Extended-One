@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcommaaccent.alt" format="1">
-  <advance width="635"/>
+  <advance width="483"/>
   <outline>
-    <component base="t.alt"/>
-    <component base="commaaccentcomb" xOffset="177" yOffset="-13"/>
+    <component base="t.alt" yOffset="-91"/>
+    <component base="commaaccentcomb" xOffset="135" yOffset="-101"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>635</integer>
+          <integer>483</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>635</integer>
+          <integer>483</integer>
         </dict>
       </dict>
     </dict>

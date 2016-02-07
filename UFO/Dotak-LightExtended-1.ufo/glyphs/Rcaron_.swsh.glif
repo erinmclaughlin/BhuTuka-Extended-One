@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcaron.swsh" format="1">
-  <advance width="1222"/>
+  <advance width="929"/>
   <outline>
-    <component base="R.swsh"/>
-    <component base="caroncomb" xOffset="364"/>
+    <component base="R.swsh" yOffset="-89"/>
+    <component base="caroncomb" xOffset="277" yOffset="-89"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1222</integer>
+          <integer>929</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1222</integer>
+          <integer>929</integer>
         </dict>
       </dict>
     </dict>

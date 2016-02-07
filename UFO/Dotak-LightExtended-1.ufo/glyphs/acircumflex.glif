@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflex" format="1">
-  <advance width="1062"/>
+  <advance width="807"/>
   <unicode hex="00E2"/>
   <outline>
-    <component base="a"/>
-    <component base="circumflexcomb" xOffset="201" yOffset="-202"/>
+    <component base="a" yOffset="-3"/>
+    <component base="circumflexcomb" xOffset="153" yOffset="-157"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1062</integer>
+          <integer>807</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1062</integer>
+          <integer>807</integer>
         </dict>
       </dict>
     </dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kcommaaccent.alt" format="1">
-  <advance width="1110"/>
+  <advance width="844"/>
   <outline>
-    <component base="k.alt"/>
-    <component base="commaaccentcomb" xOffset="458"/>
+    <component base="k.alt" yOffset="-88"/>
+    <component base="commaaccentcomb" xOffset="348" yOffset="-88"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1110</integer>
+          <integer>844</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1110</integer>
+          <integer>844</integer>
         </dict>
       </dict>
     </dict>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ygrave" format="1">
-  <advance width="1005"/>
+  <advance width="764"/>
   <unicode hex="1EF3"/>
   <outline>
-    <component base="y"/>
-    <component base="gravecomb" xOffset="197" yOffset="-215"/>
+    <component base="y" yOffset="-57"/>
+    <component base="gravecomb" xOffset="150" yOffset="-221"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1005</integer>
+          <integer>764</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1005</integer>
+          <integer>764</integer>
         </dict>
       </dict>
     </dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcedilla.alt" format="1">
-  <advance width="635"/>
+  <advance width="483"/>
   <outline>
-    <component base="t.alt"/>
-    <component base="cedillacomb" xOffset="116" yOffset="-13"/>
+    <component base="t.alt" yOffset="-59"/>
+    <component base="cedillacomb" xOffset="88" yOffset="-68"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>635</integer>
+          <integer>483</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>635</integer>
+          <integer>483</integer>
         </dict>
       </dict>
     </dict>

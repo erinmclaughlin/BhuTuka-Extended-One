@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zacute.alt" format="1">
-  <advance width="906"/>
+  <advance width="689"/>
   <outline>
     <component base="z.alt"/>
-    <component base="acutecomb" xOffset="314" yOffset="-215"/>
+    <component base="acutecomb" xOffset="239" yOffset="-163"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>906</integer>
+          <integer>689</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>906</integer>
+          <integer>689</integer>
         </dict>
       </dict>
     </dict>

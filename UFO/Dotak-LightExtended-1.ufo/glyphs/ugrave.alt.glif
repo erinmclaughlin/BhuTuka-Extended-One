@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugrave.alt" format="1">
-  <advance width="1159"/>
+  <advance width="881"/>
   <outline>
-    <component base="u.alt"/>
-    <component base="gravecomb" xOffset="254" yOffset="-228"/>
+    <component base="u.alt" yOffset="-3"/>
+    <component base="gravecomb" xOffset="193" yOffset="-176"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1159</integer>
+          <integer>881</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1159</integer>
+          <integer>881</integer>
         </dict>
       </dict>
     </dict>

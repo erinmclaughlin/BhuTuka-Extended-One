@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wacute" format="1">
-  <advance width="1288"/>
+  <advance width="979"/>
   <unicode hex="1E83"/>
   <outline>
-    <component base="w"/>
-    <component base="acutecomb" xOffset="485" yOffset="-215"/>
+    <component base="w" yOffset="-3"/>
+    <component base="acutecomb" xOffset="369" yOffset="-167"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1288</integer>
+          <integer>979</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1288</integer>
+          <integer>979</integer>
         </dict>
       </dict>
     </dict>

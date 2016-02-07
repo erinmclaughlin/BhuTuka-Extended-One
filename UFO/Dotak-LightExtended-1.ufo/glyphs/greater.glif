@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="1">
-  <advance width="758"/>
+  <advance width="576"/>
   <unicode hex="003E"/>
   <outline>
     <contour>
-      <point x="705" y="312" type="line"/>
-      <point x="669" y="322" type="line"/>
-      <point x="106" y="95" type="line"/>
-      <point x="106" y="62" type="line"/>
-      <point x="705" y="309" type="line"/>
+      <point x="536" y="252" type="line"/>
+      <point x="508" y="260" type="line"/>
+      <point x="81" y="87" type="line"/>
+      <point x="81" y="62" type="line"/>
+      <point x="536" y="250" type="line"/>
     </contour>
     <contour>
-      <point x="705" y="312" type="line"/>
-      <point x="106" y="559" type="line"/>
-      <point x="106" y="526" type="line"/>
-      <point x="669" y="299" type="line"/>
-      <point x="705" y="309" type="line"/>
+      <point x="536" y="252" type="line"/>
+      <point x="81" y="440" type="line"/>
+      <point x="81" y="415" type="line"/>
+      <point x="508" y="242" type="line"/>
+      <point x="536" y="250" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>758</integer>
+          <integer>576</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -64,7 +64,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>758</integer>
+          <integer>576</integer>
         </dict>
       </dict>
     </dict>

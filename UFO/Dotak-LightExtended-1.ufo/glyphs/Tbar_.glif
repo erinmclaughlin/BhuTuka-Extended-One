@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tbar" format="1">
-  <advance width="1216"/>
+  <advance width="924"/>
   <unicode hex="0166"/>
   <outline>
     <contour>
-      <point x="903" y="288" type="line"/>
-      <point x="903" y="317" type="line"/>
-      <point x="312" y="317" type="line"/>
-      <point x="312" y="288" type="line"/>
+      <point x="686" y="219" type="line"/>
+      <point x="686" y="241" type="line"/>
+      <point x="237" y="241" type="line"/>
+      <point x="237" y="219" type="line"/>
     </contour>
     <component base="T"/>
   </outline>
@@ -35,7 +35,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1216</integer>
+          <integer>924</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -57,7 +57,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1216</integer>
+          <integer>924</integer>
         </dict>
       </dict>
     </dict>

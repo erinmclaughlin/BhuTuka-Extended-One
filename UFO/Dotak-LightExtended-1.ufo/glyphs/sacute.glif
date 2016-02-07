@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sacute" format="1">
-  <advance width="981"/>
+  <advance width="746"/>
   <unicode hex="015B"/>
   <outline>
-    <component base="s"/>
-    <component base="acutecomb" xOffset="332" yOffset="-202"/>
+    <component base="s" yOffset="-3"/>
+    <component base="acutecomb" xOffset="252" yOffset="-157"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>981</integer>
+          <integer>746</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>981</integer>
+          <integer>746</integer>
         </dict>
       </dict>
     </dict>

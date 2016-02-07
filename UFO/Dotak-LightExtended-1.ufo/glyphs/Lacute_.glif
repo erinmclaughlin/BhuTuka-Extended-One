@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lacute" format="1">
-  <advance width="1108"/>
+  <advance width="842"/>
   <unicode hex="0139"/>
   <outline>
     <component base="L"/>
-    <component base="acutecomb" xOffset="156"/>
+    <component base="acutecomb" xOffset="119"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1108</integer>
+          <integer>842</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1108</integer>
+          <integer>842</integer>
         </dict>
       </dict>
     </dict>

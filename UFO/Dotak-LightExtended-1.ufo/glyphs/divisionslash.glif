@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divisionslash" format="1">
-  <advance width="606"/>
+  <advance width="461"/>
   <outline>
     <contour>
-      <point x="560" y="806" type="line"/>
-      <point x="520" y="806" type="line"/>
-      <point x="28" y="-171" type="line"/>
-      <point x="67" y="-171" type="line"/>
+      <point x="426" y="572" type="line"/>
+      <point x="395" y="572" type="line"/>
+      <point x="21" y="-171" type="line"/>
+      <point x="51" y="-171" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>606</integer>
+          <integer>461</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -55,7 +55,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>606</integer>
+          <integer>461</integer>
         </dict>
       </dict>
     </dict>

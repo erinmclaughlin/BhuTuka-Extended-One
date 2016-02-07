@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zcaron" format="1">
-  <advance width="1140"/>
+  <advance width="866"/>
   <unicode hex="017D"/>
   <outline>
     <component base="Z"/>
-    <component base="caroncomb" xOffset="267"/>
+    <component base="caroncomb" xOffset="203"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1140</integer>
+          <integer>866</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1140</integer>
+          <integer>866</integer>
         </dict>
       </dict>
     </dict>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bulletoperator" format="1">
-  <advance width="422"/>
+  <advance width="321"/>
   <outline>
     <contour>
-      <point x="277" y="264"/>
-      <point x="311" y="292"/>
-      <point x="311" y="328" type="curve"/>
-      <point x="311" y="367"/>
-      <point x="277" y="396"/>
-      <point x="211" y="396" type="curve"/>
-      <point x="147" y="396"/>
-      <point x="111" y="367"/>
-      <point x="111" y="328" type="curve"/>
-      <point x="111" y="292"/>
-      <point x="147" y="264"/>
-      <point x="211" y="264" type="curve"/>
+      <point x="211" y="264"/>
+      <point x="236" y="285"/>
+      <point x="236" y="313" type="curve"/>
+      <point x="236" y="342"/>
+      <point x="211" y="364"/>
+      <point x="160" y="364" type="curve"/>
+      <point x="112" y="364"/>
+      <point x="84" y="342"/>
+      <point x="84" y="313" type="curve"/>
+      <point x="84" y="285"/>
+      <point x="112" y="264"/>
+      <point x="160" y="264" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>422</integer>
+          <integer>321</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -63,7 +63,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>422</integer>
+          <integer>321</integer>
         </dict>
       </dict>
     </dict>

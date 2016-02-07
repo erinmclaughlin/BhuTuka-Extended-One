@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="1">
-  <advance width="430"/>
+  <advance width="327"/>
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="37" y="252" type="line"/>
-      <point x="37" y="220" type="line"/>
-      <point x="394" y="220" type="line"/>
-      <point x="394" y="252" type="line"/>
+      <point x="28" y="244" type="line"/>
+      <point x="28" y="220" type="line"/>
+      <point x="299" y="220" type="line"/>
+      <point x="299" y="244" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>430</integer>
+          <integer>327</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -56,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>430</integer>
+          <integer>327</integer>
         </dict>
       </dict>
     </dict>

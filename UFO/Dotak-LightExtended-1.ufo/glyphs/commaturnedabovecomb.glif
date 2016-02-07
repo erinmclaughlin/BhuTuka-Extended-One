@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaturnedabovecomb" format="1">
-  <advance width="329"/>
+  <advance width="250"/>
   <outline>
     <contour>
-      <point x="92" y="838"/>
-      <point x="119" y="814"/>
-      <point x="157" y="814" type="curve" smooth="yes"/>
-      <point x="194" y="814"/>
-      <point x="217" y="833"/>
-      <point x="217" y="856" type="curve" smooth="yes"/>
-      <point x="217" y="878"/>
-      <point x="196" y="892"/>
-      <point x="165" y="892" type="curve" smooth="yes"/>
-      <point x="147" y="892"/>
-      <point x="133" y="890"/>
-      <point x="119" y="887" type="curve"/>
-      <point x="128" y="945"/>
-      <point x="171" y="992"/>
-      <point x="237" y="1052" type="curve"/>
-      <point x="222" y="1068" type="line"/>
-      <point x="141" y="1004"/>
-      <point x="92" y="933"/>
-      <point x="92" y="877" type="curve" smooth="yes"/>
+      <point x="70" y="832"/>
+      <point x="90" y="814"/>
+      <point x="119" y="814" type="curve" smooth="yes"/>
+      <point x="147" y="814"/>
+      <point x="165" y="828"/>
+      <point x="165" y="846" type="curve" smooth="yes"/>
+      <point x="165" y="863"/>
+      <point x="149" y="873"/>
+      <point x="125" y="873" type="curve" smooth="yes"/>
+      <point x="112" y="873"/>
+      <point x="101" y="872"/>
+      <point x="90" y="869" type="curve"/>
+      <point x="97" y="914"/>
+      <point x="130" y="949"/>
+      <point x="180" y="995" type="curve"/>
+      <point x="169" y="1007" type="line"/>
+      <point x="107" y="958"/>
+      <point x="70" y="904"/>
+      <point x="70" y="862" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="158.0" y="686.0" type="move" name="_top"/>
+      <point x="136" y="686" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>329</integer>
+          <integer>250</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -73,7 +73,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>329</integer>
+          <integer>250</integer>
         </dict>
       </dict>
     </dict>

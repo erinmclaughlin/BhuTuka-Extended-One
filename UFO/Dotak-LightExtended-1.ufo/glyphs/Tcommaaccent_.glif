@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcommaaccent" format="1">
-  <advance width="1256"/>
+  <advance width="955"/>
   <unicode hex="0162"/>
   <outline>
-    <component base="T"/>
-    <component base="commaaccentcomb" xOffset="461"/>
+    <component base="T" yOffset="-88"/>
+    <component base="commaaccentcomb" xOffset="350" yOffset="-88"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1256</integer>
+          <integer>955</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1256</integer>
+          <integer>955</integer>
         </dict>
       </dict>
     </dict>

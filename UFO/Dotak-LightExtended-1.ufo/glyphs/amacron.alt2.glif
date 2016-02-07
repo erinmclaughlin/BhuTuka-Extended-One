@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="amacron.alt2" format="1">
-  <advance width="1138"/>
+  <advance width="865"/>
   <outline>
-    <component base="a.alt2"/>
-    <component base="macroncomb" xOffset="146" yOffset="-202"/>
+    <component base="a.alt2" yOffset="-3"/>
+    <component base="macroncomb" xOffset="111" yOffset="-157"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1138</integer>
+          <integer>865</integer>
         </dict>
         <key>mask</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1138</integer>
+          <integer>865</integer>
         </dict>
       </dict>
     </dict>
