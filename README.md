@@ -1,4 +1,4 @@
-# Dotak
+# Dotak ਦੋਤਕ
 =====
 
 Dotak is a Gurmukhi companion to Aoife's BioRhyme Light Extended typeface. It was designed by [Erin McLaughlin](http://www.erinmclaughlin.com). 
