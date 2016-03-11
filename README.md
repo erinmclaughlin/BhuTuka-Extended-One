@@ -1,9 +1,9 @@
-# BhuTuka ਭੂਤੁਕਾ
+# BhuTuka One ਭੂਤੁਕਾ
 =====
 
 BhuTuka One is a Gurmukhi companion to Aoife's BioRhyme Light Extended typeface. It was designed by [Erin McLaughlin](http://www.erinmclaughlin.com). 
 
-BhuTuka will be available for free via the Google Web Fonts project.
+BhuTuka One will be available for free via the Google Web Fonts project.
 
 Feel free to contact me at hello@erinmclaughlin.com with comments or questions.
 
