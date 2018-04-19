@@ -1,4 +1,4 @@
-# BhuTuka Extended One ਭੂਤੁਕਾ
+# BhuTuka Extended One ਭੂਤੁਕ
 =====
 
 BhuTuka Extended One is a Gurmukhi companion to Aoife's BioRhyme Light Extended typeface. It was designed by [Erin McLaughlin](http://www.erinmclaughlin.com). 
